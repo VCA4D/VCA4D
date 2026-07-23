@@ -98,6 +98,12 @@
       "iso": "cm"
     },
     {
+      "id": "chad",
+      "prettyName": "Chad",
+      "continent": "Africa",
+      "iso": "td"
+    },
+    {
       "id": "colombia",
       "prettyName": "Colombia",
       "continent": "America",
@@ -108,6 +114,12 @@
       "prettyName": "Comoros",
       "continent": "Africa",
       "iso": "km"
+    },
+    {
+      "id": "democratic-republic-of-the-congo",
+      "prettyName": "Democratic Republic of the Congo",
+      "continent": "Africa",
+      "iso": "cd"
     },
     {
       "id": "dominican-republic",
@@ -132,6 +144,12 @@
       "prettyName": "Ethiopia",
       "continent": "Africa",
       "iso": "et"
+    },
+    {
+      "id": "french-polynesia",
+      "prettyName": "French polynesia",
+      "continent": "Asia - Pacific",
+      "iso": "pf"
     },
     {
       "id": "gambia",
@@ -194,6 +212,24 @@
       "iso": "ml"
     },
     {
+      "id": "moldova",
+      "prettyName": "Moldova",
+      "continent": "Europe",
+      "iso": "md"
+    },
+    {
+      "id": "mongolia",
+      "prettyName": "Mongolia",
+      "continent": "Asia - Pacific",
+      "iso": "mn"
+    },
+    {
+      "id": "new-caledonia",
+      "prettyName": "New Caledonia",
+      "continent": "Asia - Pacific",
+      "iso": "nc"
+    },
+    {
       "id": "nicaragua",
       "prettyName": "Nicaragua",
       "continent": "America",
@@ -230,10 +266,22 @@
       "iso": "sl"
     },
     {
+      "id": "somalia",
+      "prettyName": "Somalia",
+      "continent": "Africa",
+      "iso": "so"
+    },
+    {
       "id": "tanzania",
       "prettyName": "Tanzania",
       "continent": "Africa",
       "iso": "tz"
+    },
+    {
+      "id": "tajikistan",
+      "prettyName": "Tajikistan",
+      "continent": "Asia - Pacific",
+      "iso": "tj"
     },
     {
       "id": "togo",
