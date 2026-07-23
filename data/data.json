@@ -21,11 +21,7 @@
       "prettyName": "Animal products",
       "color": "#C46D4D",
       "textColor": "#C46D4D",
-      "commodities": [
-        "beef",
-        "egg",
-        "milk"
-      ]
+      "commodities": ["beef", "egg", "milk"]
     },
     {
       "id": "crop",
@@ -184,6 +180,12 @@
       "prettyName": "Liberia",
       "continent": "Africa",
       "iso": "lr"
+    },
+    {
+      "id": "madagascar",
+      "prettyName": "Madagascar",
+      "continent": "Africa",
+      "iso": "mg"
     },
     {
       "id": "mali",
