@@ -92,7 +92,7 @@ export const processSocialExcelFile = (workbook) => {
   const sheetNameForSustainabilityData = 'Questionnaire'
   const questionnaireSheet = workbook.Sheets[sheetNameForSustainabilityData]
   const country = slugify(questionnaireSheet['D1']?.v)
-  const commodity = questionnaireSheet['B1']?.v.trim()
+  const commodity = slugify(questionnaireSheet['B1']?.v.trim())
   const year = null
   return {
     id: slugify(commodity + '-' + country),

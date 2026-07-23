@@ -171,7 +171,7 @@ export const processUploadedExcelFile = (workbook) => {
     const currencies = readingOfCurrencies(excelData)
     result = {
       ...buildIdentifiers(
-        getValueChainProperty(excelData, HOME_LABELS.Commodity),
+        slugify(getValueChainProperty(excelData, HOME_LABELS.Commodity)),
         slugify(getValueChainProperty(excelData, HOME_LABELS.Country))
       ),
       year,
@@ -182,7 +182,7 @@ export const processUploadedExcelFile = (workbook) => {
   } else if (typeOfFile === TypesOfFile.Environment) {
     result = {
       ...buildIdentifiers(
-        getValueChainProperty(excelData, HOME_LABELS.Commodity),
+        slugify(getValueChainProperty(excelData, HOME_LABELS.Commodity)),
         slugify(getValueChainProperty(excelData, HOME_LABELS.Country))
       ),
       type: 'ACV',

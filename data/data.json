@@ -13,8 +13,8 @@
         "mango",
         "mango|lime",
         "vanilla",
-        "palm oil",
-        "pine nut"
+        "palm-oil",
+        "pine-nut"
       ]
     },
     {
@@ -34,11 +34,11 @@
         "cotton",
         "groundnut",
         "cowpea",
-        "green beans",
+        "green-beans",
         "maize",
         "sorghum",
         "pineapple",
-        "food flour",
+        "food-flour",
         "sesame",
         "wheat",
         "sunflower",
@@ -51,10 +51,10 @@
       "color": "#0073CF",
       "textColor": "#0073CF",
       "commodities": [
-        "freshwater aquaculture",
+        "freshwater-aquaculture",
         "aquaculture",
-        "coastal fisheries",
-        "inland fisheries",
+        "coastal-fisheries",
+        "inland-fisheries",
         "fisheries",
         "shrimp"
       ]
@@ -434,7 +434,7 @@
       "title": "Freshwater Aquaculture",
       "year": 2020,
       "country": "georgia",
-      "product": "freshwater aquaculture"
+      "product": "freshwater-aquaculture"
     },
     {
       "id": "groundnut-ghana",
@@ -490,7 +490,7 @@
       "title": "kenya Green Beans",
       "year": null,
       "country": "kenya",
-      "product": "green beans"
+      "product": "green-beans"
     },
     {
       "id": "cocoa-liberia",
@@ -511,7 +511,7 @@
       "title": "mali inland fisheries",
       "year": 2020,
       "country": "mali",
-      "product": "inland fisheries"
+      "product": "inland-fisheries"
     },
     {
       "id": "cocoa-nicaragua",
@@ -574,14 +574,14 @@
       "title": "sierra-leone Palm Oil",
       "year": null,
       "country": "sierra-leone",
-      "product": "palm oil"
+      "product": "palm-oil"
     },
     {
       "id": "coastal-fisheries-tanzania",
       "title": "tanzania Coastal Fisheries",
       "year": 2020,
       "country": "tanzania",
-      "product": "coastal fisheries"
+      "product": "coastal-fisheries"
     },
     {
       "id": "coffee-tanzania",
@@ -660,7 +660,7 @@
       "prettyName": "Vanilla"
     },
     {
-      "id": "palm oil",
+      "id": "palm-oil",
       "prettyName": "Palm oil"
     },
     {
@@ -692,7 +692,7 @@
       "prettyName": "Cowpea"
     },
     {
-      "id": "green beans",
+      "id": "green-beans",
       "prettyName": "Green beans"
     },
     {
@@ -708,7 +708,7 @@
       "prettyName": "Pineapple"
     },
     {
-      "id": "freshwater aquaculture",
+      "id": "freshwater-aquaculture",
       "prettyName": "Freshwater aquaculture"
     },
     {
@@ -716,11 +716,11 @@
       "prettyName": "Aquaculture"
     },
     {
-      "id": "coastal fisheries",
+      "id": "coastal-fisheries",
       "prettyName": "Coastal fisheries"
     },
     {
-      "id": "inland fisheries",
+      "id": "inland-fisheries",
       "prettyName": "Inland fisheries"
     },
     {
@@ -736,11 +736,11 @@
       "prettyName": "Poultry"
     },
     {
-      "id": "pine nut",
+      "id": "pine-nut",
       "prettyName": "Pine nut"
     },
     {
-      "id": "food flour",
+      "id": "food-flour",
       "prettyName": "Food flour"
     },
     {
