@@ -5,7 +5,7 @@
         :class="`cursor-pointer card-icon ${isLocal ? 'bg-[#868686]' : isOpen ? 'bg-[#9B9B9B]' : 'bg-[#DFDFDF]'} hover:bg-[#CFCFCF]`"
       >
         <slot name="logo" />
-        <p class="font-semibold text-center">{{ title }}</p>
+        <p class="card-text font-semibold text-center">{{ title }}</p>
       </div>
     </component>
     <slot name="footer" />
@@ -28,6 +28,10 @@ defineProps({
 .card {
   // @apply flex flex-col items-center space-y-1 w-[150px]
   width: 110px;
+
+  .card-text {
+    line-height: 20px;
+  }
 }
 .card-icon {
   @apply flex flex-col items-center justify-evenly text-center rounded-lg w-full pt-4 pb-2;
