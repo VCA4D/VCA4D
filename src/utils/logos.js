@@ -16,6 +16,14 @@ import PalmOilLogo from '@images/icons/products/palm-tree.svg'
 import CassavaLogo from '@images/icons/products/cassava.svg'
 import FishLogo from '@images/icons/products/fish.svg'
 import WheatLogo from '@images/icons/products/wheat.svg'
+import PoultryLogo from '@images/icons/products/poultry.svg'
+import FabricLogo from '@images/icons/products/fabric.svg'
+import PineNutsLogo from '@images/icons/products/pine-nuts.svg'
+import FlourLogo from '@images/icons/products/flour.svg'
+import SesameLogo from '@images/icons/products/sesame.svg'
+import SunflowerLogo from '@images/icons/products/sunflower.svg'
+import ShrimpLogo from '@images/icons/products/shrimp.svg'
+import RiceLogo from '@images/icons/products/rice.svg'
 import DefaultLogo from '@images/icons/products/default.svg'
 
 export const getProductLogo = (product) => {
@@ -53,6 +61,7 @@ export const getProductLogo = (product) => {
     case 'palm oil':
       return PalmOilLogo
     case 'sorghum':
+    case 'wheat':
       return WheatLogo
     case 'cassava':
       return CassavaLogo
@@ -62,6 +71,22 @@ export const getProductLogo = (product) => {
     case 'inland fisheries':
     case 'fisheries':
       return FishLogo
+    case 'poultry':
+      return PoultryLogo
+    case 'cashmere':
+      return FabricLogo
+    case 'pine nuts':
+      return PineNutsLogo
+    case 'food flour':
+      return FlourLogo
+    case 'sesame':
+      return SesameLogo
+    case 'sunflower':
+      return SunflowerLogo
+    case 'shrimps':
+      return ShrimpLogo
+    case 'rice':
+      return RiceLogo
     default:
       return DefaultLogo
   }

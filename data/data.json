@@ -13,7 +13,8 @@
         "mango",
         "mango|lime",
         "vanilla",
-        "palm oil"
+        "palm oil",
+        "pine nuts"
       ]
     },
     {
@@ -21,7 +22,7 @@
       "prettyName": "Animal products",
       "color": "#C46D4D",
       "textColor": "#C46D4D",
-      "commodities": ["beef", "egg", "milk"]
+      "commodities": ["beef", "egg", "milk", "poultry", "cashmere"]
     },
     {
       "id": "crop",
@@ -36,7 +37,12 @@
         "green beans",
         "maize",
         "sorghum",
-        "pineapple"
+        "pineapple",
+        "food flour",
+        "sesame",
+        "wheat",
+        "sunflower",
+        "rice"
       ]
     },
     {
@@ -49,7 +55,8 @@
         "aquaculture",
         "coastal fisheries",
         "inland fisheries",
-        "fisheries"
+        "fisheries",
+        "shrimps"
       ]
     },
     {
@@ -719,6 +726,42 @@
     {
       "id": "fisheries",
       "prettyName": "Fisheries"
+    },
+    {
+      "id": "cashmere",
+      "prettyName": "Cashmere"
+    },
+    {
+      "id": "poultry",
+      "prettyName": "Poultry"
+    },
+    {
+      "id": "pine nuts",
+      "prettyName": "Pine nuts"
+    },
+    {
+      "id": "food flour",
+      "prettyName": "Food flour"
+    },
+    {
+      "id": "sesame",
+      "prettyName": "Sesame"
+    },
+    {
+      "id": "wheat",
+      "prettyName": "Wheat"
+    },
+    {
+      "id": "sunflower",
+      "prettyName": "Sunflower"
+    },
+    {
+      "id": "shrimps",
+      "prettyName": "Shrimps"
+    },
+    {
+      "id": "rice",
+      "prettyName": "Rice"
     }
   ]
 }
