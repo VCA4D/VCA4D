@@ -21,7 +21,11 @@
       "prettyName": "Animal products",
       "color": "#C46D4D",
       "textColor": "#C46D4D",
-      "commodities": ["beef", "egg", "milk"]
+      "commodities": [
+        "beef",
+        "egg",
+        "milk"
+      ]
     },
     {
       "id": "crop",
@@ -186,12 +190,6 @@
       "prettyName": "Mali",
       "continent": "Africa",
       "iso": "ml"
-    },
-    {
-      "id": "madagascar",
-      "prettyName": "Madagascar",
-      "continent": "Africa",
-      "iso": "mg"
     },
     {
       "id": "nicaragua",
@@ -394,6 +392,13 @@
       "year": 2020,
       "country": "ghana",
       "product": "sorghum"
+    },
+    {
+      "id": "fisheries-guinea-bissau",
+      "title": "guinea-bissau Fisheries",
+      "year": null,
+      "country": "guinea-bissau",
+      "product": "fisheries"
     },
     {
       "id": "mango|lime-guinea-bissau",
