@@ -1,0 +1,486 @@
+{
+  "id": "fisheries-guinea-bissau",
+  "country": "guinea-bissau",
+  "commodity": "Fisheries",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.4,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Guinea-Bissau has ratified all 8 fundamental ILO conventions, but they are not enforced and few workers are organized in sindicats. According to interviewees, the contracts and work conditions offered by most industrial fishing companies (especially Chinese) fail to comply with several of these conventions. A lack of training, combined with the fear to lose what is considered as a good job, often reduces sailors to a status of semi-servitude aboard industrial vessels."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 3,
+              "comment": "Freedom of association exists, but collective bargaining is rare, both among stakeholders engaged in the same economic activity and between groups, such as wholesalers and fishers. The most vulnerable actors within the vc have very limited capacity to negotiate with the state or other stakeholders of the VC."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Sailors of industrial fishing vessels are subjected to unfair contracts and illegal working conditions. Most contracts between fishermen and the owners of the small-scale boats are informal but managed according to local agreements (people say \"fishermen law\") and the same applies to the agreements between fishermen and the fish processors/sellers."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Most work along the value chain is informal, shaped by the opportunity space available to local actors, and often combined with other economic or non-economic activities. Although the workload is generally high, there is no evidence of forced labour. However, sailors working on industrial fishing vessels face curtailed rights, with risks of forced labour and no legal mechanisms in place to prevent such abuses."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 2,
+              "comment": "In Chinese boats, Guinea-Bissauan workers feel they are discriminated by their race (and even \"treated like animals\" according to statements of the sailors working in industrial vessels). These complaints were not mentioned by land companies' workers, though."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 4,
+              "comment": "Children’s education is a primary goal for parents and fishing/processing/selling might even be used to increase the chances of achieve higher education levels. Stakeholders across different groups consider education a key factor for greater success in their activities, as well as a means to better resist the harsh working conditions in industrial fishing. In villages, girls' education levels are lower than boys’, primarily due to early pregnancies which force many girls to drop out of school."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 2,
+              "comment": "Children are not engaged in harmful tasks, although they can participate in fishing, colecting fishing bait, selling fish, removing the fish scales."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "In SSF, there are serious risks of shipwrecks and fishermen are not rescued by the captaincies; Sick sailors in industrial vessels are not treated and sometimes die while in sea; Fish whole sailors and retailers (\"bideiras\") are subject to major car accidents due to poor transport and road facilities. Accidents can also result from conflicts between local and foreign artisanal fishers. “Bideiras” engaged in fish smoking complain about harsh working conditions, where lack of sleep and daily exposure to smoke negatively affect their health."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 3,
+              "comment": "Most contracts are informal and in accordance with local standards grounded in custom or interpersonal ties. Sailors’ contracts in industrial vessels are formal and usually in accordance with official regulations; however, they are usually not respected regarding daily working hours and Sunday double payment. In addition, all wages are paid at the end of the contract, often with delays and in small instalments. Furthermore, intermediary agencies linking sailors to the industry take a 20% cut of their salary."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 3,
+              "comment": "Fishing is considered the main income-generating occupation for those without higher education and many young people use it to finance their studies or improve their standard of living. In some cases — such as sailors contracted by industrial vessels or successful boat owners — significant returns are invested in major expenditures, including housing, higher education, or migration. Lack of training is considered a barrier, along with the declining availability of aquatic resources."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 2,
+              "comment": "Although they declare adherence, interviews with powerless stakeholders revealed that not always directives are fully followed."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 1,
+              "comment": "Although the land law declares respect for the customary rights of people, neither the state nor companies and national institutions consistently obtain the prior informed consent from local inhabitants before approving land concessions for large scale investments."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "When consultations do take place, only the potential benefits are presented to local stakeholders, while the drawbacks and possible reduction in their rights are often hidden."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "According to interviewees and the literature, little information is widely available to the less privileged actors of the value chain. There is a general lack of transparency throughout the entire chain - from the negotiation of fishing agreements, monitoring and enforcement, and communication between ministerial departments regarding the allocation of licences, the sharing of data by observers and the influence of political party interests on policy decisions."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Few information is widely available to the less privileged actors of the value chain. There is a general lack of transparency throughout the entire value chain, and local artisanal fishers complain about the excessive allocation of licences, which threatens the sustainability of their livelihood and way of life based on fisheries and forest resources."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "According to interviewees, which is consistent with the literature review, no prior consent is ever sought or obtained, apart from marine protected areas (MPA)."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 1.25,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Although law 5/98, article 6, paragraph 4 provides for this, in practice local communities frequently feel unable to exercise management powers in accordance with their traditional uses and customs in relation to their maritime water and aquatic resources."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 1,
+              "comment": "None according to our knowledge"
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 1,
+              "comment": "None"
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 1,
+              "comment": "None"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 4,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 4,
+              "comment": "Women participate across all segments of the small-scale fisheries value chain — including fishing, processing, wholesale and retail trade, as suppliers of credit and/or fishing gear and food, and even as boat owners. They are also active as retailers of national industrial fishing landings and work as processors in industrial fishing plants."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 4,
+              "comment": "SEE ANSWER ABOVE (3.1.1)."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 4,
+              "comment": "Women are increasingly investing in buying assets (e.g., land, houses, boats) of their own; however, mothers tend to exclude their daughters from inheriting."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 3,
+              "comment": "Women do buy land, but they generaly do not inherite land from their fathers or deceised husbands."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "The provision of credit is null for both men and women. However, women play a central role as leaders of informal groups of savings and credit (“abota” in crioulo)."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "The provision of services is scarce for both men and women."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 3.6,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 4,
+              "comment": "Women in the fisheries VC feel they can make decisions regarding their livelihoods, but this right is also progressing in parallel with their increasing control over earnings."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 4,
+              "comment": "Women in the fisheries VC feel they are autonomous decision-makers in relation to their work."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 4,
+              "comment": "In general, women in the fisheries value chain declare they have full control over their income. This is aligned with the broader trend of increasing women's control over their earnings at the national level."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 4,
+              "comment": "Women in the value chain declare they have independent sources of income from their husbands and other male relatives"
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Women only make decisions in relation to the assets they own but not in relation to assets formarly by their husbands or male relatives, but to which they have contributed with labour"
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 3,
+              "comment": "Women participate in several different types of groups - generally informal as the legalisation of organisations in GB is costly - and are typically not affiliated with trade unions."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 4,
+              "comment": "Guinea-Bissau organizations have been disseminating a gender rethoric that has been adopted by grassroots organizations to comply (at least in theory) with donors paradigms."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 1,
+              "comment": "Neither women or men ordinary citizens have this kind of power."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 3,
+              "comment": "In general, women are becoming increasingly vocal in expressing their opinions, although there is a diversity of situations depending on region and ethnic group. Muslim women, in particular, tend to speak more openly in the absence of men. Women remain underrepresented in public and political life."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 3,
+              "comment": "Within the SSF value chain, only rural women can be considered to carry a heavier workload than men. Female fish traders often perceive the work of fishermen as risky and physically demanding. Women generally engage solely in domestic work tasks when their husbands have a stable and sufficient income. overall, domestic tasks are divided among several household members, most of whom are women."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "In rural areas, among the diversified activities - including fishing and agriculture - one of the hardest demanding tasks that women used to perform regularly was manual rice dehusking; however, this work has eased in recent years, as milling machines have become widely available. In urban areas, by contrast, women often work as wholesalers and therefore tend to have a lighter workload compared to fishers, whose work is generally considered more physically demanding and risky."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 2,
+              "comment": "Socioecological and economic changes have led to a decline in local food production on one hand, while also diverting part of it to market channels, thereby reducing the availability of protein-rich foods. In some remote regions, the levels of available protein are alarmingly low."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 3,
+              "comment": "At present, rice, vegetable oil and other imported food items are generally available at local markets."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 1,
+              "comment": "Few income opportunities exist and cash expenses with education, health, cloth, ceremonies, and new consumption needs have been increasing, thereby further reducing the available income to be allocated to food."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Consumers food prices are increasing fast."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 1,
+              "comment": "Imported food is of poor quality, the local rice is being excessively milled losing all its nutritional content and local wild fruits and vegetables while available are being less used. Protein-rich food consumption is decreasing due to a sharp decline in wildlife (a consequence of cashew expansion) and a reduction in fish availability (even actors along the value chain are consuming less of it)."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 1,
+              "comment": "On the contrary, the nutritional quality of the daily diet has been decreasing with the growing incorporation of empty calories, cheap Maggi stock cubes and sugar and the reduction of the consumption of local fruits and vegetables. Local rice production, which is much richer in vitamins, has been declining due to the negative impacts of climate change. In addition, the number of meals per day has decreased, with many households reporting only one meal a day."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 1,
+              "comment": "The diet is increasingly less diverse and industrial processed food is getting more relevance."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Rural households suffer from seasonal food shortage and frequently have not enough income to buy adequate, quality food. Fishing and/or processing and selling activities can provide additional income, but navigation is hard and risky during the rainy season and market demand is lower. Similarly, the biological resting period represents another time of potential food shortage. The most affected groups are rural fisher/farmers communities who are highly dependent on fishing."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2,
+              "comment": "There are large fluctuations in the price of basic food items, such as rice and fish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "Most fishermen and women and fish processors and traders are also farmers, reflecting the multiple and interdependent livelihoods common in rural areas. In Guinea-Bissau, however, farmers are seldom organized, even informally, and their participation in the fisheries value chain is largely individual, limiting their collective agency and access to opportunities."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 3,
+              "comment": "Groups and cooperatives in the fishing value chain are rare and mostly informal, consisting mainly of informal savings groups and socio-professional organizations of boat owners and fishers, which have negligible bargaining power and limited institutional support. Nevertheless, there was no observed or reported discrimination based on ethnicity, religion, or gender within these structures."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Groups have elected representatives but not always are they accountable; it was frequently mentioned that leaders appropriated collective funds or assets and this is one of the motives for non-payment of membership fees."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 1,
+              "comment": "In my extensive experience working with local communities, i have never come across any farmers’, fishers’, or traders’ associations with the capacity to negotiate in either input or output markets. This observation is consistent with existing literature, which often highlights the lack of collective organisation and structured representation among rural producers in Guinea-Bissau."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "To the best of my knowledge, and based on the testimonies of farmers and fishers, only cashew producers have access to market price information thanks to the system developed by the BELAB enterprise."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "The relationship is considered as trustworthy among most GB fishermen/women and local traders, but the same does not apply between them and foreighners and state representatives"
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Only inside protected areas runned by the IBAP."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "Yes, within protected areas, many projects’ documents refer to the importance of respecting traditional knowledge. However, in practice this is seldom true. Outside protected areas, traditional ownership rights over marine territories and resources are seldom respected, leading to widespread grievances, both against the state for failing to protect these rights and against foreign actors. Additionally, there is a growing sense of inequality between inhabitants of protected areas and their neighbours who cannot access any resources inside protected areas, contradicting former reciprocal use arrangements."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 2,
+              "comment": "Yes, solidarity is often observed during crises, such as shipwrecks or major ruptures in mangrove swamp rice fields’ dikes. However, individualism is on the rise and increasing food insecurity limits people´s ability to engage in collective actions, as they are often forced to prioritize alternative sources of income-generating activities when they have time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "There is no widespread provision of health facilities and services by the state, and most rural inhabitants need to travel (and afford the costs) to reach the capital city when severely ill. This often involves emergency evacuations that sometimes result in the patient’s death before reaching hospitals, due to poor transport links and the deteriorated state of the road infrastructure."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "idem"
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 2,
+              "comment": "Most households have not enough money to pay for health services plus the transport ."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 3,
+              "comment": "Cashew nuts production, with a favourable market until recent years, has been helping rural households to improve the quality of their houses. Fishing and fish trading has also been helping many to improve the quality of their accommodations."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Most households have no latrines and no access to potable water. In rural areas many wells are shallow, dug with basic tools, and they often run dry by the end of the dry season. Deep wells with pumps are extremely rare."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Many rural villages have no primary school or state-paid teachers; in these cases, parents try to raise funds to construct improvised schools and collect enough money to pay a teacher’s salary. However, most teachers lack professional training, and some nor even have completed secondary school."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "The lack of secondary and/or vocational schools in the vicinity is a major complaint of both parents and young people."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 1,
+              "comment": "The need for formal training in sailing, fishing, mechaniques, boat construction, accountancy, etc, is a major claim made by grassroot actors of the value chain."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
