@@ -14,9 +14,9 @@
     <div class="flex flex-col items-center">
       <div class="mt-4 flex flex-row gap-x-4">
         Check the study appears on the front page, and at the right place
-        <RouterLink to="/">
+        <RouterLink to="/browse">
           <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Find your study on the home page
+            Find your study on the browse view
           </button>
         </RouterLink>
         Check the study's data are well transformed into graphic on dedicated page(s)
