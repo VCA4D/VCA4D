@@ -75,7 +75,7 @@ export const getProductLogo = (product) => {
       return PoultryLogo
     case 'cashmere':
       return FabricLogo
-    case 'pine nuts':
+    case 'pine nut':
       return PineNutsLogo
     case 'food flour':
       return FlourLogo
@@ -83,7 +83,7 @@ export const getProductLogo = (product) => {
       return SesameLogo
     case 'sunflower':
       return SunflowerLogo
-    case 'shrimps':
+    case 'shrimp':
       return ShrimpLogo
     case 'rice':
       return RiceLogo

@@ -14,7 +14,7 @@
         "mango|lime",
         "vanilla",
         "palm oil",
-        "pine nuts"
+        "pine nut"
       ]
     },
     {
@@ -56,7 +56,7 @@
         "coastal fisheries",
         "inland fisheries",
         "fisheries",
-        "shrimps"
+        "shrimp"
       ]
     },
     {
@@ -123,8 +123,8 @@
       "iso": "km"
     },
     {
-      "id": "democratic-republic-of-the-congo",
-      "prettyName": "Democratic Republic of the Congo",
+      "id": "democratic-republic-of-congo",
+      "prettyName": "Democratic Republic of Congo",
       "continent": "Africa",
       "iso": "cd"
     },
@@ -736,8 +736,8 @@
       "prettyName": "Poultry"
     },
     {
-      "id": "pine nuts",
-      "prettyName": "Pine nuts"
+      "id": "pine nut",
+      "prettyName": "Pine nut"
     },
     {
       "id": "food flour",
@@ -756,8 +756,8 @@
       "prettyName": "Sunflower"
     },
     {
-      "id": "shrimps",
-      "prettyName": "Shrimps"
+      "id": "shrimp",
+      "prettyName": "Shrimp"
     },
     {
       "id": "rice",
