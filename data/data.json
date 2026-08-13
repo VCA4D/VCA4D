@@ -387,6 +387,13 @@
       "product": "rice"
     },
     {
+      "id": "sesame-chad",
+      "title": "chad sesame",
+      "year": null,
+      "country": "chad",
+      "product": "sesame"
+    },
+    {
       "id": "cocoa-colombia",
       "title": "Cocoa",
       "year": 2020,
