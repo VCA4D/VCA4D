@@ -1,0 +1,486 @@
+{
+  "id": "cassava-democratic-republic-of-congo",
+  "country": "democratic-republic-of-congo",
+  "commodity": "cassava",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": "n/a",
+              "comment": "Les standardsinternationaux mais ne sont pas appliqués au niveau local"
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 3,
+              "comment": "Laliberté d'association est autorisée et effective(pouvoir de négociationcollectif ou individuel)"
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Contrats ou conventions équitables après négociations"
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Pas de risque de travail forcé à chaque segment de la CV"
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 3,
+              "comment": "Aucun risque de discrimination d'embauche"
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 3,
+              "comment": "Primaire et secondaire"
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 1,
+              "comment": "Non"
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 1,
+              "comment": "Faible ou aléatoire"
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": "n/a",
+              "comment": "Non, les standards locaux ne sont pas applicables"
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "C'est le gagnant-gagnant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": "n/a",
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": "n/a",
+              "comment": "Il n'y a pasde sociétés et institutions impliquées dans la CV"
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": "n/a",
+              "comment": "Il n'y a pas d'investissements à grande échelle pour acquérir des terres."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": "n/a",
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": "n/a",
+              "comment": "Pas de projet"
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": "n/a",
+              "comment": "Pas de projet"
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": "n/a",
+              "comment": "Pas de projet"
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": "n/a",
+              "comment": "Pas de projet"
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Le producteur peut être ayant droit foncier coutumier (homme ou femme) propriétaire ou locataire. Le propriétaire et le locataire ont le même statut. Le locataire bénéficie de la terre aussi longtemps que son contrat court."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": "n/a",
+              "comment": "Pas de projet d'investissement à grande échellenécessitant l'accaparement des terres."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a",
+              "comment": "Pas d'expropriation car le producteur est soit ayant droit foncier, donc propriétaire ou soit locataire."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": "n/a",
+              "comment": "Dans un système de gestion traditionnel où les terres appartiennent aux clans, c'est le chef de clan selon des mécanismes consensuellement établis qui partage ou alloue les terres. En cas de vente ou de location, le chef traditionnel réunit sa famille ou son clan pour décision.Le contrat de vente ou de location doit être transmis à l'administration compétente pour formalisation et sécurisation. Donc, la procédure commence au niveau du chef traditionnel et l'administration en charge du foncier légalise la procédure et délivre les documents de sécurisation de la terre.Donc pas d'investissements dans la CV, pas d'indemnités compensatoires prévues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 4,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 4,
+              "comment": "Aucun risque d'exclusion des femmes de certains segments de la CV. Les femmes sont présentes dans tous les segments de la CV."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 4,
+              "comment": "Comme productrices, les femmes s'occupent du labour, hersage,sémis, sarclage, récolte. Comme transformatrices, elles font le rouissage, l'épluchage, l'emballage,la cuisson, le contrôle qualité, etc.Elles sont caissières, formatrices dans les associations. Elles sont commerçantes, distributrices, revendeuses, prestatataires de service, consommatrices, etc."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 3,
+              "comment": "Oui, les femmespossèdent des biens autres que la terre (maison, véhicules, élevage (porcherie), forage, engins, etc."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 4,
+              "comment": "Oui,les femmes ont les mêmes droits sur les terres que les hommes (ayant droit foncier coutumier) et même si elles sont loactaires avec contrat, elles bénéficient des mêmes droits pendant la duée du contrat."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 1,
+              "comment": "Accès faible et très limité au crédit."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 1,
+              "comment": "Accès faible aux autres services (conseil agricole, fourniture d'intrants)."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 3.4,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 4,
+              "comment": "Dans le choix des variétés et le contrôle qualité."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 4,
+              "comment": "Dans la transformation du manioc fermenté, les femmes sont autonomes dans l'organisation du travail.C'est une tâche réservée uniquement et essentiellement aux femmes.C'est culturel et propre à toutes les traditions."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 3,
+              "comment": "Les femmessont forméesdans leurs droits et savent même calculer leur prix de revient. Même certains hommes commencent à comprendre cela."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 3,
+              "comment": "Oui."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 3,
+              "comment": "Oui"
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 4,
+              "comment": "Oui."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 3,
+              "comment": "Oui"
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Influence très limitéeau regard de leur présence et nombre réduit dans la sphère de décision politique."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 3,
+              "comment": "Oui."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "Les charges de travail globales des hommes et des femmes sont égales en incluant les tâches domestiques et la gestion des enfants selon la division du travaildans les différentes sociétés ou cultures.Cette division du travail consiste dans la répartition des tâches entre l'homme, la femme et les enfants.Les travaux pénibles sont réservés et exercés généralement par les hommes surtout en ce qui concerne les travaux des champs. L'homme doit nourrir et entretenir sa famill; la protéger et veiller à l'éducation des enfants. Il doit épauler sa femme dans les travaux ménagers, etc.Dans le foyer, l'homme et la femme se complètent surtout pour l'éducation des enfants et il y a des tâches dévolues à l'homme et d'autres à la femme"
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "Les risques que les femmes soient sujettes à du travail péniblesont minimisés à cause justement de la division du travail. Toutefois, il sied de souligner que la femme travaille beaucoup compte tenu de la complexité et de l'ampleur tâches ménagères au point qu'elle ne trouve même pas assez de temps pour se reposer ou pour s'occuper d'elle-même."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 3,
+              "comment": "Une augmentation progressive de la production locale de nourriture."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 3,
+              "comment": "Approvisionnement des marchés locaux avec fort impact positif."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Amélioration des revenus alloués à l'achat de la nourriture."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Les prix relatifs à la consommation des produits alimentaires dépendent du marché et d'autres paramètres.Les prix ne font qu'augmenter sur le marché des vivres, donc des produits alimentaires. Il y a instabilité des prix suite à l'inflation et à l'érosion monnétaire."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Légère amélioration de la qualité nutritionnelle des aliments disponibles."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "Un certain équilibre est observé dans les pratiques nutritionnelles"
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 2,
+              "comment": "Pas tellement. Il faut ajouter les feuilles de manioc qui présentent un intérêt très élevé dans l'alimentation."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Réduction sensible des risques de pénurie alimentaire périodique des ménages du moins pour les produits manioc."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Non. Au contraire,les variations excessives des prix des denrées alimentaires se maintiennent toujours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "Faible participation des organisations/coopératives, associations des producteurs formels et informels dans la CV"
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 3,
+              "comment": "Pas de discrimination d'âge, de sexe, d'appartenance ethnique ou tribale, de religion."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Faible leadership représentatif et responsable"
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "Faible capacité de négociation des groupes, coopératives et associations des producteurs sur le marché des intrants  et des produits.Ils n'ont pas assez de marge de maoeuvres. Ils subissent des prix."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "Faible accès des producteurs de la CV aux informations sur les pratiques agricoles, les politiques agricoles et les prix de marché."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 3,
+              "comment": "Des relations de confiance établies sur base des conventions ou contrats du genre gagnant-gagnant sur tous les segments de la CV (production,transformation, transport, commercialisation, vente, distribution)."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": "n/a",
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": "n/a",
+              "comment": "Pas d'investissements àgrande échelle"
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": "n/a",
+              "comment": "Pas d'actions garantissant le respect des connaissances et des ressources traditionnelles"
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": "n/a",
+              "comment": "Pas de participation aux activités communautaires volontaires  au bénéfice de la communauté."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 3,
+              "comment": "Accès aux soins de santé en milieu rural."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "Accès limité aux services de santé en milieu rural."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 3,
+              "comment": "Services de santé abordables pour les ménages."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "Pas d'habitation de bonne qualité mais il y a une volonté d'amélioration."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Pas d'accès à l'eau de bonne qualité et aux infrastructures d'hygiène et d'assainissement."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Ecole primaire accessible et abordable pour les ménages grâce aux mesures de gratuité décretées par le Gouvernement de la République."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Education secondaire et la formation professionnelle sont accessibles et abordables."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": "n/a",
+              "comment": "Non. Il n'y a pas de formations professionnelles de qualité fournies par les investisseurs dans la CV."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
