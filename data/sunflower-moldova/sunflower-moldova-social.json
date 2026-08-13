@@ -1,0 +1,486 @@
+{
+  "id": "sunflower-moldova",
+  "country": "moldova",
+  "commodity": "sunflower",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.6,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 3,
+              "comment": "Moldova has ratified all eight fundamental ILO conventions, as well as the ICESCR and ICCPR, and adopted ILO C190 (Violence & Harassment) in March 2024. While the legal framework aligns with international standards, in practice compliance in sunflower farming is weakened by informality and seasonal work, limited collective bargaining, child labour on family farms, and risks of discrimination, particularly affecting rural women."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 3,
+              "comment": "Freedom of association is legally guaranteed in Moldova, but in sunflower farming it has limited impact. Most farms are mechanized and lack strong union links. Some farmers join the new Forța Fermierilor association, though it has limited trust across the sector. In our fieldwork, collective wage bargaining was minimal, with pay mostly set individually."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "In Moldova, recent reforms promote greater work formalisation. In the sunflower value chains, most formal workers have written contracts and fixed pay, but seasonal labour remains under risk of weak enforcement and wage insecurity."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Forced labour is legally prohibited in Moldova and no systemic cases are reported in sunflower farming. However, risks persist in informal segments. Weak inspection capacity, irregular or unpaid wages in poor harvest years, and reliance on older or very young workers illustrate vulnerabilities that can lead to exploitative conditions. Overall, while forced labour is unlikely in formal enterprises, risks are not fully minimized in the value chains."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 2,
+              "comment": "Moldovan law guarantees equal treatment, and in sunflower farming women are generally paid the same hourly rate as men. Yet, women are underrepresented in mechanized jobs, face a double work burden, and often leave work early due to exhaustion. Youth, especially girls, appear as informal day labourers in sectors adjacent to these value chains. These patterns confirm external reports of a gender pay gap and barriers for rural women."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 3,
+              "comment": "Most children in Moldova attend school, but many of those engaged in agricultural work—including sunflower production, especially in family farming—combine it with education."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 3,
+              "comment": "Legislation prohibits hazardous work under 18, but these protections do not effectively cover informal or family farm work, where most child labour occurs. In agriculture, teenagers are sometimes engaged in seasonal tasks without contracts and sufficient protection."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "The regulatory framework and training/PPE obligations are clear, and larger/formal farms tend to comply. However, heat-related non-use of PPE, chemical-mixing exposures, long harvest weeks, and undeclared work leave notable gaps—particularly for seasonal workers in sunflower."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "In Moldova’s sunflower farming, mechanizers can earn up to 20,000 MDL/month in peak periods, but incomes are uneven across the year. Permanent employees benefit from contracts and training, while seasonal workers face low, often informal pay and occasional delays. Despite meeting minimum legal standards, overall remuneration remains modest and less attractive than urban or foreign alternatives."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "sunflower farming is generally unattractive to young people in Moldova. Agricultural jobs are widely seen as low-paid, physically demanding, and offering few career prospects. Youth participation in the sector remains low, and many prefer migration or service-sector work. Gendered barriers restrict women’s access to skilled roles, further narrowing opportunities. As a result, the value chains increasingly rely on older workers and seasonal labour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 3,
+              "comment": "Explicit declarations of VGGT adherence by Moldovan agribusinesses are rare. Institutions have been exposed to VGGT principles, and policies on land and irrigation governance broadly reflect them. Companies, however, tend to show compliance through EU standards or certifications like GLOBALG.A.P./GRASP. Overall, institutional awareness exists, but firm-level commitments remain limited."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 3,
+              "comment": "The AFD due diligence guide is a recognized tool, but there is no evidence it is systematically applied in Moldova's agribusiness land deals. Expansion in cereals and sunflower has mostly occurred through leasing and gradual consolidation rather than large-scale acquisitions, reducing the visibility of such procedures. Use of the guide is plausible in DFI-financed projects, though concrete disclosures are lacking. Persistent irrigation deficits and climate stress highlight governance gaps in land and water management that intersect with investment risks."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "In Moldova’s sunflower value chain, disclosure of information is mostly informal and mediated through farm leaders. Contracts specifying in-kind or cash rents are clear and respected, but proactive, public briefings are rare. Workers note greater transparency than in the past, though risks now fall more heavily on individuals. Informality still persists, with some small farms hiring through undeclared arrangements."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 3,
+              "comment": "Policies and rules on land and markets in Moldova are formally codified and publicly available, with clear procedures for land consolidation and market organization. However, practical access is uneven: while stakeholders can in theory consult these rules, limited capacity and infrastructure barriers often prevent smallholders and workers from fully using them."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Participation and consultation in decision-making remain limited. At enterprise level, workers mainly negotiate individually with managers, as unions are weak. Land leases with farm leaders provide continuity but not inclusive consultation. National policies exist, yet communities perceive them as distant, with climate risks and low bargaining power reducing their sense of meaningful involvement."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 3,
+              "comment": "In sunflower farming, consent is mainly individual, expressed through lease contracts rather than collective or community-wide processes. Large-scale land acquisitions are rare, with consolidation happening gradually via local leaders. While public procedures exist for land consolidation, there is little evidence of systematic community consent protocols being applied in practice."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 3,
+              "comment": "Locally applied rules in Moldova’s sunflower farming provide basic security through clear, routinely honored leases, often managed by trusted local leaders. While this system ensures predictable rents, it limits voice and fosters gradual land concentration. Short-term leasing discourages investment in irrigation, leaving water access uneven and resilience weak."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "In Moldova’s sunflower sector, households manage shocks with in-kind rent, mutual aid, migration, and occasional support from farm leaders. These offer short-term relief but are not formal alternatives and do not address climate or market risks. Weak irrigation and reliance on low-value crops further limit diversification, keeping communities vulnerable."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 3,
+              "comment": "In Moldova’s sunflower farming, land access occurs mainly through voluntary leases and gradual consolidation, not expropriation. Compensation is effectively provided through agreed in-kind rents, often seen as fair when relationships are stable. However, reliance on leader-managed arrangements reduces bargaining power and transparency."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 3,
+              "comment": "In Moldova’s sunflower chain, formal complaint mechanisms exist but most conflicts are resolved informally by farm leaders, maintaining trust but limiting transparency and voice. Workers describe the system as “more transparent but harsher,” with weak unions and gendered roles further restricting remedies. Irrigation and land consolidation show similar patterns of smallholder underrepresentation, underscoring the need for stronger, more inclusive safeguards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Women remain concentrated in support and seasonal tasks—canteens, livestock care, or harvest work—while men dominate mechanised roles. Access barriers to machinery training and short-term leasing systems limit women’s entry into better-paid jobs. Still, some farms employ women in administration (e.g., accounting), which provides stability and partial inclusion in financial oversight, mitigating total exclusion."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 2,
+              "comment": "Women are active mainly as seasonal workers, in canteens, livestock care, and smallholder farms, while fewer hold land or mechanised jobs. Field interviews note that women form the majority of seasonal harvest labour, often informally hired without contracts. FAO data confirms women manage smaller farms with less machinery and bargaining power. While their participation sustains local value chains, it rarely improves income security or social status."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Women in Moldova own very few agricultural assets beyond land, especially machinery and irrigation equipment, where their share is below 12%. Smallholders overall struggle with outdated tools, but this particularly disadvantages women, who are often excluded from mechanized roles and technical positions."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 2,
+              "comment": "Moldova’s legal framework upholds gender equality in land ownership, but in practice women farm holders manage smaller areas and less land overall than men. This gap reduces their ability to use land as collateral or to expand their role in sunflower value chain."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 3,
+              "comment": "Agricultural credit is still costly and collateral-based, but some banks offer accessible loans to both women and men at equal interest rates; examples of female borrowers exist. Structural barriers remain since farming is seen as a “male” field, leading to fewer women applicants. Donor and state schemes support women and youth, though uptake is modest and uneven across farms."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Women are underrepresented in training and extension programs, making up less than one-third of participants, and those who do attend often find the advice too general. They rely heavily on informal networks, while advisory and support services are not sufficiently gender-sensitive, and costly imported inputs further constrain women’s access."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.4,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 3,
+              "comment": "Farming decisions on cropping and sales are often joint, but men dominate irrigation and mechanized tasks. Women work mainly in canteens, livestock, or seasonal harvests, though some also hold administrative roles such as accounting, giving them a voice in financial monitoring."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Women face 'double-shift' responsibilities that limit autonomy. Enterprise work is usually arranged directly with managers, with weak collective representation. While support and seasonal jobs allow little control, administrative posts provide more stable and independent work."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Pay is equal for the same job, but women’s absence from mechanized roles narrows access to higher wages. Men more often control marketing and reinvestment, though women in administration contribute to financial management, and women’s earnings are vital for household needs."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Men and women in sunflower farms report equal pay for the same tasks, but women’s limited presence in mechanized and marketing roles narrows earning potential. National statistics show a persistent gender pay gap across agriculture, with women earning less overall. Still, women in administration contribute to financial oversight, and their income is essential for household budgets."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 3,
+              "comment": "Women earn through seasonal farm work, canteens, livestock, non-farm jobs, or administration. Seasonal and informal roles are unstable, pushing some young women to migrate. Administrative jobs provide more secure wages, yet a gender pay gap in agriculture continues to limit women’s financial independence."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 2,
+              "comment": "Women are present in some producer groups and workers’ structures, but agricultural union membership remains weaker compared to other sectors, limiting formal voice in cereals and sunflower workplaces. Many women participate instead through informal mutual-aid networks or in administrative teams like accounting, which keeps them connected to organisational processes even if they are not union members."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 3,
+              "comment": "Women are visible in administrative roles such as accounting and sometimes manage small teams or HR functions, yet leadership of producer associations, farm groups, and mechanised operations is largely male-dominated. Barriers include restricted access to technical training, “double-shift” time constraints, and fewer productive assets, which limit their path to higher-status leadership roles tied to production and marketing."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 3,
+              "comment": "At enterprise level, women in administration contribute to budgeting and compliance, but decisions on irrigation, inputs, and marketing—central to sunflower VC—are usually led by male farm managers. In wider governance, participation channels exist but women remain under-represented, as seen in irrigation and land-consolidation projects where high costs and technical demands limited their involvement."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Women speak out in workplace and community settings, especially regarding payroll, welfare, and HR, and play active roles in informal solidarity networks. However, they are less visible in agronomic or technical forums where production strategies and investments are debated, with barriers including time poverty, lower access to specialised training, and weak union presence in agriculture."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "Women in sunflower value chain often face a ‘double shift,’ combining farm work with household and childcare duties. Time-use data shows they spend significantly more daily hours on unpaid domestic tasks than men, leaving them with heavier overall workloads. In enterprises, women's roles in canteens, livestock care, and administration may align with family schedules but still add to total labour demands."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "Mechanisation in cereals and sunflower reduces some heavy tasks, yet women are under-represented in technical jobs where machinery eases strain. Instead, they often perform manual or repetitive tasks with higher ergonomic risks. Weak enforcement of occupational safety rules, informality in hiring, and limited access to training or modern equipment keep many women exposed to physical hardship, especially in seasonal or small-farm contexts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 3,
+              "comment": "Cereal and sunflower output in Moldova is highly climate-sensitive: repeated droughts since 2020 cut maize yields, while sunflower proved more resilient. Short leases and low irrigation investment constrain growth, though national strategies now prioritise irrigation, storage, and logistics upgrades. Farmers note reliance on imported inputs and subsidies for modernisation."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 3,
+              "comment": "Domestic cereals generally cover consumption needs, though prices spiked after 2022 due to war-related disruptions. Policies now target storage and market infrastructure to stabilize supply and cut import reliance. In-kind rents of wheat, maize, and sunflower bolster household consumption and exchanges, helping even in poor harvests. Availability is stable, but affordability remains vulnerable to drought and inflation."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Agricultural incomes remain low, though field notes show strong disparities: some mechanizers earn up to 20,000 MDL/month, while others report 7,000–10,000 MDL or no pay in winter. Workers in “lower” chain segments earn far less, leaving many households with limited food budgets."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 2,
+              "comment": "Food prices rose sharply after 2022, straining affordability. Many households cope by relying on in-kind grain rents, as cash wages are often unstable or delayed—especially for seasonal and lower-paid workers."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Moldova’s food supply covers caloric needs but is dominated by cereals, bread, and sunflower oil. Strategies aim to boost fruit, vegetable, and protein intake, while WFP initiatives (e.g., school meals) support better nutrition for vulnerable groups. Field evidence shows in-kind rents provide staples but not necessarily balanced diets."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 3,
+              "comment": "Public programmes promote healthier diets, though rural households often stick to traditional, grain-based consumption. Grain used for home food and barter sustains calories but rarely improves nutrition quality."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 4,
+              "comment": "Dietary diversity remains limited, especially in rural areas. Rising prices restrict access to protein and fresh produce, with households relying on bread, potatoes, oil, and home gardens. In-kind rents further entrench cereal dependence."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 3,
+              "comment": "Household food shortages are partly offset by in-kind rents of wheat, maize, and sunflower, which secure staples or can be bartered. Still, repeated droughts since 2020 have cut yields, and irrigation gaps heighten seasonal risks. Vulnerable groups remain exposed in shock years despite stable caloric supply."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2,
+              "comment": "Food prices surged after 2022 from war, energy inflation, and drought, hitting cereals, oil, and bread hardest. Low-paid and seasonal workers struggle most, relying on in-kind rents to buffer high costs. Policy measures target storage and processing to stabilise prices, but volatility persists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 3,
+              "comment": "Many sunflower farmers still prefer individual leasing, but good practices exist. Business cooperatives like Agrostoc and farms such as Hartop Mare show that organised cooperation can provide access to inputs, storage, and markets. These examples contrast with wider scepticism, partly rooted in memories of Soviet collectives."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "Membership inclusivity is uneven: larger and better-capitalised farmers dominate, while smallholders and women are often absent. Still, strong cooperatives like Agrostoc demonstrate that benefits such as shared infrastructure and discounted inputs can extend beyond core members, suggesting potential for wider inclusivity if scaled."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Leadership is often personalised in trusted local farm leaders, ensuring stability but limiting transparency. Yet cooperatives like Agrostoc and Hartop Mare show that farmer boards and collective governance can improve accountability and counter stereotypes of “Soviet-style” leadership."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 3,
+              "comment": "Smallholders still lack bargaining power, usually depending on local leaders for market access. By contrast, Agrostoc pools input demand and Hartop Mare leverages collective output for better prices, illustrating how organised cooperation can strengthen negotiation capacity."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 3,
+              "comment": "Farmers and workers generally access information on farming and markets, but channels differ: large farms use direct institutional ties, while smallholders rely on local leaders or informal exchanges. National surveys show local meetings and media as key sources, though access is less even in rural areas."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Trust is largely personal and horizontal. Focus groups with mechanizers (e.g., Donici village) stressed reliance on farm leaders but little vertical trust in institutions, while others cited networks with cooperatives and associations. ICJPS Survey (2025) data shows 39.1% say “be cautious,” only 7.6% “most people can be trusted,” with rural respondents more cautious than urban ones."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Community involvement in farming decisions is limited: contracts with farm leaders provide stability but little deliberation. Focus groups noted managers usually set terms, while communities are informed afterward. ICJPS Survey data show only a minority of rural respondents regularly attend community meetings."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 3,
+              "comment": "Households still use traditional practices like seed saving, food processing, and small livestock care, often led by women. Yet agribusiness decisions rarely integrate such knowledge, and climate pressures reduce traditional water use. Respect for tradition persists mainly at household, not institutional, level."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 2,
+              "comment": "Voluntary activity rates are modest: ICJPS survey data show most respondents “rarely” or “never” join civic or community-led volunteering. Field evidence highlights informal solidarity—funeral help, road repair—over structured associations, reflecting reliance on family-based trust networks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "Rural areas often lack doctors and well-equipped health facilities, leaving many villages dependent on small clinics or nurses for basic care. Farm workers and mechanizers confirmed they must travel to district hospitals for emergencies. Reports of “villages without doctors” illustrate the persistent rural–urban gap."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "Even where facilities exist, services remain limited. Survey data show only 8.7% of rural respondents rated local health services as good, compared to 26.5% in urban areas. Focus groups reported shortages of specialists, long waits, and dependence on personal connections, with COVID-19 further reducing access to non-emergency care."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 3,
+              "comment": "Although primary services are formally covered, households often face out-of-pocket costs for medicines, diagnostics, or specialist care. Farm workers sometimes self-medicate or turn to private doctors, while wage insecurity during off-season months makes expenses harder to cover."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 3,
+              "comment": "Most rural households own their homes, but quality is uneven. The ICJPS Survey (Q66) shows 43.2% rated housing “sufficiently good,” 32.5% “good,” and 14.1% “bad or very bad.” Field visits in March and June 2025 revealed both modern, well-equipped homes and others in visible disrepair, while focus groups highlighted the financial strain of maintaining dwellings, often relying on remittances or informal earnings."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 2,
+              "comment": "Infrastructure gaps persist in rural areas. Only 42.5% of rural homes have a bathroom/shower compared to 88.9% in cities, and just 32.7% have indoor toilets versus 86.2% urban. Most lack constant hot water and rely on wood or coal stoves for heating. Access to safe drinking water is also limited, with one-third of households depending on shallow, often polluted wells."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Schooling is generally accessible, but rural households face distance, transport, and shrinking networks. The ICJPS Survey shows 64% rate access as “good” or “very good,” though rural ratings are lower. BNS data confirm a decline in village schools, especially in smaller districts."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Vocational training is concentrated in Chișinău, Bălți, and other cities, leaving at least a part of rural youth with fewer opportunities. In 2023/24, Moldova had 38 vocational schools, 37 colleges, and 13 centers of excellence (≈46,000 students), highlighting institutional capacity but uneven territorial access."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 3,
+              "comment": "In sunflower vc, training is mainly organized and financed by the state with EU support. Private farms provide some informal, on-the-job learning, but systematic in-service training is rare. Employers note graduates often lack practical skills despite curricular reforms."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
