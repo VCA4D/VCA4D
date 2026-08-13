@@ -22,7 +22,13 @@
       "prettyName": "Animal products",
       "color": "#C46D4D",
       "textColor": "#C46D4D",
-      "commodities": ["beef", "egg", "milk", "poultry", "cashmere"]
+      "commodities": [
+        "beef",
+        "egg",
+        "milk",
+        "poultry",
+        "cashmere"
+      ]
     },
     {
       "id": "crop",
@@ -279,16 +285,16 @@
       "iso": "so"
     },
     {
-      "id": "tanzania",
-      "prettyName": "Tanzania",
-      "continent": "Africa",
-      "iso": "tz"
-    },
-    {
       "id": "tajikistan",
       "prettyName": "Tajikistan",
       "continent": "Asia - Pacific",
       "iso": "tj"
+    },
+    {
+      "id": "tanzania",
+      "prettyName": "Tanzania",
+      "continent": "Africa",
+      "iso": "tz"
     },
     {
       "id": "togo",
@@ -435,6 +441,13 @@
       "year": 2020,
       "country": "georgia",
       "product": "freshwater-aquaculture"
+    },
+    {
+      "id": "maize-georgia",
+      "title": "georgia maize",
+      "year": null,
+      "country": "georgia",
+      "product": "maize"
     },
     {
       "id": "groundnut-ghana",
