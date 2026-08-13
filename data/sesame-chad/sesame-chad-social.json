@@ -1,0 +1,486 @@
+{
+  "id": "sesame-chad",
+  "country": "chad",
+  "commodity": "sesame",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 1,
+              "comment": "De rares entreprises industrielles emploient journaliers et salariés dans conditions apparemment corrextes.. Lapprovisionnement de ces entreprises repose en partie sur des grandes superficies cultivées en sésame  (> 50 ha selon typologie réalisée) qui mobilisent une main d'oeuvre migrante saisonnière. Les informations recueillies auprès des recruteurs et auprès des familles de migrants convergent nettement, aucun contrôle des conditions de travail très difficiles."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 3,
+              "comment": "Des organisations professionnelles existent (coopératives, groupements, fédération de coopératives..) et sont théoriquement en mesure de négocier des ventes groupées. Capacités et ressources en pratique très faibles."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "organisation sociale/familiale de production et de commerce ; travail isolé non représenté ni défendu dans la très grande majorité des cas de l'amont à l'aval."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 1,
+              "comment": "idem"
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": "n/a",
+              "comment": "Le Code du Travail tchadien tend à l'égalité, mais segments et positions rémunérateurs détenus par des hommes et pas des groupes/ clans sociaux(commerce de gros)"
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Enfants mobilisés pour travaux de type démariage/sarclage, souvent en période d'hivernage pouvant inclure début période scolaire"
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 2,
+              "comment": "Travaux agricoles (démariage) non extraordinaires. Le cas partioculier du sésame est une pression forte à la récolte à cause de la rapidité d'éclosion des graines (capsules déhiscentes), imposant mobilisation immédiate  de toute l'aide familiale disponible et continue pour la fauche/récolte."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Faible protection (gants, chaussures et masques non systématiques) dans les usines de nettoyage et tri. Aucune dans les marchés de gros, ni dans les champs."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 3,
+              "comment": "contraste entre promesses de gains en aval dans secteur industriel /exportation et revenus journaliers aux stanrads agricoles dans le segment de production. O peut dire que c'est en substance en accord avec les standards locaux, mais qui sont très faibles."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "Jusqu'en 2026 (et résidus de stockes invendus): frote attraction pour les jeunes dans le segment du commerce et de l'exportation.  Forte demande de main d'œuvre agricole  (et capacité de négocier à cause de la pressin mise à la récolte). Mais conditions d'activités semblables à tous les travaux agricoles des filières (travaux, nettoyage, vannage, etc)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 3,
+              "comment": "Le Tchad n’a pas formellement \"adhéré\" aux VGGT (car ces directives ne font pas l’objet d’une ratification formelle : elles sont volontaires). Mais elles sont intégrées dans la formulation de sa politique nationale foncière. Les compagnies d'export, commerce ou production ne sont pas concernées."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 1,
+              "comment": "ouverture de nouvelles terres sur grandes superficies par des investisseurs nationaux et étrangers se fait avec l'appui des autorités coutumières et l'aval des autorités administratives"
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "Malgré l'existence de la Chambre de Commerce et la participation de plusieurs exportateurs de sésame, accord Tchad-Chine non diffusé, et nombreuses plaintes entendues des opérateurs grossistes/export sur l'opacité administrative concernant certificats phytosanitaire, conditions de commerce, prélèvement de taxes officielles ou sauvages (confusion entre les deux concernant la destination). Il existe toutefois des foires agri et commerciales, réunions, projets donnant accès à des informations et des contacts pro pour les regroupements d'OP. d'où la note non nulle."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Idem : il existe un tissu de groupements/coopératives/ ecoles paysans justifiant théoriquement l'appellation de modèle de participation. La réalité et le niveau politique de participation aux décisions retsent très bas."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "assez pour éviter autant que possible les conflits ; pas assez pour éviter les discriminations de genre croisées à des inégalités sociales. Menacées par ouverture de nouvelles terres là où la pression le permet."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "filière dite \"à développement spontané\". Mentionnée comme objectif dans doc Tchad 2030. Mais au niveau oéprationnel( appui conseil, crédit alternative, sécuritasion), aucune action publique en dejors d'un appui standard au niveau des petits groupements (prêt islamique au recrutement ; stockage des coopératives, avances sur dépenses). A u niveau stratégique, fort isolement des producteurs, peu d'information ; leurs stratégies familiales sont toujours de tenter diversification opportune. le sésame lui même remplace particiellement le coton dans les vieux bassins cotonniers."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 1,
+              "comment": "pas accès à l'héritage foncier dns la très grande majorité des cas. Accès par location à des très petites parcelles (1/2 à 2 cordes = 1/4 d’ha à 1 ha)"
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "productries familiales et personnelles, petites intermédiaires, transformatrices (huile, galettes), vannage manuel pour exportation régionale"
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "En théorie, 1/4 de la part de leur frère en droit islamique (quand il y a de la place), et pas en société animiste car dépendance structurelle des femmes non mariées au père et au frère, mariées dépendantes du mari. En pratique, des exceptions, avec de tr-s rares héritages (quand pas de frère), et des locations."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "dans la mesure où localement existe un projet/une coopérative"
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 1.8,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 2,
+              "comment": "pas ou peu dans la production familiale, davantage s'agissant de leur parcelle personnelle"
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Peu en considérant le reste des tâches journalières obligatoires (élevage enfants, nourriture, entretien, courses)"
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "sur leurs revenus personnels (petites parcelles, vente)"
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "cultures personnelles sur petite parcelle, transformation du sésame en huile ou gateaux"
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 1,
+              "comment": "\"les femmes elles-mêmes sont des biens\" (entendu en entretien)"
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 2,
+              "comment": "une très petite minorité des gens rencontrés en entretiens (Guera, Logone, Mayo Kebbi, Dourbali) avec grande variété locale (de nombreuses représentantes de groupements à Dourbali ; des représentantes dans quelques villages où nous avons été conduits ; peu dans d'autres villages ; sans parler des villages encore plus excentrés où nous ne sommes pas allées. Biais de sélection de villages par la fédération de coopératives sur estime la représentation."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 1,
+              "comment": "à moins d'être dans une organisation féminine"
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Please add justification."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 1,
+              "comment": "entretiens et observations (avec femmes et hommes) sur la filière sésame confirment chiffres FAO sur travail rural : fmmes travaillent au moins 12h à 13h de plus que leshommes par semaine, comptant travaux agricoles et tâches domestiques."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "lors de la récolte, les femmes lient les bottes. Les hommes fauchent. À part ça, elles travaillent dur et davantage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 2,
+              "comment": "la production alimentaire par habitant ne montre pas une forte tendance à l'augmentation, principalement en raison de la croissance démographique rapide, des défis climatiques, des limitations technologiques et d'infrastructure, ainsi que de la dépendance aux importations alimentaires. Localement sur sésame, dans Logone et Mayo Kebbi , sont évoqués croissance démo, pression foncière, baisse fertilité des sols."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 2,
+              "comment": "15 à 20 % de la demande alimentaire provient des importations, principalement de pays voisins comme le Cameroun. Parfois il s'agit de grains tchadiens transformés et emballés dans le pays à côté."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Appauvrissmement, endettement. Subsistance."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 2,
+              "comment": "Inflation, variations saisonnières"
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 1,
+              "comment": "pas observé sur les marchés."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": "n/a",
+              "comment": "pas de corrélation"
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 3,
+              "comment": "Les productrices de sésame utilisent leurs revenus personnels pour améliorer l'ordinaire de l'alimentation familiale."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Pour les producteurs isolés : non, faite d'accès au crédit décent, endettement structurel à taux usuraire. Mais c'était semblet-il pire avec l'effondrement du coton. Pour les producteurs en groupement/coopérative, quelques possibilités de ventes groupées négociées à meilleur taux."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Pas de régulation publique de la filière ; fortes fluctuations observées depuis deux ans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "Certaines ont investi le sésame en plus d'autres produits. Cas d'un entrepreneur politique qui a négocié un appui d'une banque islamique à un groupement de producteurs de sésame"
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 3,
+              "comment": "pour les villageois"
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Représentation formelle mais peu de poids et de capacité à négocier avec acheteurs."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 1,
+              "comment": "d'après nos observations, très faibles aussi bien pour l'accès aux intrants que pour la vente."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "quelques exceptions, représentants introduits dans projets, échanges, fories, formations. La majorité des autres dit que non."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Gros contraste. Pour une part, contrôle de la chaine et des échanges entre opérateurs qui se connaissent (lien horizontal), et d'autre part manque de confiance et de communication explicitement indiquées par des producteurs envers grossistes et investisseurs étrangers, de la part des investisseurs entre les grossistes, des exportateurs envers l'Etat...."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 2,
+              "comment": "tontines habituelles,pas d'innovation sésame"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 1.3333333333333333,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "Taux général très faible au Tchad.  80% de la population au dessous du seuil de pauvreté voire grande pauvreté."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 1,
+              "comment": "idem - sauf intermédiaires urbains, grossistes exportateurs"
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 1,
+              "comment": "idem"
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 1,
+              "comment": "Indicateurs très faibles au Tchad. Producteurs de la filière pas différents."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 2,
+              "comment": "tx net de scolarisation primire (6  à11 ans): environ 75% avec de fortes disparités urbain/rural et garçons/filles. Mieux vaut être le fils d'un grossiste de Moundou ou Ndjamena qu'une fille de cultivateurs de village dns le Guera le Logone ou le Mayo Kebbi."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Environ 18% de taux brut, beaucoup plus faible en zones rurales et pour les filles (FAO Youth 2025). Discrimination de genre confirmée en entretiens."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 1,
+              "comment": "Please add justification."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
