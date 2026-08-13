@@ -1,0 +1,486 @@
+{
+  "id": "cassava-cameroon",
+  "country": "cameroon",
+  "commodity": "cassava",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.4,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Le Cameroun dispose d’un cadre juridique formellement aligné sur les normes internationales du travail et a ratifié la majorité des conventions fondamentales de l’Organisation Internationale du Travail (OIT, s. d.). Toutefois, dans la chaîne de valeur du manioc, l’effectivité de ces normes reste limitée. La littérature souligne que la filière est dominée par des exploitations familiales et des unités artisanales opérant largement dans l’économie informelle, ce qui réduit l’application concrète du droit du travail (MINEPAT, 2024 ; Ngoualem Kegah et al., 2019). Les observations de terrain vont dans ce sens : l’emploi apparaît principalement organisé sous forme de travail journalier ou à la tâche, souvent basé sur des arrangements oraux et sans couverture sociale. Quelques acteurs plus structurés, notamment les services publics et certaines coopératives ou PME agroalimentaires, semblent présenter un niveau de formalisation plus élevé, mais ils restent minoritaires. Une étude de l´OIT menée dans les régions de l’Est et de l’Adamaoua confirme que les emplois agricoles saisonniers dans la filière manioc sont généralement sans contrat de travail, sans sécurité sociale et sans équipements de protection individuelle (OIT, 2025). Dans l’ensemble, le respect des normes fondamentales du travail apparaît donc partiel et très inégal selon les acteurs et les segments de la chaîne."
+            },
+            {
+              "text": "1.1.2 Is freedom of association effective (allowed and exercises)?",
+              "scoreValue": 3,
+              "comment": "La liberté d’association est juridiquement garantie au Cameroun par la Constitution et la loi relative à la liberté d’association (République du Cameroun, 1990 ; OIT, s. d.). Dans la filière manioc, elle se traduit par une forte présence de coopératives, GIC et organisations paysannes facilitant l’accès aux marchés, aux intrants et aux financements (MINEPAT, 2024 ; OIT, 2025). Toutefois, ces structures remplissent principalement des fonctions d’organisation économique et de coordination sectorielle. Leur fonctionnement interne reste variable selon les cas : le leadership peut parfois être fortement concentré et la participation effective des membres inégale, ce qui peut limiter le développement de formes plus structurées de représentation collective des travailleurs."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Dans la chaîne de valeur du manioc au Cameroun, les travailleurs disposent généralement de règles de rémunération localement connues et appliquées, notamment sous forme de paiements journaliers ou à la tâche (par exemple autour de 2500 FCFA/jour pour les ouvriers agricoles). Cependant, ces arrangements restent le plus souvent informels et non encadrés juridiquement. La littérature indique que la production et la transformation du manioc reposent largement sur l’auto-emploi, le travail familial et le travail occasionnel, ce qui limite l’existence de contrats formels et de protections sociales (MINEPAT, 2021 ; Ngoualem Kegah et al., 2019). Une étude de l´OIT menée dans l’Est et l’Adamaoua confirme que les emplois agricoles de la filière sont majoritairement saisonniers, sans contrat ni sécurité sociale (OIT, 2025). Quelques organisations plus structurées disposent d’un noyau de travailleurs permanents, mais une part importante de la main-d’œuvre reste recrutée à la tâche ou temporairement. Les réfugiés et déplacés, confrontés à un accès plus limité à la terre et aux ressources productives, apparaissent particulièrement exposés à ces formes d’emploi précaires (OIT, 2025)."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Les sources disponibles ne mettent pas en évidence de formes systématiques de travail forcé dans la chaîne de valeur du manioc. La filière repose principalement sur la petite production familiale, l’auto-emploi et le travail occasionnel, ce qui correspond à des formes d’organisation du travail courantes dans l’agriculture vivrière (MINEPAT, 2024). Toutefois, le contexte d’informalité généralisée peut créer des situations de vulnérabilité économique. Une étude de l´OIT (2025) montre notamment que, dans l’Est (également confirmé par les observations de terrain) et l’Adamaoua, les travailleurs saisonniers de la filière manioc sont généralement employés sans contrat de travail ni sécurité sociale, tandis que les réfugiés disposent d’un accès limité à la terre. Dans ce contexte, le risque principal apparaît moins lié à une coercition directe qu’à l’acceptation de conditions de travail défavorables faute d’alternatives économiques réelles."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 3,
+              "comment": "La chaîne de valeur du manioc au Cameroun présente une participation sociale large, avec une forte présence des femmes et un accès relativement ouvert pour les jeunes et certaines populations déplacées. La littérature souligne notamment la forte féminisation de la filière, en particulier dans la transformation et la commercialisation, où les femmes peuvent représenter jusqu’à 90 % des acteurs (Emmanuel, 2013 ; Ngoualem Kegah et al., 2019). Les observations et les données disponibles indiquent par ailleurs peu de discrimination salariale directe pour les travaux journaliers, avec une rémunération d’environ 2 500 FCFA pour huit heures de travail pour les hommes comme pour les femmes dans l’Est et l’Adamaoua (OIT, 2025). Les femmes, les jeunes et les populations déplacées restent souvent concentrés dans les segments les plus précaires ou informels de la filière (OIT, 2025). Dans l’ensemble, la filière apparaît inclusive en termes de participation mais segmentée dans l’accès aux ressources et aux opportunités économiques."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case children are working (in any segment of the value chain)?",
+              "scoreValue": 3,
+              "comment": "Les informations disponibles ne suggèrent pas un recours généralisé au travail des enfants dans la filière manioc des régions étudiées ; les situations observées relèvent plutôt d’aide familiale ponctuelle dans les activités agricoles. Les données du RGPH (2005) indiquaient que 6,8 % des enfants de 6 à 14 ans exerçaient une activité économique au niveau national, avec des niveaux plus faibles dans les régions méridionales couvertes par l’étude (0,5–1,3 %) mais plus élevés dans l’Est (4,7 %) (République du Cameroun, BUCREP, 2005). Ces chiffres restent anciens et doivent être interprétés avec prudence. Des données plus récentes montrent une scolarisation primaire élevée au niveau national (90,1 %), bien que des disparités territoriales persistent, notamment dans les régions rurales comme l’Est (UNICEF Cameroun, 2025a). Dans ce contexte, la participation des enfants aux activités agricoles semble davantage liée aux contraintes rurales d’accès et de continuité scolaires qu’à un système structuré de travail des enfants."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to heavy workloads and/or harmful jobs?",
+              "scoreValue": 2,
+              "comment": "Le Cameroun a ratifié les conventions de l’OIT sur l’âge minimum (Convention 138) et les pires formes de travail des enfants (Convention 182), avec un âge minimum de travail fixé à 14 ans (OIT, s. d.). Toutefois, dans la filière manioc largement informelle, la protection contre les travaux dangereux reste difficile à vérifier. Les activités agricoles et de transformation impliquent en effet des risques physiques importants (machettes, port de charges, machines artisanales), souvent avec des équipements rudimentaires (Ngoualem Kegah et al., 2019). Dans ce contexte, lorsque des enfants participent ponctuellement aux activités familiales, il n’est pas toujours possible de garantir leur protection contre ces risques."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Les risques liés à la santé et à la sécurité au travail sont présents tout au long de la chaîne de valeur du manioc. Les activités de production impliquent des tâches physiquement exigeantes (arrachement des racines, transport manuel, usage d’outils tranchants), tandis que la transformation artisanale expose à des risques mécaniques et sanitaires, souvent liés à l’utilisation d’équipements rudimentaires ou insuffisamment sécurisés (Ngoualem Kegah et al., 2019 ; observations de terrain). Dans les régions de l’Est et de l’Adamaoua, les emplois agricoles saisonniers sont par ailleurs fréquemment exercés sans équipements de protection individuelle ni protection sociale (OIT, 2025). Si certaines unités semi-industrielles ou structures publiques disposent de dispositifs de prévention plus formalisés, ces situations restent minoritaires. Dans l’ensemble, le niveau de protection contre les accidents et les atteintes à la santé demeure limité dans la majorité des maillons de la filière, en particulier dans les segments artisanaux et informels."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "Dans la filière manioc, les rémunérations sont généralement alignées sur les usages du marché du travail rural informel, malgré l’existence d’un SMIG fixé à 60000 FCFA/mois, avec un minimum d’environ 45000 FCFA/mois pour l’agriculture (décrets 2023–2024). En pratique, les activités sont surtout rémunérées à la journée ou à la tâche, avec des barèmes relativement stabilisés : environ 2500 FCFA/jour pour un ouvrier agricole, 30 FCFA/kg pour l’épluchage ou 40000 FCFA/ha pour certaines opérations agricoles. La saisonnalité des activités, l’irrégularité des emplois et l’absence fréquente de contrats ou de protection sociale rendent toutefois la comparaison avec un salaire mensuel difficile et limitent la stabilité des revenus (OIT, 2025).\r\n\r\nL’attractivité économique varie selon les maillons de la chaîne. Les activités de production manuelle, physiquement exigeantes, attirent relativement peu les jeunes, qui se tournent parfois vers des activités à revenus plus rapides comme le mototaxi ou certaines activités minières artisanales dans l’Est. Les activités de transformation et de commercialisation, fortement féminisées, peuvent générer davantage de valeur ajoutée mais restent largement organisées autour d’unités artisanales aux revenus variables (Ngoualem Kegah et al., 2019 ; Duval et al., 2013). Les réfugiés et déplacés internes, notamment dans l’Est et l’Adamaoua, participent souvent comme main-d’œuvre saisonnière dans des conditions plus précaires et avec un accès limité aux ressources productives (OIT, 2025)."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "L’attractivité de la filière manioc pour les jeunes apparaît globalement limitée dans les segments traditionnels, en raison de la pénibilité du travail et de revenus souvent irréguliers. Dans un contexte où 64,2 % de la population a moins de 25 ans et où la pauvreté est nettement plus élevée en milieu rural (56,8 % contre 8,9 % en milieu urbain) (OIT, 2018), les jeunes tendent à privilégier des activités offrant des revenus plus rapides et moins contraignants. Toutefois, cette tendance n’est pas uniforme : les observations de terrain, notamment dans la région de l’Est, indiquent l’existence d’un intérêt réel de certains jeunes pour la filière, que ce soit à travers des initiatives entrepreneuriales sur de plus grandes superficies ou dans le cadre de stratégies de pluriactivité combinant agriculture et activités non agricoles. L’attractivité de la filière pourrait ainsi être renforcée par la mécanisation et le développement de segments plus techniques et rémunérateurs, notamment dans la transformation et l’entrepreneuriat (OIT, 2025)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 1,
+              "comment": "Les Directives volontaires sur la gouvernance responsable des régimes fonciers (VGGT) constituent une référence internationale pour promouvoir la transparence, la participation et la protection des droits fonciers légitimes (FAO, 2012). Au Cameroun, ces principes sont particulièrement pertinents dans un contexte marqué par une articulation incomplète entre droit formel et pratiques coutumières, l’absence d’un cadastre pleinement opérationnel et des inégalités persistantes d’accès à la terre pour certains groupes (FAO, UE & CIRAD, 2022). Dans la chaîne de valeur du manioc, les acteurs rencontrés ne se réfèrent généralement pas explicitement aux VGGT; l’accès au foncier repose surtout sur des arrangements locaux impliquant familles, chefferies et autorités coutumières. Toutefois, certains principes des VGGT (notamment la négociation avec les communautés et la recherche de consensus local) se retrouvent de manière informelle ; les analyses récentes soulignent néanmoins la nécessité de renforcer la transparence et la participation des communautés dans la gouvernance foncière, en particulier face aux dynamiques d’acquisitions foncières à grande échelle (FAO, UE & CIRAD, 2022 ; IIED, 2021)."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 2,
+              "comment": "Dans la filière manioc au Cameroun, l’application du Guide de diligence raisonnable pour des investissements agricoles responsables apparaît globalement limitée et peu systématique. Ce référentiel international recommande notamment l’identification des détenteurs de droits, l’évaluation des impacts sociaux et environnementaux, la consultation des parties prenantes, la compensation et la prévention des conflits (OCDE & FAO, 2016). Or, même si les investissements fonciers à très grande échelle restent encore relativement peu fréquents dans la filière, dominée par des exploitations familiales de petite taille (MINEPAT, 2021), l’émergence de segments de transformation plus intégrés entraîne une demande accrue pour l’accès à de grandes superficies agricoles.\r\n\r\nLes informations issues des enquêtes de terrain suggèrent que l’accès au foncier dans ces projets repose souvent sur des dispositifs hybrides combinant négociations communautaires et démarches administratives. Toutefois, la transparence des modalités d’acquisition, la réalité du consentement communautaire et les mécanismes de compensation restent parfois difficiles à documenter. Les analyses disponibles indiquent ainsi que les démarches de diligence raisonnable ne sont pas systématiquement formalisées ni alignées sur les standards internationaux, ce qui peut générer des tensions locales autour de l’accès à la terre (IIED, 2021)."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "La diffusion de l’information relative aux décisions foncières apparaît variable et souvent limitée dans la filière manioc. Au niveau national, plusieurs initiatives et stratégies visent à renforcer la transparence et la participation des communautés dans la gouvernance foncière, notamment à travers des plateformes de dialogue multi-acteurs et la modernisation du système d’enregistrement foncier (FAO, UE & CIRAD, 2022). Dans la pratique, toutefois, l’information circule encore largement à travers des réseaux locaux (autorités coutumières, familles propriétaires ou notables) ce qui peut en limiter l’accessibilité pour certains groupes. Les travaux empiriques montrent que les transactions foncières restent majoritairement informelles et que l’accès à l’information dépend souvent des relations sociales et de l’ancrage local (Tchékoté et al., 2018). Dans les contextes où des projets agro-industriels ou de transformation plus intégrés émergent, les modalités d’information et de consultation des communautés restent parfois peu documentées, ce qui peut alimenter des tensions locales autour de l’accès aux terres et des conditions de compensation."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "Le cadre juridique foncier camerounais est formellement établi, notamment à travers l’ordonnance de 1974 et la loi de 1985 sur l’expropriation et l’indemnisation (République du Cameroun, 1974 ; 1985). Toutefois, l’accessibilité et la compréhension de ces règles restent limitées pour de nombreux acteurs ruraux. Des analyses récentes soulignent que la complexité des procédures, la reconnaissance partielle des droits coutumiers et les difficultés d’opérationnalisation des politiques foncières constituent des enjeux majeurs pour le développement agricole (FAO, UE & CIRAD, 2022 ; IIED, 2021). Sur le terrain, cela se traduit par un recours fréquent à des arrangements locaux (locations verbales, transactions via chefferies ou titres familiaux), souvent mieux compris que les dispositifs administratifs formels. Les règles d’accès à l’eau apparaissent encore moins formalisées dans certains contextes, où les usages reposent principalement sur des pratiques communautaires pouvant générer des tensions en zones d’intensification agricole (Tchékoté et al., 2018)."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Dans la chaîne de valeur du manioc au Cameroun, la participation aux décisions relatives à l’accès à la terre et à l’eau apparaît globalement présente mais différenciée selon les groupes sociaux et les contextes territoriaux. Les analyses disponibles indiquent que les femmes, les jeunes et certaines populations déplacées rencontrent encore des contraintes pour sécuriser des droits fonciers autonomes, notamment en raison du poids des arrangements coutumiers, des coûts et de la complexité des procédures formelles (FAO, UE & CIRAD, 2022 ; IIED, 2021 ; PAM, FAO et partenaires ONU, 2025). Par ailleurs, dans les zones d’intensification agricole, la pression accrue sur les ressources hydriques peut renforcer des inégalités sociales existantes et générer des tensions locales (Tchékoté et al., 2018). Dans l’ensemble, la gouvernance des ressources apparaît relativement inclusive en termes de participation, mais demeure marquée par des écarts persistants dans l’accès effectif aux ressources productives."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "Dans la chaîne de valeur du manioc, le consentement libre, préalable et éclairé (FPIC) ne semble pas appliqué de manière formalisée et systématique. Les décisions foncières reposent le plus souvent sur des consultations coutumières ou communautaires dont le niveau d’inclusivité et de documentation varie selon les contextes (FAO, 2012 ; OCDE & FAO, 2016 ; IIED, 2021). Si le référentiel FPIC apparaît mieux structuré dans certains dispositifs liés à la conservation et aux droits des peuples autochtones, son application aux projets agricoles demeure partielle. Dans l’ensemble, l’effectivité du consentement préalable reste donc variable selon les territoires et les configurations d’acteurs."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Le cadre juridique camerounais fournit une base formelle pour la sécurisation des droits fonciers, notamment à travers les ordonnances de 1974 et la loi de 1985 sur l’expropriation (République du Cameroun, 1974 ; 1985), mais son effectivité reste partielle. Les analyses sectorielles soulignent l’absence d’un cadastre pleinement opérationnel et la protection encore inégale de certains groupes, tandis que l’accès à la terre constitue une contrainte structurelle pour la filière manioc, dominée par des exploitations familiales fragmentées et dépendantes d’arrangements locaux (FAO, UE & CIRAD, 2022 ; MINEPAT, 2021). Dans plusieurs territoires, l’intensification agricole et l’émergence de projets plus intégrés s’accompagnent d’une pression foncière accrue, caractérisée par des transactions informelles, des difficultés d’accès pour les non-autochtones et des dynamiques d’accumulation foncière (Tchékoté et al., 2018), tandis que certaines analyses mettent en évidence la reconnaissance encore limitée des droits coutumiers et des inégalités persistantes d’accès aux ressources (IIED, 2021). Les contraintes liées à l’eau apparaissent variables mais peuvent devenir significatives dans les zones densifiées, où la concurrence entre usages génère des tensions locales (Tchékoté et al., 2018) ; à cela s’ajoutent aussi, notamment dans certaines zones de l’Est, des conflits agropastoraux affectant la sécurisation des moyens d’existence (Mappe, 2019)."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "Les informations disponibles suggèrent que des stratégies alternatives face à la perte d’accès à la terre ou à l’eau existent, mais qu’elles restent limitées et peu institutionnalisées. Des analyses indiquent que certaines collectivités peuvent mobiliser des terres du domaine national pour soutenir des initiatives agricoles ou territoriales (Fofiri & Temple, 2023), tandis que des travaux sur les systèmes alimentaires au Cameroun mettent en avant des leviers tels que la sécurisation de l’accès foncier, la mobilisation de terres sous-utilisées ou le renforcement de la concertation locale (FAO, UE & CIRAD, 2022).\r\n\r\nDans la pratique, toutefois, les réponses observées relèvent surtout d’arrangements locaux ou d’adaptations individuelles (location, relocalisation, diversification des activités), notamment dans des contextes de pression foncière accrue liés à des projets industriels ou d’infrastructures. Des recherches menées dans la région de Kribi montrent ainsi que les compensations et mesures d’accompagnement ont parfois été perçues comme insuffisantes, conduisant à des recompositions des moyens d’existence plutôt qu’à des stratégies collectives structurées de restauration économique (Tchékoté et al., 2024). Par ailleurs, dans les zones d’intensification agricole, les ajustements liés à l’accès à l’eau reposent principalement sur des initiatives privées d’investissement dans l’irrigation ou le captage, ce qui peut renforcer les inégalités d’accès selon les capacités économiques des acteurs (Tchékoté et al., 2018)."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 2,
+              "comment": "Le cadre juridique camerounais prévoit un dispositif formel d’indemnisation en cas d’expropriation pour cause d’utilité publique, notamment à travers la loi n° 85-09 du 4 juillet 1985 qui encadre la compensation des terrains, cultures et autres mises en valeur ainsi que les procédures de préavis (République du Cameroun, 1985). Toutefois, la littérature et les observations disponibles invitent à une appréciation prudente de son effectivité. Des analyses de gouvernance foncière soulignent que les modalités de calcul des compensations, les délais de paiement et la prise en compte des droits d’usage peuvent faire l’objet de contestations (IIED, 2021). Des travaux récents sur l’industrialisation dans la région de Kribi mettent également en évidence des situations de déplacement de communautés liées à de grands projets d’infrastructures, avec des compensations parfois perçues comme insuffisantes et conduisant à des stratégies individuelles de réorganisation des moyens d’existence (Tchékoté et al., 2024). Dans l’ensemble, si un système de compensation existe sur le plan légal, sa mise en œuvre apparaît variable selon les contextes et ne garantit pas toujours une perception d’équité ou de rapidité par les populations concernées."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 3,
+              "comment": "Au Cameroun, des mécanismes formels de recours existent en matière foncière, notamment à travers la possibilité de contester les indemnités liées à l’expropriation auprès de l’administration puis des juridictions compétentes (République du Cameroun, 1985). Dans la pratique, les conflits sont souvent traités de manière graduelle, en privilégiant d’abord des formes de médiation locale impliquant autorités traditionnelles ou administratives avant un éventuel recours aux tribunaux. Les analyses disponibles montrent par ailleurs que les litiges fonciers représentent une part importante du contentieux (environ 65 % des affaires civiles et 85 % des affaires administratives en 2016), traduisant à la fois l’existence de voies de recours et une conflictualité persistante (IIED, 2021). Concernant l’accès à l’eau, des tensions locales sont signalées dans certaines zones d’intensification agricole, généralement gérées par des arrangements communautaires plutôt que par des dispositifs institutionnels stabilisés (Tchékoté et al., 2018). Dans l’ensemble, les mécanismes de règlement existent mais leur accessibilité et leur efficacité demeurent variables selon les territoires et les groupes d’acteurs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "La chaîne de valeur du manioc au Cameroun se caractérise par une forte participation féminine, notamment dans la production, la transformation artisanale et la commercialisation de proximité. Les femmes représentent environ 68,75 % des acteurs de la transformation et du commerce du manioc, avec des cas de féminisation totale pour certaines activités, et jusqu’à 82,86 % des transformateurs dans la région du Littoral (Njukwe et al., 2014 ; Fon & Djoudji, 2017). Cette présence s’inscrit dans un contexte où les femmes constituent 71,6 % de la main-d’œuvre du secteur informel agricole (Brun, 2019).\r\n\r\nToutefois, leur participation demeure associée principalement aux segments traditionnels à faible capitalisation, tandis que les fonctions nécessitant davantage de capital, d’organisation logistique ou d’intégration commerciale sont plus souvent dominées par des hommes. Les risques d’exclusion apparaissent ainsi davantage liés aux processus de formalisation et de montée en rentabilité des activités qu’à l’accès initial à la filière (Palacios-Lopez et al., 2017 ; UN Women, 2021)."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "Les femmes sont particulièrement actives dans les activités de production, de transformation et de commercialisation du manioc, où elles mobilisent un savoir-faire spécifique et tirent une part importante de leurs revenus (Njukwe et al., 2014 ; Ndjouenkeu et al., 2020). Toutefois, leur accès aux activités les plus rentables ou formalisées demeure plus contraint, notamment en raison d’inégalités d’accès aux ressources financières et aux outils numériques : 19,6 % des hommes adultes possèdent un compte bancaire contre 9,9 % des femmes, et 76,9 % des hommes disposent d’un téléphone portable contre 63,6 % des femmes (INS, 2024). La forte pénibilité du travail manuel dans la transformation peut également limiter les gains de productivité et la montée en gamme économique (Bello et al., 2024).\r\n\r\nDans ce contexte, certaines activités tendent à se masculiniser lorsqu’elles deviennent plus capitalisées ou mieux intégrées aux circuits commerciaux formels, les hommes étant généralement plus susceptibles d’investir les segments agricoles à plus forte rentabilité (Palacios-Lopez et al., 2017)."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Les femmes impliquées dans la chaîne de valeur du manioc disposent principalement d’actifs productifs de faible valeur capitalistique, tels que des équipements artisanaux de transformation et des outils agricoles manuels, acquis progressivement à partir des revenus générés par leurs activités ou dans le cadre de dynamiques collectives locales (Njukwe et al., 2014 ; Dumas et al., 2005). L’accès aux équipements mécanisés, aux infrastructures de stockage ou aux moyens de transport motorisés demeure globalement limité dans l’agriculture vivrière camerounaise en raison du coût élevé des investissements et de dispositifs de financement peu adaptés (MINADER, 2011).\r\n\r\nCes contraintes peuvent être plus marquées pour les femmes, en lien avec des écarts d’accès aux services financiers formels (INS, 2024) et leur concentration dans des segments économiques à faible capitalisation. Dans certaines zones, comme dans la région du Littoral où les transformateurs sont majoritairement des femmes (82,9 %), le manque d’équipements adaptés et l’accès limité à la formation technique sont également identifiés comme des obstacles à l’amélioration de la productivité et de la rentabilité des activités (Fon & Temkeng, 2017)."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 1,
+              "comment": "Les femmes disposent généralement de niveaux de sécurisation foncière plus faibles que les hommes. Malgré un cadre juridique formellement non discriminatoire, l’accès à la terre reste largement structuré par les normes coutumières et les relations familiales, les droits féminins étant souvent indirects ou dépendants du statut marital (Fonjong, 2010). Les limites du cadastre et l’articulation incomplète entre droit écrit et systèmes coutumiers renforcent cette vulnérabilité (FAO-UE-CIRAD, 2022).\r\n\r\nLes indicateurs confirment ces écarts : 1,6 % des femmes détiennent un titre foncier immobilier et 3 % possèdent des biens sans titre (Brun, 2019), tandis que 26 % des femmes disposent de droits sécurisés sur les terres agricoles contre 56,7 % des hommes (Nzossié et al., 2025). Dans la filière manioc, cette insécurité peut limiter les investissements productifs et le contrôle des revenus."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "L’accès des femmes aux services financiers formels reste inférieur à celui des hommes : 11,3 % des hommes y ont accès contre 7,8 % des femmes, et 19,6 % des hommes possèdent un compte bancaire contre 9,9 % des femmes (INS, 2024). Les femmes recourent davantage aux mécanismes informels (15,8 % contre 13,2 %), aux capacités d’investissement limitées, et seulement 16,8 % bénéficient d’un crédit (Brun, 2019).\r\n\r\nCette situation, liée à leur concentration dans des activités informelles à faible capitalisation (UN Women, 2021), tend à maintenir dans la filière manioc des activités de transformation artisanale à petite échelle et à limiter l’accès aux équipements mécanisés et aux marchés structurés."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Les femmes ont accès aux services de soutien à la production (vulgarisation agricole, diffusion de variétés améliorées, appui technique), mais cet accès reste variable selon les territoires et l’appartenance à des organisations de producteurs ou de transformateurs, souvent nécessaires pour bénéficier des intrants et des formations. Les contraintes techniques et le manque de formation continuent de limiter la productivité et la qualité dans les unités artisanales de transformation (Njukwe et al., 2014), tandis que l’insuffisance d’appui technique et l’accès limité aux équipements collectifs freinent la modernisation des activités dans certains contextes (Fon & Temkeng, 2017).\r\n\r\nL’enclavement des zones de production, les contraintes de mobilité et la charge de travail domestique peuvent également réduire la participation effective des femmes aux dispositifs d’accompagnement. Dans l’ensemble, bien que fréquemment ciblées par les interventions agricoles, leur accès régulier et effectif aux services de soutien demeure hétérogène."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.8,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 3,
+              "comment": "Les femmes disposent d’un pouvoir décisionnel effectif dans les activités quotidiennes de production et de transformation du manioc, notamment dans les unités artisanales ou familiales. Toutefois, leur influence apparaît plus limitée dans les décisions stratégiques liées aux investissements productifs, à l’accès aux marchés ou à l’allocation des actifs. Des données du Programme alimentaire mondial indiquent que 25 % des femmes prennent seules les décisions concernant l’utilisation des ressources reçues, tandis que 64 % déclarent une prise de décision conjointe, reflétant une autonomie décisionnelle souvent partielle et négociée au sein des ménages (WFP, 2024)."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work (within vs outside the VC)?",
+              "scoreValue": 3,
+              "comment": "Dans la chaîne de valeur du manioc, les femmes disposent d’une autonomie organisationnelle importante dans les activités de transformation et de commercialisation à petite échelle, reposant sur des savoir-faire techniques spécifiques liés à la qualité des produits et à l’adaptation aux préférences des consommateurs (Njukwe et al., 2014 ; Ndjouenkeu et al., 2020).\r\n\r\nCette autonomie demeure toutefois contrainte par la charge de travail domestique et productive : les femmes consacrent en moyenne 8,2 heures de plus par semaine que les hommes aux tâches domestiques non rémunérées, ce qui limite leur disponibilité pour le développement des activités économiques ou la participation aux formations (Brun, 2019). La forte pénibilité des opérations manuelles de transformation du manioc — majoritairement réalisées par des femmes — peut également restreindre leur marge de manœuvre organisationnelle et les gains de productivité (Bello et al., 2024 ; Njukwe et al., 2014)."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 3,
+              "comment": "Les femmes exercent généralement un contrôle total sur les revenus issus des activités de transformation et de commercialisation, souvent mobilisés pour les dépenses courantes du ménage. Ce contrôle peut diminuer lorsque les activités deviennent plus capitalisées ou formalisées, notamment lorsque les revenus transitent par des dispositifs financiers ou contractuels plus structurés."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 3,
+              "comment": "Les femmes génèrent des revenus autonomes dans la chaîne de valeur du manioc, principalement à travers la transformation artisanale et la vente de produits dérivés. Ces revenus contribuent à la résilience économique des ménages et à la couverture des dépenses quotidiennes. Cependant, la littérature souligne que l’utilisation et le contrôle des ressources par les femmes diminuent généralement avec la valeur économique ou sociale des actifs concernés (Palacios-Lopez et al., 2017 ; Brun, 2019). L’autonomie économique féminine apparaît ainsi plus marquée dans les segments traditionnels à faible capitalisation."
+            },
+            {
+              "text": "3.3.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "La participation des femmes aux décisions relatives à l’acquisition, à la cession ou au transfert d’actifs productifs demeure généralement limitée. Les droits fonciers féminins reposent souvent sur des arrangements coutumiers ou familiaux, parfois conditionnels ou temporaires, ce qui réduit leur capacité à influencer de manière autonome les décisions patrimoniales (Fonjong, 2010 ; FAO-UE-CIRAD, 2022). Les indicateurs nationaux confirment ces écarts : 3 % des femmes possèdent une maison sans titre de propriété et 1,6 % disposent d’un titre à leur nom (Brun, 2019).\r\n\r\nDans un contexte agricole marqué par une faible capitalisation et un accès restreint au financement formel (MINADER, 2011 ; INS, 2024), les femmes apparaissent davantage impliquées dans les décisions opérationnelles quotidiennes que dans les arbitrages stratégiques liés aux actifs structurants au sein de la chaîne de valeur du manioc."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 4,
+              "comment": "Les femmes participent activement aux organisations locales de producteurs et aux associations de transformation du manioc. Cette forte participation constitue un levier potentiel d’accès aux services, à l’information et aux marchés."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 3,
+              "comment": "Les femmes occupent fréquemment des fonctions de responsabilité dans les organisations locales, notamment dans les segments de transformation et de commercialisation. Toutefois, l’accès aux positions d’influence les plus élevées est généralement conditionné par le capital économique, éducatif ou social des femmes concernées."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Le pouvoir d’influence des femmes sur les services agricoles, la gouvernance territoriale et les processus décisionnels demeure globalement limité, bien que variable selon les contextes. À l’échelle nationale, les femmes représentaient 27,1 % des parlementaires en 2017, traduisant une participation politique réelle mais encore éloignée de la parité (Brun, 2019). Dans la chaîne de valeur du manioc, leur influence s’exerce plus fréquemment à travers des fonctions de leadership au sein d’organisations de producteurs ou de transformateurs, facilitant l’accès à certains services ou appuis sectoriels.\r\n\r\nCependant, cette capacité d’influence reste socialement différenciée et dépend souvent du capital économique, éducatif ou relationnel des actrices concernées. Dans l’ensemble, les femmes disposent d’espaces d’influence au niveau local et sectoriel, mais leur capacité à peser sur les décisions structurantes liées aux politiques agricoles ou aux investissements territoriaux demeure inégale."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 3,
+              "comment": "Les femmes participent aux réunions communautaires, aux assemblées de coopératives et aux instances locales liées aux activités agricoles et de transformation du manioc, où elles représentent souvent une part importante des membres. Cette participation se traduit généralement par une prise de parole active ou une influence équivalente dans les processus décisionnels. L’expression publique peut toutefois être conditionnée par les normes sociales de genre, le niveau d’éducation, l’expérience organisationnelle ou la charge de travail domestique et productive. Les femmes occupant des fonctions de leadership disposent généralement d’une capacité de représentation plus élevée, mais celle-ci reste socialement différenciée."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "La charge de travail des femmes dans la chaîne de valeur du manioc apparaît globalement disproportionnée en raison de la combinaison des activités agricoles et des responsabilités domestiques. Les femmes consacrent en moyenne 8,2 heures de plus par semaine que les hommes aux travaux domestiques non rémunérés, ce qui peut limiter leur disponibilité pour les activités économiques, la participation aux formations ou l’engagement dans les organisations collectives (Brun, 2019). Cette surcharge reflète des normes sociales persistantes liées à la division sexuée du travail, susceptibles de restreindre leur accès aux opportunités économiques et d’investissement (UN Women, 2021).\r\n\r\nDans la filière manioc, cette contrainte est renforcée par l’intensité du travail manuel associé aux opérations de transformation — majoritairement réalisées par des femmes — qui peuvent être longues et physiquement exigeantes, limitant les gains de productivité et les possibilités de diversification économique (Njukwe et al., 2014)."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "L’accès à des technologies améliorées de transformation du manioc peut contribuer à réduire la pénibilité du travail féminin et à améliorer la productivité, en diminuant l’intensité physique et le temps nécessaire aux opérations tout en améliorant la qualité des produits transformés (Njukwe et al., 2014 ; Bello et al., 2024).\r\n\r\nToutefois, l’effet inclusif de ces innovations dépend des modalités d’accès aux équipements et au financement. Lorsque les technologies sont diffusées à travers des projets ou des organisations collectives, elles peuvent améliorer les conditions de travail et les revenus des transformateurs. À l’inverse, un accès différencié aux équipements mécanisés pourrait potentiellement favoriser une concentration de la valeur ajoutée et modifier la répartition entre les genres des rôles économiques au sein de la chaîne de valeur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.1.1 To what extent does the VC contribute to incease the local production of food?",
+              "scoreValue": 3,
+              "comment": "La production vivrière au Cameroun reste globalement élevée, avec un rôle central du manioc dans les systèmes alimentaires nationaux. Cette culture a connu une croissance globale au cours des dernières années, avec une production estimée à environ 6,45 millions de tonnes en 2023, confirmant son importance dans l’approvisionnement alimentaire (FAO-CIRAD-UE, 2022). Dans les bassins étudiés (Centre, Sud, Ouest, Littoral, Est), les observations confirment une production soutenue et en expansion relative, principalement liée à l’extension des superficies cultivées et au rôle du manioc comme culture de subsistance et de sécurité alimentaire.\r\n\r\nCependant, cette dynamique doit être analysée à la lumière de la croissance démographique rapide du pays. La population du Cameroun est estimée à 28,9 millions d’habitants en 2023, contre environ 17,5 millions en 2005, soit une augmentation très significative en moins de deux décennies (BUCREP, 2023). Dans ce contexte, bien que la production agricole progresse, celle-ci reste en grande partie extensive, ce qui limite les gains de productivité par hectare. Cette dynamique d’expansion repose souvent sur l’augmentation des superficies cultivées au détriment des espaces forestiers, ce qui engendre des conséquences environnementales importantes, notamment en termes de déforestation, de perte de biodiversité et de dégradation des sols. L’augmentation des volumes produits ne se traduit donc pas nécessairement par une amélioration proportionnelle de la disponibilité alimentaire par habitant.\r\n\r\nPar ailleurs, cette croissance demeure fragilisée par des contraintes structurelles — notamment l’accès limité aux terres, aux intrants et aux infrastructures — ainsi que par des chocs récurrents (aléas climatiques et insécurité), qui affectent la capacité du système à répondre durablement à la demande (FAO, 2025 ; IFRC, 2025). Enfin, l’impact réel de la production sur la disponibilité alimentaire est partiellement réduit par des pertes post-récolte élevées (cf. analyse fonctionnelle), dans un contexte où plus de 3 millions de personnes étaient en situation d’insécurité alimentaire aiguë en 2024, ce qui souligne les limites structurelles du système alimentaire (FAO, 2025)."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 3,
+              "comment": "L’offre alimentaire sur les marchés locaux apparaît globalement soutenue dans les bassins manioc, notamment grâce au rôle des produits transformés (gari, bâtons, pâte fermentée), qui se conservent mieux que les racines fraîches et permettent un approvisionnement plus régulier des marchés urbains et périurbains (Njukwe et al., 2014 ; FAO-CIRAD-UE, 2022). Toutefois, la régularité de l´offre demeure dépendante de facteurs structurels tels que l’état des infrastructures routières, les coûts de transport et les capacités de transformation. Elle reste également sensible aux chocs conjoncturels : les conflits et les aléas climatiques continuent de perturber les activités agricoles et l’acheminement des denrées, avec des effets différenciés selon les régions (FAO, 2025). En outre, les capacités limitées de stockage et le caractère largement informel de la chaîne de valeur contribuent à accentuer la variabilité saisonnière des volumes disponibles sur les marchés."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food thanks to activities linked to the VC?",
+              "scoreValue": 2,
+              "comment": "Dans les bassins manioc, cette culture joue un rôle important dans la génération de liquidités régulières à petite échelle, notamment à travers la production, la transformation et la commercialisation de produits dérivés. Ces revenus permettent de couvrir des dépenses quotidiennes essentielles (alimentation, santé, éducation), en particulier pour les ménages ruraux et périurbains.\r\n\r\nCependant, cette contribution ne se traduit pas par une amélioration généralisée du pouvoir d’achat alimentaire. À l’échelle nationale, 62 % des ménages sont en situation d’insécurité alimentaire modérée ou sévère, dont 17 % en situation sévère, selon l’indicateur FIES (FAO, 2024), ce qui reflète des contraintes persistantes d’accès économique à l’alimentation. Les données de l’ENSAN indiquent par ailleurs qu’une part importante des ménages consacre une proportion élevée de ses dépenses à l’alimentation, signe d’une faible marge de manœuvre budgétaire (WFP, 2021).\r\n\r\nCes résultats s’inscrivent dans un contexte où la croissance économique récente n’a pas été suffisamment inclusive pour améliorer significativement les revenus des ménages les plus vulnérables (World Bank, 2025). Dans la filière manioc, les revenus générés restent généralement modestes et sensibles aux fluctuations des prix, à la saisonnalité des activités agricoles et aux contraintes logistiques, ce qui limite leur capacité à soutenir un accès durable à une alimentation diversifiée (FAO–UE–CIRAD, 2022)."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 2,
+              "comment": "Les données disponibles n’indiquent pas de baisse durable des prix alimentaires ni de réduction significative de leur volatilité. Les analyses récentes montrent au contraire que les prix restent globalement élevés et sensibles aux chocs, ce qui continue de peser sur le pouvoir d’achat des ménages, en particulier dans les zones urbaines et dépendantes des marchés (FAO, 2025). Dans ce contexte, le manioc et ses produits dérivés jouent un rôle de stabilisateur relatif, en raison de leur disponibilité locale et de leur moindre dépendance aux marchés internationaux (FAO–UE–CIRAD, 2022). Ils permettent ainsi d’atténuer partiellement l’impact des hausses de prix sur l’accès calorique de base. Toutefois, cet effet reste limité. Les prix des produits à base de manioc demeurent influencés par la saisonnalité de la production, les coûts de transport, les contraintes logistiques et la faible capacité de stockage, ce qui entretient des variations de prix entre périodes et zones."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "La qualité nutritionnelle de l’alimentation ne montre pas d’amélioration significative au Cameroun. Si la disponibilité calorique est globalement assurée, notamment grâce au manioc, les régimes alimentaires restent dominés par des aliments riches en glucides et pauvres en protéines et en micronutriments, ce qui limite leur qualité nutritionnelle (FAO–UE–CIRAD, 2022).\r\n\r\nLes indicateurs nutritionnels confirment cette vulnérabilité. L’analyse IPC estime qu’entre 2023 et 2024, environ 394077 enfants de 6 à 59 mois souffrent de malnutrition aiguë, dont 146382 cas sévères, traduisant des déficits importants en apports nutritionnels. Par ailleurs, seuls 16 % des enfants de 6 à 23 mois atteignent un régime alimentaire minimum acceptable, ce qui reflète à la fois une faible diversité alimentaire et des pratiques nutritionnelles inadéquates (IPC, 2024).\r\n\r\nCette situation s’explique notamment par un accès limité à des aliments diversifiés, en particulier les sources de protéines, ainsi que par des contraintes économiques et structurelles affectant les ménages."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "Les pratiques alimentaires et de soins nutritionnels montrent des améliorations localisées, notamment dans les zones couvertes par des programmes de sensibilisation et des interventions sanitaires, mais ces progrès demeurent globalement limités et hétérogènes. Les données disponibles indiquent que les pratiques d’alimentation des nourrissons et des jeunes enfants (ANJE) restent insuffisantes : seuls 16 % des enfants de 6 à 23 mois atteignent un régime alimentaire minimum acceptable, ce qui reflète des pratiques nutritionnelles inadéquates (IPC, 2024), avec des disparités régionales marquées mises en évidence par les résultats du suivi post-distribution du WFP (2025). Ces insuffisances s’expliquent en grande partie par des contraintes structurelles persistantes : l’ENSAN souligne notamment le rôle déterminant de l’accès économique à l’alimentation dans la qualité des pratiques nutritionnelles (WFP, 2021). Par ailleurs, les inégalités d’accès aux services de base (eau, santé, information) particulièrement en milieu rural, continuent de limiter l’adoption de pratiques adéquates, tandis que les normes sociales et la charge de travail des femmes constituent des facteurs contraignants supplémentaires, comme le mettent en évidence les analyses nationales de genre (MINPROFF, 2024)."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": "n/a",
+              "comment": "Please add justification."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.4.1 To what extent does the VC contribute to reduce risks of periodic food shortage for household?",
+              "scoreValue": 2,
+              "comment": "La diversité alimentaire reste globalement insuffisante, malgré quelques améliorations localisées. Les données disponibles montrent que de nombreux ménages continuent de dépendre d’un nombre restreint d’aliments, dominé par les produits amylacés (tubercules et céréales), ce qui limite les apports en protéines et micronutriments (FAO–UE–CIRAD, 2022 ; Nzossié et al., 2025). Cette faible diversification contribue à des vulnérabilités nutritionnelles persistantes. \r\n\r\nLa diversité alimentaire varie selon les contextes territoriaux et socio-économiques, l’accès économique à l’alimentation jouant un rôle important dans la capacité des ménages à diversifier leur régime (WFP, 2021). Dans les zones de production de manioc, les activités de chaîne de valeur peuvent soutenir les revenus et favoriser, dans une certaine mesure, l’accès à des aliments plus diversifiés. Toutefois, cette dynamique reste limitée par le niveau de revenu, l’accessibilité des marchés et la saisonnalité de l’offre."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2,
+              "comment": "Le risque de pénuries alimentaires saisonnières demeure présent dans plusieurs zones du Cameroun, bien que certaines cultures vivrières comme le manioc contribuent à en atténuer les effets (FAO–UE–CIRAD, 2022 ; FAO, 2025). Grâce à sa capacité de récolte échelonnée, le manioc constitue un facteur important de résilience et permet de limiter les déficits caloriques pendant la période de soudure. Toutefois, cette contribution ne permet pas d’éliminer la soudure, qui se traduit davantage par une dégradation qualitative de l’alimentation (notamment en diversité et en apports protéiques) que par une absence totale de nourriture. Par ailleurs, la stabilité de l’approvisionnement alimentaire reste affectée par des chocs récurrents (climatiques, sécuritaires et économiques) qui continuent de perturber la production et l’accès aux marchés dans certaines régions (FAO, 2025; IPC, 2024 ; IFRC, 2025)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 4,
+              "comment": "Les organisations formelles et informelles (GIC, coopératives, associations, tontines) participent activement à la chaîne de valeur du manioc, notamment dans la production, la transformation et la commercialisation. Leur développement s’appuie sur un cadre institutionnel structurant, en particulier la loi n°92/006 du 14 août 1992, qui a favorisé leur multiplication. Le Cameroun comptait ainsi en 2012 environ 123.305 organisations enregistrées, dont environ 95 % de GIC (FAO–CIRAD–UE, 2022), constituant un socle important de coordination dans une économie majoritairement informelle. Toutefois, cette participation reste inégale. Si certaines organisations assurent des fonctions économiques réelles, d’autres demeurent peu actives ou dépendantes des projets d’appui, ce qui limite leur durabilité. Cette hétérogénéité reflète des capacités organisationnelles variables et s’inscrit dans des contraintes structurelles de la filière (notamment la périssabilité du manioc et les coûts logistiques) qui compliquent la stabilisation des activités (Duval et al., 2013)."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 3,
+              "comment": "L’adhésion est globalement inclusive, en particulier pour les femmes, qui occupent une place centrale dans la transformation et la commercialisation (environ 69 % des acteurs) (Njukwe et al., 2014). Cette forte présence féminine structure les réseaux locaux d’organisation, d’information et de solidarité. Toutefois, cette inclusion varie selon les contextes organisationnels. Les observations montrent une structuration hétérogène des groupes, avec des règles d’adhésion plus ou moins formalisées, par exemple des conditions liées à la disponibilité foncière (surface minimale à exploiter), au paiement de cotisations ou à l’appartenance préalable à un groupement."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "La gouvernance des organisations apparaît contrastée. Certaines structures disposent de mécanismes formalisés (assemblées générales, cotisations, règles de redistribution), favorisant la coordination et la confiance interne. Toutefois, les observations montrent une structuration hétérogène : de nombreuses organisations restent marquées par une faible transparence, une personnalisation du leadership et une dépendance aux financements externes, ce qui peut limiter leur redevabilité et leur durabilité. Ces limites sont renforcées dans les contextes où les organisations évoluent vers des modèles plus intégrés ou quasi-entrepreneuriaux, pouvant créer un décalage entre les membres producteurs et les instances dirigeantes. Plus largement, malgré une forte densité organisationnelle, les capacités de gouvernance effective demeurent inégales, ce qui limite la capacité des organisations à jouer pleinement leur rôle de coordination et de représentation (FAO–CIRAD–UE, 2022 ; Duval et al., 2013)."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "Les capacités de négociation existent mais restent limitées. La transformation permet, dans certains cas, de capter une valeur ajoutée supérieure par rapport à la vente des racines fraîches, mais cet avantage concerne surtout les acteurs en aval et ne se traduit pas nécessairement par un renforcement du pouvoir de négociation des producteurs. Dans un contexte marqué par une forte informalité, la majorité des producteurs reste en position de faiblesse face aux intermédiaires ou à certains acheteurs structurés. Les observations de terrain montrent notamment des situations où des collecteurs imposent des prix bas au champ, en tirant parti de la périssabilité du manioc et des besoins immédiats de liquidité. Ces dynamiques sont renforcées par des contraintes structurelles (faible capacité de stockage, coûts de transport élevés) qui limitent la sécurisation des volumes et la formalisation des échanges, réduisant ainsi l’efficacité de la négociation collective (Duval et al., 2013 ; MINEPAT, 2024)."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "L’accès à l’information est réel mais inégal. Les producteurs peuvent s’appuyer sur les services techniques, les projets de développement et les réseaux locaux (notamment les organisations de producteurs et les collectifs) pour accéder à des informations sur les pratiques agricoles, les marchés ou les opportunités. Dans la filière manioc, ces flux d’information sont largement structurés par des réseaux interpersonnels et organisationnels, en particulier dans les segments féminisés de transformation et de commercialisation, où circulent savoir-faire techniques et informations de marché. Cependant, la diffusion reste incomplète et inégalement appropriée, notamment pour les producteurs isolés ou moins intégrés aux organisations. Les limites des systèmes de vulgarisation, combinées à la fragmentation des dispositifs d’appui, continuent de restreindre l’accès effectif à l’information et son appropriation (Ondoa Manga, 2025 ; République du Cameroun, 2011), ce qui contribue à maintenir des asymétries d’information au sein de la chaîne de valeur."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Les relations entre acteurs reposent largement sur des mécanismes informels, fondés sur la réputation, les relations interpersonnelles et des accords souvent verbaux. Ces formes de confiance permettent le fonctionnement quotidien de la filière, notamment dans les échanges entre producteurs, transformateurs et commerçants, où la proximité sociale et les réseaux locaux jouent un rôle central. Des cas plus structurés existent, comme celui d’entreprises s’approvisionnant auprès de producteurs identifiés sur la base de relations de confiance et de critères de capacité (superficie, régularité), parfois via des accords oraux. Toutefois, ces formes d’organisation restent minoritaires dans un environnement largement informel. Ces dynamiques, combinées à la périssabilité du manioc et aux asymétries d’information, limitent la formalisation des relations commerciales et la sécurisation des échanges (Duval et al., 2013; Njukwe et al., 2014)."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "La participation des communautés aux décisions affectant leurs moyens d’existence est réelle mais inégale. À l’échelle locale, les entretiens mettent en évidence des mécanismes de concertation informelle autour de l’accès aux ressources et de l’organisation des activités, portés par des réseaux de proximité (associations, groupes de femmes, autorités locales) (FAO–CIRAD–UE, 2022). Toutefois, cette participation se réduit face à des dynamiques externes structurantes, notamment liées au développement de cultures de rente à grande échelle, qui peuvent entraîner des transformations foncières et économiques. Les observations de terrain, notamment à Békoko (Littoral), illustrent ainsi un décalage entre gouvernance locale et cadres décisionnels plus institutionnalisés, où les marges d’influence des communautés restent limitées. La présence de grandes exploitations agro-industrielles, notamment dans le secteur du palmier à huile, contribue à accentuer ces déséquilibres en exerçant une pression sur l’accès au foncier et en entrant en concurrence avec les systèmes de production locaux, notamment le manioc (FAO–CIRAD–UE, 2022 ; Duval et al., 2013)."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "Les savoirs et produits traditionnels liés au manioc restent largement mobilisés dans les activités de transformation (gari, bâtons, pâtes fermentées), reposant sur des connaissances empiriques transmises de manière intergénérationnelle généralement au sein de réseaux féminins. Ce rôle est particulièrement visible dans des bassins comme Békoko, où la production de myondo s’appuie sur des savoir-faire locaux spécifiques et contribue à l’identité et à la valorisation territoriale du produit. Les entretiens, notamment avec l’UNESCO, mettent en évidence que ces savoir-faire sont rarement formalisés, avec peu de dispositifs de reconnaissance ou de protection. Cette faible formalisation constitue une vulnérabilité dans un contexte de structuration croissante de la filière, notamment en termes de captation de la valeur et de risque d’appropriation des savoirs."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community?",
+              "scoreValue": 3,
+              "comment": "Les activités collectives volontaires (entraide, tontines, travail en groupe, mutualisation des ressources) existent et constituent un pilier du capital social dans la filière manioc. Elles se traduisent par des journées de travail collectif, des dispositifs d’épargne rotative ou la mise en commun des volumes pour répondre à des commandes (i.e. Békoko). Souvent portées par des groupes de femmes, ces pratiques soutiennent l’organisation de la production, de la transformation et de la commercialisation (facilitant l’accès à la main-d’œuvre, au financement), réduisent les coûts de production et renforcent la résilience des ménages, tout en contribuant à la coordination locale et à l’intégration dans la chaîne de valeur (MINEPAT, 2024)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.1.1 To what extent does the VC influence the access of households to health facilities?",
+              "scoreValue": 2,
+              "comment": "L’accès physique aux infrastructures de santé apparaît partiellement assuré, mais très inégal selon les territoires. Les données de l’INS & ICF (2019) montrent des disparités marquées entre zones urbaines et rurales dans l’accès aux services de santé, notamment pour les soins maternels et infantiles : la couverture vaccinale complète des enfants de 12 à 23 mois atteint 50,6 % en milieu urbain contre 34,7 % en milieu rural, reflétant une accessibilité plus limitée aux services de base. Ces écarts sont renforcés par les contraintes d’enclavement : la densité de routes revêtues n’est que d’environ 1,5 km pour 100 km² (FAO–CIRAD–UE, 2022), ce qui limite l’accès aux structures de santé, en particulier dans les zones rurales et dans certains bassins manioc comme l’Est, où l’état des pistes et la saisonnalité réduisent fortement la mobilité. Dans ce contexte, pour les ménages impliqués dans la chaîne de valeur du manioc, l’accès physique aux services de santé ne peut être considéré comme pleinement suffisant."
+            },
+            {
+              "text": "6.1.2 To what extent does the VC influence the access of households to health services?",
+              "scoreValue": 2,
+              "comment": "L’accès effectif aux services de santé reste plus contraint que l’accès physique. En effet, la présence d’une structure ne garantit ni la disponibilité du personnel qualifié, ni celle des médicaments, ni la capacité financière des ménages à recourir aux soins. Les vulnérabilités nutritionnelles illustrent bien cette limite les résultats préliminaires de l´enquête SMART-SENS 2021 (MINSANTE, 2021) indique une malnutrition aiguë globale de 4,5 % dans la région de l’Est chez les enfants de 6 à 59 mois, tandis qu’elle atteint 12,5 % dans les sites de réfugiés centrafricains de cette même région, soit un niveau très dégradé. Ces données montrent que, dans les bassins les plus fragiles, les ménages engagés dans la chaîne de valeur restent exposés à des chocs sanitaires susceptibles de peser directement sur la main-d’œuvre disponible, les dépenses du ménage et la stabilité des revenus."
+            },
+            {
+              "text": "6.1.3  To what extent does the VC influence the affordable of health services for households?",
+              "scoreValue": 2,
+              "comment": "L’influence de la chaîne de valeur du manioc sur l’accès aux services de santé apparaît réelle mais indirecte et limitée. Les revenus issus de la production et de la transformation contribuent à financer certaines dépenses, y compris les soins, améliorant à la marge le recours aux services ; toutefois, ces effets restent principalement incrémentaux et ne se traduisent pas par une amélioration structurelle des conditions d’accès. Les analyses de Nzossié et al. (2025) confirment que les dimensions « livelihoods, poverty and equity » (qui conditionnent directement les capacités d’accès des ménages) ainsi que « diets, nutrition and health » restent fragiles au Cameroun, avec une majorité d’indicateurs orientés négativement, traduisant une vulnérabilité persistante en matière de sécurité alimentaire et nutritionnelle. Ces résultats suggèrent que les gains issus des activités agricoles, y compris dans la filière manioc, ne suffisent pas à lever les contraintes structurelles liées à la pauvreté, à l’accès aux services et à la qualité des systèmes de santé. Ainsi, malgré son rôle dans la sécurité calorique, la chaîne de valeur du manioc améliore surtout la capacité de paiement à court terme, sans transformer en profondeur les déterminants structurels de l’accès aux soins."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.2.1 To what extent does the VC influence the access of households to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "L’influence de la chaîne de valeur du manioc sur l’accès à un logement de bonne qualité apparaît globalement faible. Contrairement à certaines cultures de rente (cacao, palmier à huile ou encore hévéa), les revenus issus du manioc restent généralement modestes et instables, ce qui limite fortement leur capacité à soutenir des investissements significatifs dans l’habitat. Les effets observés se traduisent au mieux par des améliorations ponctuelles (entretien, petits équipements), sans transformation structurelle des conditions de logement pour la majorité des ménages. \r\n\r\nPar ailleurs, les transformations visibles du bâti rural ne reflètent pas nécessairement les dynamiques de la filière. Les travaux de Tchékoté (s.d.) montrent que l’émergence d’habitats modernes en milieu rural est souvent portée par des élites urbaines, contribuant à une transformation du paysage agricole en bâtis modernes relativement déconnectée des revenus agricoles locaux. Ainsi, dans les bassins manioc, l’amélioration du logement dépend davantage d’autres sources de revenus (cultures de rente, activités non agricoles, transferts) que de la chaîne de valeur elle-même, dont l’impact reste marginal sur la qualité résidentielle."
+            },
+            {
+              "text": "6.2.2 To what extent does the VC influence the access of households to good quality water and sanitation facilities?",
+              "scoreValue": 2,
+              "comment": "L’influence de la chaîne de valeur du manioc sur l’accès à l’eau potable et à l’assainissement est indirecte et limitée, bien que ces facteurs soient déterminants pour son fonctionnement. Les activités de transformation (lavage, fermentation, pressage, séchage) dépendent fortement de la disponibilité d’une eau de qualité et de conditions d’hygiène adéquates, conditionnant à la fois la sécurité sanitaire des produits et l’accès à des segments plus rémunérateurs. Or, en 2018, l’accès à l’eau potable améliorée est estimé à environ 79 % et celui à l’assainissement à 61 %, avec de fortes disparités en défaveur des zones rurales (FAO–CIRAD–UE, 2022). Dans les bassins manioc, ces contraintes se traduisent par des coûts supplémentaires (achat ou transport d’eau) et des risques sanitaires accrus. Elles sont renforcées par les déficits d’accès à l’énergie (25,5 % en zone rurale contre 88,9 % en zone urbaine) qui entraînent une dépendance au gasoil et des surcoûts de transformation (FAO–CIRAD–UE, 2022). Dans ce contexte, si les revenus issus de la filière peuvent améliorer ponctuellement l’accès à certains services, ils ne compensent pas les déficits structurels d’infrastructures, laissant la chaîne de valeur fortement dépendante de conditions d’accès à l’eau et à l’énergie qu’elle ne transforme pas de manière significative."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "6.3.1 To what extent does the VC influence the accessibility to primary education for households?",
+              "scoreValue": 3,
+              "comment": "L’influence de la chaîne de valeur du manioc sur l’accès à l’éducation primaire semble globalement positive mais indirecte et limitée. Au niveau national, le taux de scolarisation au primaire atteint 90,1 %, traduisant un accès relativement élevé aux services éducatifs de base (UNICEF Cameroun, 2025a). Toutefois, cette moyenne masque de fortes disparités territoriales et socio-économiques : la pauvreté touche encore 37,7 % des ménages en 2022, avec une incidence beaucoup plus élevée en milieu rural (56,3 %) (UNICEF Cameroun, 2025a), où se concentrent les producteurs de manioc. Dans ce contexte, les revenus issus de la filière peuvent contribuer à financer les frais scolaires (fournitures, uniformes, contributions), ce qui peut soutenir le maintien des enfants à l’école. Néanmoins, cet effet reste principalement un effet de stabilisation du budget des ménages, sans compenser les contraintes structurelles liées à la pauvreté, à l’enclavement ou aux crises, qui continuent d’affecter la continuité de la scolarisation (UNICEF Cameroun, 2025a-b)."
+            },
+            {
+              "text": "6.3.2 To what extent does the VC influence the accessibility to secondary and/or vocational education for households?",
+              "scoreValue": 2,
+              "comment": "L’influence de la chaîne de valeur apparaît plus limitée pour l’accès au secondaire et à la formation, où les contraintes s’intensifient. Les données mettent en évidence un fort décrochage scolaire : dans la région de l’Est, le taux d’achèvement du primaire est de 80,5 %, mais le taux de transition vers le secondaire n’est que d’environ 60,96 % pour les garçons et 59,56 % pour les filles (UNICEF Cameroun, 2025a). Ces ruptures s’expliquent en partie par les coûts croissants (frais scolaires, transport, hébergement), difficilement soutenables pour des ménages agricoles aux revenus irréguliers. Si les revenus issus du manioc peuvent faciliter l’accès au secondaire pour certains ménages mieux insérés, ils restent généralement insuffisants pour lever ces contraintes. Cette situation s’inscrit dans un contexte plus large de vulnérabilité des systèmes alimentaires, marqué par une pauvreté persistante et des inégalités d’accès aux ressources (Nzossié et al., 2025)."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "L’offre de formation professionnelle existe mais demeure fragmentée, peu accessible et inégalement répartie. Les dispositifs identifiés (centres techniques, programmes publics, projets de développement) visent à renforcer les compétences en transformation, gestion ou maintenance, en cohérence avec les besoins de structuration de la filière (African Union, s.d. ; MINADER, 2019). Toutefois, ces formations restent majoritairement concentrées dans les centres urbains et souvent liées à des projets ponctuels, limitant leur continuité et leur ancrage territorial. Les contraintes d’accès sont importantes : les coûts peuvent atteindre 600.000 FCFA/an pour certaines formations techniques (données d’enquête), auxquels s’ajoutent les frais de transport, d’hébergement et les pertes de revenu liées à l’absence du travail agricole. Dans un contexte où la pauvreté reste élevée et où 85 % des indicateurs du domaine “livelihoods, poverty and equity” évoluent défavorablement ( Nzossié et al., 2025), ces barrières limitent fortement l’accès des petits producteurs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
