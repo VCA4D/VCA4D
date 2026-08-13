@@ -1,0 +1,484 @@
+{
+  "id": "maize-georgia",
+  "country": "georgia",
+  "commodity": "maize",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.4,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Respect for labor rights is generally relatively low  in Georgia,workers are informaly emploeed in most cases and the treatment of the workers is shaped by sultural traditions and farmers will."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 2,
+              "comment": "While freedom of association is legally protected, the structure and operational modalities of workers' unions are heavily influenced by their Soviet-era heritage. Consequently, the connection between workers in agricultural enterprises and trade unions  is almost absent. Collective bargaining cases are limited within the maiz value chain."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Written contracts are absent in most cases and the contracts are exiting mostly in alrge farms and only skilled workers have this contracts. However, the farmers give the free work days and  their work is often based on informal (verbal) agreements. The same applies to the sesonal workers."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "During the fieldwork, the research team did not observe any instances of forced labor within the wheat value chain."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 3,
+              "comment": "No instances of discrimination were reported by any interviewees."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 4,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 4,
+              "comment": "School attendance is extremely high for both rural and urban children."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 4,
+              "comment": "Factory work is prohibited for children under 18, and we saw no evidence of it. ."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "The large have some safity standards altough the useage of protection measures and facilities while working  with pesticades  and herbicades is relatively low. The presence of working inspecction ate the farm gate is absent."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 3,
+              "comment": "The avarige salaries of the workers are a lower then the avarige salary in Georgia. Altouhg, adminsitration adn mechanisators have relatively high salary."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "The workers in farms are in most cases above 50 years old. In rare cases the youth are interesting to become farmer and have their land then to work in agricultrual enterprises"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 2,
+              "comment": "The fars are facing with water scaricty and drainage problems. The VGGT standards are less known to the farmers."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 3,
+              "comment": "it is regulated by the law of agricultural land."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "Agricuotural enterprises are well aware of the project implemented by the government a"
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 3,
+              "comment": "Agricultural enterprises have relatively high awernes of the govermental policy issues. To certain extent they have influence on it. Whareas the small farmers awerness and influence remains low."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "The agricultural enterprises representatives have certain laverigies to provide advocacy campaing or other forms of infleunce including protest ralies to influnece goverment decision making."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": "n/a"
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 3,
+              "comment": "The law related of the land use is outdated the government works to elaborate and approve new law related to the land use. Altough, local applied rules related to the heritage renting of the land are informaly and formaly regulated. No signitifact issues were reported during the field visits."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 3,
+              "comment": "When the farmers are reporting the loses the government provides subsisades altouhg the workers in agricultural enterpriuses are sometimes without salaries due to loses of the farmers."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a",
+              "comment": "There were no expropriation cases reported during the field mission."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 3,
+              "comment": "There are several assotiations working and advociatieng the issues bothered the farmers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Women participate moslty in the administration and catering servicies of the agricultural etnerprises including mediaum farms."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "As 3.1.1"
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "The agroicultural land ownership is gendered, most part of owners are man heritaged the agricultural land."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 3,
+              "comment": "As 3.2.2."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "Women have acsses to the credit but in value chain mostly man are dominated."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 3,
+              "comment": "Access to extension services is limited for both genders, altouhg women farmers are participating in the proejcts implemented by NGOs to sopport women trough differtt capacity building programmes and grant funding."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.8,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 2,
+              "comment": "Women are invloved in the decision making is low. Excluding rare women managing the farm."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 3,
+              "comment": "Women in most agricultral enterprises lack the invlovment in decision making."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 3,
+              "comment": "Women have less say omn the distrubution of income on agricultural enterprises in small farms their invovment is relatively high."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 4,
+              "comment": "Nationally, women have indipendetn income"
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Their invovment in this process is low."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 3,
+              "comment": "In assotiations related to the cerials women invovment are relatively low altouhg in some farmers assotiations women are managers and their role is high"
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 3,
+              "comment": "Same as 3.4.1"
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Yes, but less so than men"
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 4,
+              "comment": "Yes, no issues were reported or observed."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 3,
+              "comment": "In wheath productions mechanisation and heavy work is done mostly by Men. In small farmes women are invoved more in domestic work and child care."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 3,
+              "comment": "Man are working more strenuous in wheth production but women work is also hard in some cases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 3,
+              "comment": "Severe food insecurity is very rare, altouhg  Russion invasion in Ukraine coused to the government of Moldova to start discussion on food security strategy ,eaboration."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 3,
+              "comment": "There are many food supplaiers in local market."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 3,
+              "comment": "Owners and workers of all type of whath farms are able to allocate income for food."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 2,
+              "comment": "Food price inflation is at manageable levels. In 2024 was around 5%."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 3,
+              "comment": "There are relatively low concerns on nutritional food quality in Moldova."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 3,
+              "comment": "According to the acegdotal evidancies nutritional practicies are being imporved."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 3,
+              "comment": "Same as 4.3.2."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 3,
+              "comment": "There are no reports or observation of the food shortage reported"
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2,
+              "comment": "Please add justification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 3,
+              "comment": "The farmers organisation participate in the valua chain especialy to advocate farmers issues related to the government and export."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "Cooperatives influence and participation is low."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "The agricultural enterprises have representatives in the asostiations."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 3,
+              "comment": "The groups especialy agricultural enterprises nagotiate in input and output markets."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 3,
+              "comment": "Farmers use multiply of informations this applies especialy to the agricultral enterprises and medium farms."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 3,
+              "comment": "Horisontal trust between value chain actors is relatively high, Vertical trust towards govermental insitutions is relatively low."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 3.3333333333333335,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 3,
+              "comment": "Medium farmers and agrocultural enterprises are invoved in the community related decisions."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 3,
+              "comment": "Agricultural enterprises partialy use the practiscies established during the Sovit Union."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 4,
+              "comment": "Strong voluntary participation in neighbourhood activities such as well maintenance, forest establishement, road maintenance, etc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 3,
+              "comment": "The great majority of rura people have access to health facilities staffed by doctors."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 3,
+              "comment": "Helath servicies are accsesible."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 2,
+              "comment": "The felath servicies are relatively affordable of the housholds depending of the type of illnesies."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 3
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 2,
+              "comment": "Human water sources tend to be at a distance from homes. Sanitation is generally accpetable with some obstacles."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 4,
+              "comment": "Very high participation."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Very high participation accsesibility."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "The level of TVET education is relatively low in the wheath value chain."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
