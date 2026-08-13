@@ -1,0 +1,486 @@
+{
+  "id": "rice-cameroon",
+  "country": "cameroon",
+  "commodity": "rice",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.6,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Malgré la ratification des conventions et des efforts réalisé par le Gouvernement, on note des défanillances structurelles sont notées dans les segments informels, notamment en matière de travail des enfants, d’égalité de genre et de représentation des travailleurs, au regard du caractère informel du secteur."
+            },
+            {
+              "text": "1.1.2 Is freedom of association effective (allowed and exercises)?",
+              "scoreValue": 4,
+              "comment": "La liberté d'association est effective et on note dans tous les bassins de production du riz au Cameroun une dynamique très forte de struictiuration des bassins de production autour des coopératives."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Malgré le caractère flexibles d’engagement dans la chaine de valeur du riz ne permet pas de parler du SMIG, les remunérations cumulées par période sont audessus du SMIG. Cependant, selon le PNUD (2017), le Cameroun est classé 141e sur 189 pays selon l’indice d’inégalité de genre. Les raisons de cette mauvaise performance sont liées entre autre à la charge de travail non rémunérée des femmes."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Les enquêtes de terrain n’ont travail forcé même si des cas vulnérabilités liées au travail des enfants et à des conditions de travail précaires existent dans certaines bassins de production du riz comme Yagoua et Maga dans l’Extrême Nord du Cameroun."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 2,
+              "comment": "Malgré les efforts, tant du points de vue du cadre légal que de la partique, 64,3% des programmes et projets agricoles mis en place dans les dix régions ne prennent pas en compte les préoccupations des femmes. Sur plus de 100 projets et programmes agricoles développés au Cameroun entre 2010 et 2020, plus de la moitié ont été conçus en ignorant les contraintes sociales que rencontrent les femmes"
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case children are working (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Même si cette mésure est respectée, on note des cas isolés de travail dans les rizières de l'Extrême Nord. Cepen,dant le taux de scolarisation resté élévé"
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to heavy workloads and/or harmful jobs?",
+              "scoreValue": 1,
+              "comment": "Dans les rizières, les enfants sont souvent exposés à des risques graves, notamment le port de charges lourdes, la manipulation de pesticides toxiques et manipulation d'outils tranchants"
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "L'essentiel du travail en déhors du labours dans les périmètres irrigués sous contrôle de la SEMRY et de l'UNDVA se fait à la main et sans Equipement de Protection Individuelle (EPI), ce qui expose le production à divers riques sanitaires. Il en est de même dans le maillon transformation où le port des EPI n’est pas préalable à la manipulation des machines."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 3,
+              "comment": "La main d’œuvre relative aux activités comme le labour ou le défrichage est la même que l’on soit dans la production du riz, du maïs, du mil ou tout autre denrée agricole."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "Lds prix de vente du riz paddy relativement bas sur le marché décourage de nombreux producteurs. Cependant, de plus en plus de jeunes, sortis pour certains des grandes écoles agroalimentaires dans le septentrion notamment, s’engagent dans la Chaine de Valeur Riz, notamment dans le maillon transformation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 2,
+              "comment": "l’adhésion aux VGGT (Directives volontaires pour une gouvernance responsable des régimes fonciers) est encore partielle, indirecte et inégale selon les acteurs."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 2,
+              "comment": "La mise en œuvre des principes de diligence raisonnable demeure limitée, les droits des communautés locales restent insuffisamment garantis, celles-ci ayant une capacité réduite à les faire valoir . Par ailleurs, les populations sont souvent exclues des processus décisionnels relatifs à l’affectation des terres, dans un contexte marqué par un déficit de transparence et des impacts socio-environnementaux significatif."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "La diffusion d’informations en amont sur les projets ou décisions foncières au Cameroun est réelle dans les textes, mais souvent limitée dans la pratique. Il existe des mécanismes officiels d’information, mais leur portée, leur qualité et leur accessibilité restent inégales selon les contextes."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 1,
+              "comment": "Au Cameroun, les lois, politiques publiques et décisions liées à la filière riz sont globalement partiellement accessibles mais peu compréhensibles pour une grande partie des acteurs, surtout les producteurs rurau"
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "La participation des différents groupes sociaux aux processus de décision dans la chaîne de valeur riz au Cameroun est globalement inégale, asymétrique et structurée par des facteurs sociaux, économiques et institutionnels. On observe une participation différenciée selon le genre, l’âge, le statut foncier et l’ancrage territorial."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "Dans les bassins de production rizicole au Cameroun, le consentement libre, préalable et éclairé (FPIC) est reconnu dans les normes internationales, mais faiblement appliqué dans la pratique."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Dans la chaîne de valeur du riz au Cameroun, les règles foncières et hydriques combinent un cadre juridique national relativement structuré et des pratiques locales (coutumières) déterminantes. Le résultat est mitigé : elles assurent une certaine sécurité là où l’État intervient fortement (périmètres aménagés), mais restent peu équitables et parfois peu sécurisantes pour une large part des acteurs, surtout en milieu rural.."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "Dans les bassins de production du riz au Cameroun (vallée du Logone–SEMRY, plaine de Ndop–UNVDA, Nanga Eboko, etc.), des stratégies alternatives sont parfois prévues lorsque des pertes d’accès à la terre ou à l’eau sont anticipées, mais leur mise en œuvre reste inégale, souvent tardive et peu adaptée aux besoins réels des populations."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 2,
+              "comment": "Au Cameroun, un dispositif légal de compensation en cas d’expropriation existe et est relativement bien défini, mais sa mise en œuvre est souvent lente, incomplète et contestée, notamment dans les zones rurales et les bassins rizicoles."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 2,
+              "comment": "Dans les bassins de production rizicole au Cameroun, des mécanismes de plainte, de médiation et d’arbitrage existent bien, mais leur accessibilité, leur efficacité et leur équité restent inégales. On observe une pluralité de dispositifs (administratifs, judiciaires, coutumiers et projet), avec des résultats contrastés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Bien que leur participation soit significative dans les segments de production, de transformation artisanale et de commercialisation locale, leur accès aux segments à forte valeur ajoutée demeure limité."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "les femmes participent activement aux différentes activités de la chaîne de valeur du riz, notamment dans la production, la transformation artisanale et la commercialisation locale. Toutefois, leur accès aux ressources productives, aux technologies modernes et aux segments à forte valeur ajoutée demeure limité."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Au Cameroun, les femmes productrices de riz disposent de certains actifs productifs autres que la terre, notamment des équipements agricoles de base, du petit bétail et des ressources issues d’activités commerciales. Toutefois, ces actifs restent généralement de faible valeur et peu capitalisés, ce qui limite leur capacité d’investissement et leur autonomisation économique. Par ailleurs, leur accès aux actifs stratégiques, tels que les équipements modernes et le crédit, demeure fortement contraint par des facteurs institutionnels et socioculturels"
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 1,
+              "comment": "Au Cameroun, la Loi foncière garantie l'égalité d'accès à la terre. Cependant, les barrières à l’accès des femmes au foncier retent majeures, dont les plus importantes sont  socioculturelles et économiques. Dans la plupart de localité, la terre est traditionnellement contrôlée par les hommes (chefs de famille, lignages). Les femmes accèdent à la terre par relation (épouse, fille et veuve). Elles ont souvent un droit d’usage, et seulement dans les cas particulier le droit de propriété."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 1,
+              "comment": "Au Cameroun, les femmes ont accès au crédit, mais de manière limitée et inégalitaire. Elles recourent principalement aux mécanismes informels, tels que les tontines et les groupes d’épargne, tandis que leur accès au crédit formel reste restreint en raison de l’absence de garanties, notamment foncières, et de contraintes socioéconomiques."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "les femmes ont un accès limité aux services de soutien à la production agricole, notamment en matière de vulgarisation, d’intrants et de technologies. Bien qu’elles participent aux activités de formation et bénéficient de certains appuis, leur accès reste inférieur à celui des hommes, en raison de contraintes économiques, institutionnelles et socioculturelles"
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 2,
+              "comment": "Les femmes engagées dans la chaîne de valeur du riz participent activement aux activités de production, mais leur implication dans les processus décisionnels reste limitée. Elles interviennent principalement dans l’exécution des tâches agricoles, tandis que les décisions stratégiques, notamment en matière de gestion des ressources, d’investissement et d’allocation des revenus, sont majoritairement contrôlées par les hommes."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work (within vs outside the VC)?",
+              "scoreValue": 2,
+              "comment": "L'autonomie des femmes dans l’organisation de leur travail au sein de la chaîne de valeur du riz demeure limitée, en raison de contraintes liées à l’accès aux ressources productives et à leur faible pouvoir décisionnel. En revanche, elles disposent d’une plus grande autonomie dans les activités exercées en dehors de la chaîne formelle, notamment dans la transformation artisanale et le petit commerce."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "les femmes engagées dans la chaîne de valeur du riz exercent un contrôle différencié sur les revenus selon leur origine. Si elles disposent d’un contrôle relativement plus élevé sur les revenus issus des activités commerciales et informelles, leur pouvoir décisionnel reste limité en ce qui concerne les revenus agricoles, souvent contrôlés par les hommes."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 3,
+              "comment": "Les femmes génèrent des revenus de manière relativement autonome, principalement à travers des activités de transformation artisanale, de commercialisation locale et d’autres activités génératrices de revenus. Toutefois, leurs activités se concentrent dans des secteurs nécessitant peu de qualifications. Les entreprises restent majoritairement informelles, peinant à passer d'une logique de subsistance à une croissance structurée"
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 1,
+              "comment": "La participation des femmes aux décisions relatives à l’acquisition, à la cession et au transfert d’actifs demeure globalement limitée. Elles restent cantonnées à un rôle consultatif ou marginal, en particulier pour les actifs stratégiques tels que la terre"
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 3,
+              "comment": "Les femmes participent aux organisations de producteurs, mais leur inclusion reste inégale, notamment dans les postes décisionnels.."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "Les femmes accèdent aux positions de leadership dans les organisations agricoles, mais de manière encore marginale. Leur sous-représentation dans les instances décisionnelles s’explique par des contraintes structurelles et socioculturelles, malgré des progrès liés aux politiques et programmes de promotion de l’égalité de genre"
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Les femmes exercent un pouvoir d’influence sur les services et la gouvernance territoriale principalement de manière indirecte et consultative. Leur participation aux processus décisionnels politiques reste limitée"
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Il y a des évolutions dans la prise de parole des femmes en public"
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "Les charges de travail globales, prenant en compte le travail rémunéré, tâches domestiques et les soins aux enfants ne sont pas égales entre hommes et femmes. Elles sont structurellement déséquilibrées au détriment des femmes."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 1,
+              "comment": "les risques que les femmes soient exposées à un travail pénible ne sont généralement pas minimisés, en particulier dans les contextes ruraux et agricoles comme au Cameroun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.1.1 To what extent does the VC contribute to incease the local production of food?",
+              "scoreValue": 3,
+              "comment": "La chaîne de valeur du riz contribue de manière significative mais encore insuffisante à l’augmentation de la production locale de nourriture au Cameroun. Elle joue un rôle clé dans l’accroissement de l’offre alimentaire et la réduction partielle des importations, tout en générant des effets économiques positifs pour les producteurs."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 2,
+              "comment": "L’offre alimentaire sur les marchés locaux au Cameroun est en augmentation, sous l’effet de pôlitiques de développement de la chaîne de valeur agricoles. Toutefois, cette progression reste partielle et insuffisamment structurée, en raison de contraintes techniques, économiques et logistiques."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food thanks to activities linked to the VC?",
+              "scoreValue": 2,
+              "comment": "Les activités de la chaîne de valeur du riz au Cameroun contribuent à l’augmentation des revenus des ménages ruraux, notamment à travers la hausse de la productivité, la création d’emplois et l’amélioration de l’accès aux marchés. Toutefois, ces effets demeurent inégaux et souvent prospectifs, en raison de contraintes structurelles"
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Les prix des denrées alimentaires ne connaissent pas une baisse, ni en termes absolus ni relatifs."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "La qualité nutritionnelle de l’alimentation au Cameroun montre certains progrès, mais elle reste globalement limitée par des contraintes structurelles."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 3,
+              "comment": "Au Cameroun, les pratiques de soins nutritionnels se concentrent sur la réduction de la malnutrition infantile à travers la Prise en charge intégrée des maladies de l'enfant (PCIME) et la promotion de l'allaitement maternel exclusif"
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 2,
+              "comment": "Le Cameroun dispose d’une grande diversité agroécologique, ce qui offre une grande variété de produits, avec notamment des tubercules, des céréales, des légumes et des produits animaux. Cependant, seule une quinzaine d’aliments dominent réellement la consommation."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.4.1 To what extent does the VC contribute to reduce risks of periodic food shortage for household?",
+              "scoreValue": 3,
+              "comment": "Malgré le fait que le Cameroun reste fortement dépendant des importations de riz, la chaîne de valeur du riz contribue réellement à atténuer les pénuries saisonnières."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Au Cameroun, on note une relative instabilité des prix des aliments.  En 2023, les prix alimentaires ont fortement augmenté, avec une hausse d’environ +11,1 % sur l’année."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 3,
+              "comment": "Dans la chaîne de valeur du riz au Cameroun, le capital social repose sur un réseau dense d’organisations formelles et informelles (coopératives, GIC, associations, tontines et réseaux d’entraide) assurant des fonctions essentielles de coordination dans une économie majoritairement domestique et informelle."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "L’adhésion aux organisations de producteurs (OP) du riz au Cameroun est globalement significative mais encore imparfaitement inclusive. Elle présente des avancées en termes de participation, mais reste marquée par des inégalités sociales, économiques et de genre."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Les groupes ne disposent pas encore d’une gouvernance pleinement représentative et redevable. Ils restent marqués par \r\ndes asymétries de pouvoir et d’accès aux ressources, une faible capacité à répondre équitablement aux besoins des membres et et une efficacité limitée dans la promotion d’une participation inclusive. Par contre, au niveau des organisations informelles (tontines et associations locales), la gouvernance est souvent flexible. La redevabilité est généralement forte au niveau local, car la pression sociale et la confiance mutuelle assurent la transparence."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "les groupes ont des capacités de négociation, mais qui reste encore insuffisante, ce qui limite les gains économiques des producteurs et l’efficacité de la chaîne de valeur."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "Les canaux d’information se sont démultipliés au cours de ces derniers années au profit des milieux ruraux camerounais à travers la création des radios et centre communautaires de diffusion de l’information. Cependant, l’information agricole est insuffisamment diffusée et les agriculteurs restent mal connectés aux sources formelles de savoir. La question n’est pas le manque d’information, mais son accessibilité pour les agriculteurs"
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Entre acteurs locaux et institutions locales et informelles, notamment les tontines et associations locales, le niveau de confiance est élevé, même si cette confiance est limitée à des cercles restreints. Par contre, vis-à-vis des structures formelles, des projets et appui étatiques, il se dégage une certaine méfiance"
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "La participation des communautés aux décisions affectant leurs moyens d’existence au Cameroun est aujourd’hui reconnue dans les politiques publiques et les projets de développement, notamment à travers les dispositifs de concertation locale et de décentralisation. Toutefois, cette participation demeure largement consultative plutôt que décisionnelle,"
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 3,
+              "comment": "Il existe des actions et des protocoles structurés pour respecter, protéger et valoriser les savoirs traditionnels (ST) et les ressources génétiques associées au Cameroun."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community?",
+              "scoreValue": 3,
+              "comment": "Les activités collectives volontaires font partie des traditions de certains de la plupart des populations camerounaises.La participation est effective."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 1.3333333333333333,
+          "questions": [
+            {
+              "text": "6.1.1 To what extent does the VC influence the access of households to health facilities?",
+              "scoreValue": 1,
+              "comment": "L’accès physique aux soins en milieu rural au Cameroun demeure contraint par une répartition inégale et une faible fonctionnalité des infrastructures sanitaires, générant de fortes disparités territoriales"
+            },
+            {
+              "text": "6.1.2 To what extent does the VC influence the access of households to health services?",
+              "scoreValue": 1,
+              "comment": "L'accès aux soins en milieu rural au Cameroun reste difficile malgré des avancées, marqué par des infrastructures insuffisantes, un manque de personnel qualifié et des contraintes financières"
+            },
+            {
+              "text": "6.1.3  To what extent does the VC influence the affordable of health services for households?",
+              "scoreValue": 2,
+              "comment": "Le riz ne finance pas directement la santé, mais libère des ressources financières pour y accéder"
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "6.2.1 To what extent does the VC influence the access of households to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "la participation des petits producteurs aux marchés agricoles peut améliorer leur bien-être à travers une augmentation des revenus et une meilleure intégration économique. Toutefois, ces effets restent inégaux et dépendent fortement des conditions d’accès aux marchés, des infrastructures et des institutions."
+            },
+            {
+              "text": "6.2.2 To what extent does the VC influence the access of households to good quality water and sanitation facilities?",
+              "scoreValue": 3,
+              "comment": "Les activités de la chaîne de valeur du riz contribuent à l'amélioration des conditions de vie des ménages."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "6.3.1 To what extent does the VC influence the accessibility to primary education for households?",
+              "scoreValue": 3,
+              "comment": "Les activités de la chaîne de valeur riz au Cameroun contribuent de manière significative à la scolarisation, notamment au niveau primaire des enfants dans les bassins de production."
+            },
+            {
+              "text": "6.3.2 To what extent does the VC influence the accessibility to secondary and/or vocational education for households?",
+              "scoreValue": 3,
+              "comment": "Tout comme au niveau primaire, les activités de la chaîne de valeur riz améliorent l'accès à l'éducation des enfants au niveau secondaire en augmentant les revenus des ménages ruraux, permettant de payer les frais scolaires et d'améliorer la nutrition, ce qui favorise la scolarisation."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "Il existe des existe des formations continues dans la filière riz. La formation professionnelle continue dans la filière riz au Cameroun se caractérise par une offre réelle mais dispersée, portée principalement par des projets et des partenariats. Si la qualité technique des formations est globalement satisfaisante, leur durabilité, leur couverture et leur articulation institutionnelle restent limitées, ce qui en réduit l’impact structurel sur le développement des compétence"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
