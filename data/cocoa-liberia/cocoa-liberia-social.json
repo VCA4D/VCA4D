@@ -1,0 +1,486 @@
+{
+  "id": "cocoa-liberia",
+  "country": "liberia",
+  "commodity": "cocoa",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Liberia has ratified many ILO conventions and has a legal framework through the Decent Work Act, but enforcement is very weak. Most labour is informal, smallholder-based and outside effective legal protection. If paid, it is based on a verbal agreement between parties and against the rates prevailing in the area.  Payment can be cash, kind or a mix of the two, plus reciprocal exchange.  Unsure as to whether labourers are expected to provide their own tools, or if these are provided by the hirer.  There are very few commercial farms. In principle, these would be covered by Liberia's labour laws. Law are not applicable at the smallholder level, and enforcing them would be difficult/impossible."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 1,
+              "comment": "We did not observe any labour force large enough (or consistent enough) to foster union activity.  There are virtually no cocoa plantations (SW farm being the exception), and the majority of labour is informal and seasonal.  There are examples of labour force unionisation in other agricultural VCs, notably the rubber and palm oil VCs.  There are two agricultural workers unions in Liberia, but they do not (or would be unable to) include informal CVC workers on SHF."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "The vast majority of the labour force is employed on an informal, casual and seasonal basis.  Contracts are verbal and based on the prevailing rates in the area/for the task, and also, to some extent, on the labourers ability to negotiate.  With SHF getting relatively low farm gate prices, due to selling 'wet' cocoa, the payment rates are also low.  While workers do not have the benefit of enforceable contracts, neither do the people who employ them.  They are enforceable in the context of community norms and dispute resolution.  Preference shown for family labour or members of the community rather than outside workers.  Based on relationships of trust.  We heard of several instances where farmers (main women) had paid for labourers to do a task, but they had left before finishing the work."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": "n/a",
+              "comment": "It was not possible to assess this.  There were anecdotal reports of busing workers across the border to work on farms."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 1,
+              "comment": "Legal protections exist, but employment and work opportunities are shaped by gender, age, literacy, land access and labour capacity. Women, youth, migrant workers and poorer households face greater barriers to participation and benefit.By its nature, most of the labour opportunities are very physical (clearing forest, brushing, etc), which naturally favours those more physically able.  Women and children were known to be employed in the CVC, although the majority of the workforce were men.  Women's labour is largely hidden as it takes the form of unpaid household labour.  Labouring appears to be an important part of household livelihoods, with a significant proportion of those who we surveyed saying that members of their household were labourinig.  Many workers travelled across the border to work in Liberia (and vice versa).  Those from other countries may come up against some form of discrimination (e.g. Burkinabe in SE Liberia) due to attitudes towards them (e.g. report of clashes with migrants in Lofa)."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "School attendance is weak in many rural areas and children’s work in agriculture remains common. The report found evidence of child labour among surveyed households, including children under 15 working away from home in the southeast sample.School infrastructure in rural areas is reported to be limited and in poor condition.  The number of qualified teachers is also low, so many schools rely on volunteer/untrained teachers.  Reported that many rural schools do not go beyond 6th grade.  School attendance in rural Liberia is well below the national average and the drop out rate is also high.  School age girls have a higher rate of illiteracy, non-attendance and drop out than boys.  Children are vulnerable to child labour"
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 1,
+              "comment": "Child labour is potentially a major issue in the CVC, and it is difficult to regulate due to the informal nature of the work.  Most tasks associated with CVC carry a degree of risk (use of machete, knives, etc).Liberia’s Children’s Law prohibits work under 12 and limits children under 15 to light work, but enforcement is weak. Agriculture remains a major sector for child labour and hazardous work, especially in rural and food-insecure households."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 1,
+              "comment": "Majority of work is informal and therefore unregulated. OHS standards are weakly implemented in informal agriculture. Farmers are aware of risks, but PPE is often unaffordable and injuries can have severe long-term impacts on household income, labour capacity and food security. Although minimal agrochemicals used at present, there are significant risks are associated with other activities.  For example - we encountered a woman farmer who had taken on the majority of the farm responsibilities due to her husband having sustained life changing injuries due to a falling tree while clearing land.  Transport will also be a potential risk area because of the poor condition of roads and vehicles. Farmers are aware of the risks, and will actually engage in behaviours that increase their risk (e.g. drinking alcohol).  the impact of an injury can be catastrophic for smallholder households, and many may not be able to afford the out of pocket expense of healthcare, whether formal or traditional (e.g. bonesetters)"
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "Informal labour usually follows locally negotiated rates, but there is little evidence that remuneration is fair, enforceable or sufficient. Labour can be paid in cash or kind and depends on bargaining power and household need.Cocoa income and labour opportunities are seen positively by the people we enaged with during the VCA4D study.  Other studies confirm that many people see cocoa as a way of improving their socio-economic situation, and of developing their community (e.g. in south-east).  We met  with youth who were getting into cocoa farming, and also rubber farmers who were trying to switch to cocoa.  It is seen as an attractive proposition and buyers are accessible."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 3,
+              "comment": "See previous comment. Cocoa and other tree crops are seen by many households and young people as routes to socioeconomic advancement. However, entry is constrained by land, labour capacity, knowledge, finance and poor infrastructure. A study carried out by Mercy Corps found that youth saw cocoa as an opporutnity for socio-economic advancement, among other tree crops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 2,
+              "comment": "Liberia’s Land Rights Act 2018 is strongly aligned with VGGT principles and the Gbehzohn Declaration supports mainstreaming VGGT. However, large scale investments are not currently a feature of the CVC in Liberia.  At the time of writing the report, we were aware of only 4 large scale cocoa farms (one of which is 2000ha), which were very different in terms of scale and age.  However, if international investment/interest in cocoa were to increase in future, access to land and land rights woudl become a significant issue.  The Land Rights Act of 2018 gives communities far more control over how customary land is used.The various laws are still being tested, modified and implemented, and interpretation of the law is still in development.  They do conform to international standards, and customary practices are considered to be slowly catching up to the ambition of the Land Act. So there is an environment in which companies could be held to account for practices involving land aquisition/use, but as a whole, the institions that would be responsible for this are still developing and roll out of land registration is slow."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": "n/a",
+              "comment": "As previous - large plantations are not a current feature of the CVC (with the exception of the farm in SW of the country).  Companies/individuals wishing to invest in developing larger farms will find a legal framework that is progressive and gives greater decision making power to communities. This may be too challenging for some investers, although organisations such as Landesa are trying to help make this more accessible by supporting communities to register their land in a way that would make them 'investment ready'.  It is worth noting that agricultural sectors where plantations predominate - e.g. rubber and palm oil - the land rights (and broader human rights) record of operators in these sectors has not been very positive.  Many of these plantations were created before the Land Act 2018.  There is an acknowledged environment of low compliance with human rights in the business environment in Liberia, mainly due to the limited capacity to enforce laws and regulations.  Also, there are concerns about logging on newly registered land which would benefit from greater understandnig.  Although it can't be evidenced at present, it is possibel that the collective impact of cocoa farming on forest area will be a far smaller proportion than could be caused by other activities and sectors."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "The Land Act 2018 and associated framework does provide for community engagement/participation, and gives communities considerable control over decision making.  Given the evidence that communiating with/engaging with communities (as seen in level of awareness of LACRA, cocoa regulation and access to information and training) is quite challenging, it is likely that effective engagement on projects will require support from NGOs or other organisations who can facilitate the process.  There will be a considerable cost in supporting community engagement and participation, which will need to be bourn by the investor/company.  Possibly also a challenge for regulatory bodies to oversee it."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "See previous statement.Liberia has made progress in creating legal and operational frameworks, including the Land Rights Act, regulations and an operational field manual for formalising customary land. However, land records remain patchy and local access to information is still uneven."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "See previous statement, and also 2.3 (below).  While the legal and governance framework for land enshrines equality and consultation, it's application is still catching up/developing, and external input is requires to suppor the proceses as they are expensive."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "See previous statements. FPIC is required in law, but given weak enforcement and patchy land administration, practical assurance remains limited."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Customary land rights are legally recognised and communities can register and manage customary land. However, registration is incomplete and women, youth, migrants and poorer households still face insecurity. The Land Act 2018 sets out the ambition of equitable land rights, recognises customary land rights and gives communities far greater decision making power.  Much progress is being made in terms of its application.  However, as with other aspects of CVC, the capacity of actors to enforce and regulate frameworks is problematic.  There are contradictions between the Land Act 2018 and other legal frameworks for inheritance, divorce, etc. Customary practices can still disadvantage women and youth, and there is a risk of overlapping land title."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": "n/a",
+              "comment": "The VCA4D study was not able to assess this in relation to the one large scale farm we were aware of.  Although the framework exists for good practices/due dilligence, enforcement/oversight of its application is possibly not as robust as it might be.  Experience in other sectors (rubber and palm oil) present a picture of an environment in which human rights have been ignored."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a",
+              "comment": "The VCA4D study was not able to assess this."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 2,
+              "comment": "See previous comments. Access to legal redress are present, but difficult for communities to take advantage of without external support.  The Land Rights Act 21018 does not allow for retrospective complaints to be pursued, so historic injustices (of which there are many in relation to past concessions) cannot be addressed. The report notes ongoing risks from overlapping customary, informal and formal tenure arrangements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 1,
+              "comment": "Women are less visible in the value chain than men, and become less visible/present the further up the value chain you look. At the household level, they do a lot of the work on the farms (except physically demanding roles such as clearing and brushing) along with child care and household well-being. There has been considerable investment in the CVC, implemented by actors such as NGOs and Government.  Where these initiatives have been implemented, gender awareness and equality have been promoted   However, it was not possible to assess what proportion of cocoa farming households were/had been linked to these proejcts, and therefore exposed to gender mainstreaming activities"
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 2,
+              "comment": "See previous comment about women's visibility and presence in the value chain.  Women participate in pod breaking, drying, post-harvest work, informal labour and off-farm activities, but are less visible in farm ownership, marketing, trading and higher-value functions. Women are often more active in VSLAs and susu than in producer groups.There are women cocoa farmers (often in the form of female headed households), and young women are encouraged to farm as a way to prepare them for marriage.  Very little presence of women beyond production."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Women cocoa farmers in the form of female headed households in particular) tend to have smaller farms, and be less well off.  The VCA4D study was not able to assess asset ownership beyond this."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 2,
+              "comment": "According to the law they do, but enforcement is lacking. See previous comments on land rights. There is growing acceptance of women being allocated land. However, customary practice, inheritance, marriage law and community governance can still discriminate against women and youth."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 1,
+              "comment": "Due to higher rates of illiteracy, issues with land title, women are less likely to have access to lines of credit. However, they are active in grass roots organisations such as savings and loan clubs and Susu."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Due to social norms and higher rates of illiteracy, women experience greater challenges accessing training, services, etc.Women are disadvantaged in access to training and services. GROW Liberia found only one in five GAP trainees was female, and COVADEP found very low levels of GAP, traceability and record-keeping training overall."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 2,
+              "comment": "Several reports found women participate in decisions on production of food and other crops, and also cocoa, although others found a gender bias in which crops and to what extent women were involved.Men and women may both be involved in crop decisions, but men dominate land, income and marketing decisions. Women have more control over subsistence crops than cocoa income."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Women carry out multiple farm and non-farm tasks, but their autonomy is constrained by household norms, labour capacity, land access, childcare, water collection and limited control over cocoa production decisions."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Men tend to manage income from crops sold, while women lead decisions on what is consumed, stored or given away. ACDI/VOCA found women made decisions on 18% of income and expenditure, with 65% made jointly."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Women earn income through informal labour, petty trading, VSLAs/susu and some cocoa activities. However, income opportunities are constrained by time poverty, lower assets, lower literacy and weaker access to land and training.Reported that women's main income generation is from off-farm activities (e.g. petty trading).  The VCA4D spoke with several women who reported to have their own cocoa farms, and who kept and used the money earned from this for their own purposes.  However, other studies found that it was the menfolk who took responsibility for the sale of the crop and would retain responsiblity for the income"
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "A mixed picture has emerged on this, with some studies showing that they do participate in decisions (e.g. GROW) while others do not.  It was not possible for the VCA4D study to assess this directly during the study."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 2,
+              "comment": "Yes, women are part of cooperatives and farmer organisations but mainly where these groups have been part of NGO/Government projects which encourage gemder issues.  Women are most likely to be spontaneiously involved in VSLCs and Susu."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "Donor-supported groups promote gender sensitivity, but literacy, record-keeping and traditional norms limit women’s leadership. GROW Liberia found female village coordinators faced disadvantages including lack of phones and male members claiming women’s achievements."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Women’s influence remains limited by literacy, land rights, weak representation and male-dominated farmer organisations. CLDMCs create an opportunity for participation, but implementation remains uneven.Through the Land Rights Act 2018, women should be represented in decisions about land use, be part of the Community Land Development and Management Committees and be able to aquire land.  However, in practice it is not clear to what extent this happens in practice"
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "The VCA4D study were able to talk to women in mixed community groups.  Some of the women were quite vocal, but the majority did not appear to be comfortable speaking out."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 1,
+              "comment": "Workloads are not equal. Men are more visible in production and marketing, while women combine post-harvest cocoa work, off-farm activities, household work, childcare, water collection and duties for kuu groups. Women carry out the majority of childcare and domestic work, along with youth and children.  Reports that child domestic workers are present, although not related to cocoa production.  Women also do agricultural work, and earn money mainly through off farm activities.  Their time can be constrained.  Female headed households are particularly affected"
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 1,
+              "comment": "Women and youth undertake harvesting and post-harvest tasks, carry produce, prepare beans, dry cocoa, fetch water and cook for kuu groups. Poor infrastructure and lack of labour-saving services add to time and physical burden.The study found no report of labour saving technologies specifically aimed at women in the CVC.  TWhere farming households are involved in projects, they will be exposed to gender sensitivity training and encouraged to be more balanced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": "n/a",
+              "comment": "Unable to assess.  Liberia imports a large share of food needs and rural households rely heavily on food purchases."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 1,
+              "comment": "It was not possible to assess whether more food was available in the local markets, or that more variety was available.  Although the levels of food insecurity are still relatively high in many areas of Liberia, along with childhood malnurtirion and stunting, FEWS-NET stopped monitoring Liberia in 2017/18, suggesting that there have been positive trends towards greater food availabilty. There were anecdotal reports from the south-east that Burkinabe farmers were growing other food crops as well as cocoa on the land they rented from their Liberian hosts, and this food was being sold in the local market. Poor market access, seasonal shortages and food price pressures, especially during the rainy/lean season seem to characterise food and nutrition security among cocoa farmers."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "It was not possible to assess the contribution of cocoa to total household income, or to compare cocoa farmers with other farmers.  But cocoa is an important source of cash income that can be mobilised to pay for food needs as well as health expenses (as reported by VCA4D survey respondents and interviews).  Cocoa cash income helps households buy food and manage food insecurity, health costs and school fees. However, food access remains fragile due to poverty, seasonality, poor roads, food inflation and household reliance on market purchases."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Food price inflation is very high this year, and it has fluctuated wildly over the last 15-10 years.  Food prices were increasing, not decreasing. The Central Bank estimated 11.59% food price inflation in June 2024, and WFP found imported rice prices increased by 21% in March 2024 year-on-year."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 1,
+              "comment": "It was not possible to assess the quality of food in the local market.  Evidence points to poor dietary quality, especially in rural counties. The 2022 RFSLNMA found low dietary diversity in 28% of all households and 37.8% of rural households, with some households relying on staples and fats."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": "n/a",
+              "comment": "Not assessed"
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 1,
+              "comment": "See previous comments.  Most meals reported during the VCA4D survey were very dependent on starchy staples with the addition of some soup.  Sources of animal protien are limited. Several studies show low dietary diversity, with River Gee, Maryland, Grand Kru and Sinoe among the worst affected."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Most rural households report reduced food intake during the 'lean' season.  Cocoa is one means of managing food insecurity in many areas (as per FEWSNET). Cocoa income helps households manage lean periods, but the risk of food shortage remains high. COVADEP found 66.4% of cocoa households in the southeast reported food shortages in the previous 12 months."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Food prices in the local market fluctuate over the course of the year, and also between different markets.  Liberia is dependent on food imports for many products, such as rice (an important staple) and so is vulnerable to global market fluctuations as well.  Cocoa income does provide cash for households to use to buy food if necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "Yes, coops exist but their capacity is questioned despite considerable investment.  There are more cooperatives in Bong, Nimba and Lofa, with a very few elsewhere in the country.  Rural households have their own systems - including kuu and susu."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "Membership is uneven. No southeast respondents were cooperative members, while 30% in Lofa, Nimba and Bomi were; kuu and susu participation is more common and often more locally inclusive.Many cooperatives have received support from projects implemented by NGOs and Government actors who promote gender sensitivity and equality.  Those groups who have been part of a project such as this will be more inclsive than those who have not.  Social norms still influence how well gender is mainstreamed."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "See previous comments. Many cooperatives are weak, with concerns over governance, transparency and limited value addition. Donor-supported organisations promote inclusion, but capacity and accountability remain uneven."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 1,
+              "comment": "Cooperatives have limited bargaining power and may offer lower prices than traders. Many farmers prefer spot sales to traders because this provides cash and flexibility. Perception of cooperatives by farmers is not always positive - complaints of delayed payments and inputs.  As a result, many farmers 'hedge their bets' and continue to side sell some of their products.  Cooperative capacity is regarded as not sustainable by CVC stakeholders"
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 1,
+              "comment": "This depends entirely on their location, as access to information and training depends on their proximity to/access to NGOs/Government interventions. It was not possible to assess what proportion of farmers were connected to these types of interventions. COVADEP found only around 20% of southeast households were aware of relevant policies/regulations, while ACET found word of mouth and traders were primary information sources. Extension access nationally is below 5%."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "The CVC is highly dependent on relationships of trust as almost all relationships are informal and without a written contract, etc.  Trust is mixed. Relationships with traders can be trusted and practical, but there are many instances of mistrust between buyers, traders, cooperatives and farmers, including side-selling and under-reporting to cooperatives. Traders buy from farmers they know, and farmers prefer to sell to traders they know.  However, a lot of spot selling does take place.  There is trust between farmers and projects, limited engagement between farmers and Government/LACRA."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Through the land rights governance/policy framework, communities should participate (e.g. when investors want access to land), and the Community Land Development and Management Committees offer a structure through which this can happen.  However, roll out is slow and external support is often needed.  Traditional systems persist."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "These are enshrined in the Land Act 2018, in as much as traditional customary land tenure is recognised by law.  Other areas of traditional knowledge could not be assessed."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 3,
+              "comment": "Kuu, susu, VSLAs and self-help groups are important forms of voluntary and informal collective action. AIFO Liberia found self-organised self-help groups were the most common form of collaboration for social development. Smallholder farming households prefer to employ family labour and members of their own community before labour from outside the community, therefore retaining the social capital and remuneration within the community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "As with education facilities, health facilities are limited in rural areas although substantial investment has been made to improve it.  Abitliy to pay for health care is a critical issue.  Cocoa income is often used to cover out of pocket expenses.  Many households will not seek medical care in order to save cost.The report notes that 29% of the population lived more than 5 km from the nearest health facility in 2018, and provision in rural areas remains limited."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "Substantial investment in health services for rural areas has increased access.  Affordability is an issue, and coverage is not extensive.Health service access depends on location, cash, transport and service availability. Rural households are more likely not to seek healthcare because facilities are far away or unaffordable."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 1,
+              "comment": "Cocoa income helps households manage out-of-pocket health costs, but affordability remains fragile. Health care eeds was a maor reason for cocoa farmers to sell their cocoa prematurely (when it is wet/white) to spot sellers in order to raise cash."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": "n/a",
+              "comment": "Housing quality has improved, but rural housing remains modest. The 2022 census showed high proportions of rural housing in cocoa counties constructed with mud, brick or wood outer walls."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Water and sanitation provision has improved substantially since the end of the civil war.  Boreholes, wells and latrines were built, and hygiene training provided. However, many rural communities are still practicing open defacation and do not have access to safe drinking water.  Cost of buliding and maintaining latrines and safe wells."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 1.3333333333333333,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 1,
+              "comment": "Access to primary education is limited in rural areas.  Government primary education is free, but rural attendance, completion and quality remain weak. Only 27.2% of students attend school in rural communities, and many children travel an hour or more to school.Poor facilities, lack of trained teachers, large classes and high drop out rates exist.  Many rural schools stop at primary grade 6, so there are no opportunities to go beyond this."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 1,
+              "comment": "Secondary and vocational access is particularly constrained. Many rural schools stop at 6th or 9th grade, and ACET found very low educational attainment among southeast cocoa farmers, with almost no vocational training.Secondary education is not accessible for most SHF, and is also beyond their means.  Most secondary schools are in larger urban settlements."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "Where NGOs and Government are active, training is provided to farmers who participate in their initiatives (and there will be some trickle down to neighbours).  However, NGO/Government actors are only active/present in some parts of the country, not everywhere.  So access to training is dependent on proximity to an active stakeholder and cocoa initiative.  There is not cocoa specific extension service.  Some private sector actors may also provide training. COVADEP found only 6% of households had GAP training, 0.1% traceability training and 0.3% farm record-keeping training."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
