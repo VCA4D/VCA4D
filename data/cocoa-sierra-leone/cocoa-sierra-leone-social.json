@@ -1,0 +1,486 @@
+{
+  "id": "cocoa-sierra-leone",
+  "country": "sierra-leone",
+  "commodity": "cocoa",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 1.6,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Labour rights are legally recognised, but compliance is fragmented: exporters are more formal while farm and intermediary labour remains largely informal and weakly monitored. Informal agreements are often based on local social traditions."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 2,
+              "comment": "Freedom of association is legally allowed. Farmers associate through cooperatives/FBOs, but these producer organisations and bargaining power remain weak, and prices are largely buyer-driven."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 1,
+              "comment": "Enforceable written contracts are mostly limited to exporters and some cooperatives - mostly bound by Fairtrade certification; most farmer, hired labour and trader relations are oral and trust-based, and thus more vulnerable."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Forced labour is less practised compared to Ghana and Ivory Coast, but debt, pre-financing and tied sales create structural dependency that limits farmers' autonomy."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 1,
+              "comment": "Women, largerly involved in production and farm-level processing, contribute heavily, but have weaker land rights, market access, resource control and decision-making power."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Children often combine school and cocoa work. Awareness and bylaws improved attendance in some communities, but child work remains a coping strategy in poor households."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 2,
+              "comment": "Children are legally protected, but practical protection is insufficient because children still help in cocoa tasks that can expose them to injury and hazardous conditions."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 1,
+              "comment": "Farm-level safety is poor: most farmers lack PPE, report injuries and work long hours in physically demanding tasks; conditions improve only in larger exporters/processors."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "Cocoa provides cash income for farmers but remuneration is widely perceived as insufficient and unstable; most income goes to basic needs with little room for savings or reinvestment."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 1,
+              "comment": "Generally, youth attraction is low because cocoa is labour-intensive, returns are delayed and volatile, and mining or other options are often seen as more attractive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 2,
+              "comment": "Adherence to VGGT-like principles is mostly implicit through recent legal reforms and some traceability practices, but companies rarely make explicit VGGT commitments."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": "n/a",
+              "comment": "No large-scale land acquisition cases were identified in the cocoa sector during fieldwork; due-diligence provisions exist in law, but no concrete cocoa case could be assessed."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 2,
+              "comment": "Transparency has improved in law, but prior disclosure at local level remains uneven because customary systems dominate and rural awareness of rules is limited."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "Policies and procedures are not easily accessible to all stakeholders; weak formalisation and low awareness, especially among women, reduce practical accessibility."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Participation and consultation exist but are uneven; women and youth remain underrepresented in meetings and leadership, limiting inclusive decision-making."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "Prior consent is more advanced in policy than in rural practice; consultation quality depends heavily on customary authorities and local power relations."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Rules provide relatively secure tenure under customary systems, but equity is limited because land control remains gendered and formal documentation is weak."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "Alternative livelihood strategies exist mainly at household level through diversification into rice, cassava, oil palm, vegetables and petty trade, rather than through systematic support."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 2,
+              "comment": "The legal framework now provides for prompt and adequate compensation, but implementation capacity and evidence of fair operation in cocoa areas remain limited."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 2,
+              "comment": "Complaint handling exists mainly through informal, chief-led and community mechanisms; accessible formal grievance and arbitration systems remain limited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Women are active across production but remain less present in higher-value or market-facing segments such as trading and price negotiation."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 4,
+              "comment": "Women are highly active in the CVC, especially in production and farm-level post-harvest activities, but activity does not translate into equal benefit, incl. control over cocoa income. Often, women owning their own plot manage all cocoa work by themselves."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Women do own and manage some assets and income activities, but ownership and effective control over productive assets remain weaker than for men."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 2,
+              "comment": "Formal legal equality has improved, but realised equality is limited: women typically access cocoa plots through marriage or inheritance and manage smaller plots than men."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "Women access credit, especially via VSLAs and informal channels, but their access remains narrower and less diversified than men’s."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Women’s access to extension, inputs and other services is improving in project areas but remains constrained by social norms and weak service systems."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 3,
+              "comment": "Women take part in many production decisions and often report joint decision-making; survey evidence shows high female participation in discussions. However, in many cases, husbands have the last say. In polygamous marriages, each subsequent wife has less decision-making power."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Women’s autonomy in organising work is limited by household norms, heavy workloads, incl. domestic work, and restricted control over labour, resources and final decisions. These affect their autonomy in performing management of their own cocoa plot."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Women’s control over income is mixed and generally weaker than men’s: discussions may be joint, but final authority often remains male."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Women can earn income from their own plots and petty trade, but independent control over that income is often partial and mediated by household norms."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Women participate in some asset-related decisions, but sale, transfer and major resource decisions remain largely male-dominated."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 3,
+              "comment": "Women do participate in cooperatives and groups, and quotas support their membership, although participation is stronger than leadership."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "omen are underrepresented in leadership: only a few chairwomen were found, even where minimum board quotas exist."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Women’s influence over services, territorial power and policy decisions remains limited by education gaps, social norms and weak representation in leadership."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Women do speak in public in some group settings, but broader public voice remains constrained by social norms and unequal power relations."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 1,
+              "comment": "Overall workloads are not equal: women combine cocoa work with domestic and care responsibilities, resulting in heavier total labour burdens."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "Risks of strenuous work for women are not minimised; women perform intensive field and post-harvest tasks and often lack labour-saving tools or resources."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 1,
+              "comment": "Cocoa production can influence farmers' involvement in other (food) crops, as it is time- and labour-intensive. Cocoa money plays a crucial role in bridging food shortage. In general, food security of cocoa producers depends on cash income (from cocoa) and purchases than on own food output."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 1,
+              "comment": "There is no clear evidence that local market food supplies are increasing because of cocoa; households remain vulnerable to broader food-system and price shocks."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Cocoa income helps households buy food, especially rice, but this effect is seasonal and often supplemented by loans during the hungry season."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 2,
+              "comment": "Consumer food price pressure remains high overall despite some recent improvement in rice prices; affordability is still fragile for most rural households."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Nutritional quality is only partially improving and mainly right after harvest; diets remain heavily centred on rice and basic sauces."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "There is limited evidence of sustained improvement in nutritional practices; utilisation remains constrained by income seasonality and weak complementary services."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 2,
+              "comment": "Dietary diversity is low and only improves temporarily after harvest; protein-rich foods are consumed only occasionally."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 1,
+              "comment": "Periodic food shortage risk is not reduced enough: households face an average 4.8 months of shortage and depend on seasonal cocoa income and loans."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Excessive food price variation remains a major vulnerability driven by macroeconomic and market shocks rather than being effectively reduced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 4,
+              "comment": "Both formal cooperatives and informal buyer networks participate actively in the CVC, although the system remains fragmented and weakly coordinated."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "Membership is only partly inclusive: women and youth are present, but structural barriers mean inclusion is often more numerical than substantive."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Groups have some formal governance structures, but accountability and transparency are uneven and many members report weak communication from leadership."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "Farmer groups have limited negotiating power in input and output markets; prices are still largely set by exporters, agents and broader market conditions."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "Access to technical and market information is uneven; training is stronger in project/cooperative settings, but price information remains opaque and gender gaps persist."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Trust between actors is functional but limited, especially toward buyers, because of price opacity, weighing concerns and unclear premium distribution."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Communities do participate in some livelihood decisions through meetings and project structures, but participation is often formal and less inclusive for women and youth."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "Some traditional knowledge is used in cocoa production and climate-smart approaches, but formal recognition and systematic integration remain limited."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 3,
+              "comment": "Participation in communal and mutual-support activities is relatively strong, especially through labour sharing, VSLAs and group farming in organised communities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "Households generally have some physical access to health facilities, but rural distance, weak infrastructure and transport barriers make access difficult."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "Access to actual health services is constrained by staff shortages, medicine stock-outs, weak facilities and uneven service quality in rural areas."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 1,
+              "comment": "Health services are financially burdensome for many households, which often use scarce cocoa income to pay for care."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "Access to good-quality housing is mixed and limited; housing is one of major uses of cocoa income, showing needs are significant and only gradually addressed."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Access to good-quality water and sanitation is poor, especially in rural areas, and remains a clear development gap."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Primary education is generally available and valued, but access is still financially constrained by school-related costs."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Secondary and vocational education are less accessible than primary education, with weak rural pathways and limited cocoa-relevant skills options."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "In-service vocational training exists mainly through projects, certification and extension, but coverage and long-term quality remain uneven."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
