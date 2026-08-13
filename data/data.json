@@ -415,6 +415,13 @@
       "product": "fisheries"
     },
     {
+      "id": "cassava-democratic-republic-of-congo",
+      "title": "democratic-republic-of-congo cassava",
+      "year": null,
+      "country": "democratic-republic-of-congo",
+      "product": "cassava"
+    },
+    {
       "id": "banana-dominican-republic",
       "title": "Banana",
       "year": 2020,
