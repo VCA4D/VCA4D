@@ -359,6 +359,13 @@
       "product": "aquaculture"
     },
     {
+      "id": "cassava-cameroon",
+      "title": "cameroon cassava",
+      "year": null,
+      "country": "cameroon",
+      "product": "cassava"
+    },
+    {
       "id": "cocoa-cameroon",
       "title": "Cocoa",
       "year": 2020,
