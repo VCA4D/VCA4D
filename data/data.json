@@ -373,6 +373,13 @@
       "product": "cotton"
     },
     {
+      "id": "rice-cameroon",
+      "title": "cameroon rice",
+      "year": null,
+      "country": "cameroon",
+      "product": "rice"
+    },
+    {
       "id": "cocoa-colombia",
       "title": "Cocoa",
       "year": 2020,
