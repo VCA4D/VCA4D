@@ -590,6 +590,13 @@
       "product": "wheat"
     },
     {
+      "id": "cashmere-mongolia",
+      "title": "mongolia cashmere",
+      "year": null,
+      "country": "mongolia",
+      "product": "cashmere"
+    },
+    {
       "id": "cocoa-nicaragua",
       "title": "Cocoa",
       "year": 2020,
