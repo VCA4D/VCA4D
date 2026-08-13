@@ -555,6 +555,13 @@
       "product": "inland-fisheries"
     },
     {
+      "id": "maize-moldova",
+      "title": "moldova maize",
+      "year": null,
+      "country": "moldova",
+      "product": "maize"
+    },
+    {
       "id": "sunflower-moldova",
       "title": "moldova sunflower",
       "year": null,
