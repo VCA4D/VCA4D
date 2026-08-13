@@ -604,6 +604,13 @@
       "product": "cashew"
     },
     {
+      "id": "cocoa-sierra-leone",
+      "title": "sierra-leone cocoa",
+      "year": null,
+      "country": "sierra-leone",
+      "product": "cocoa"
+    },
+    {
       "id": "palm-oil-sierra-leone",
       "title": "sierra-leone Palm Oil",
       "year": null,
