@@ -387,6 +387,13 @@
       "product": "rice"
     },
     {
+      "id": "food-flour-chad",
+      "title": "chad food-flour",
+      "year": null,
+      "country": "chad",
+      "product": "food-flour"
+    },
+    {
       "id": "sesame-chad",
       "title": "chad sesame",
       "year": null,
@@ -553,6 +560,27 @@
       "year": 2020,
       "country": "mali",
       "product": "inland-fisheries"
+    },
+    {
+      "id": "maize-moldova",
+      "title": "moldova maize",
+      "year": null,
+      "country": "moldova",
+      "product": "maize"
+    },
+    {
+      "id": "sunflower-moldova",
+      "title": "moldova sunflower",
+      "year": null,
+      "country": "moldova",
+      "product": "sunflower"
+    },
+    {
+      "id": "wheat-moldova",
+      "title": "moldova wheat",
+      "year": null,
+      "country": "moldova",
+      "product": "wheat"
     },
     {
       "id": "cocoa-nicaragua",
