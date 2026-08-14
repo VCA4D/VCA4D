@@ -159,6 +159,10 @@
       "iso": "et"
     },
     {
+      "id": "french-overseas-pacific-territories-new-caledonia",
+      "prettyName": "french-overseas-pacific-territories-new-caledonia"
+    },
+    {
       "id": "french-polynesia",
       "prettyName": "French polynesia",
       "continent": "Asia - Pacific",
@@ -462,6 +466,20 @@
       "year": 2020,
       "country": "ethiopia",
       "product": "cotton"
+    },
+    {
+      "id": "poultry-french-overseas-pacific-territories-new-caledonia",
+      "title": "french-overseas-pacific-territories-new-caledonia poultry",
+      "year": null,
+      "country": "french-overseas-pacific-territories-new-caledonia",
+      "product": "poultry"
+    },
+    {
+      "id": "poultry-french-polynesia",
+      "title": "french-polynesia poultry",
+      "year": null,
+      "country": "french-polynesia",
+      "product": "poultry"
     },
     {
       "id": "fisheries-gambia",
