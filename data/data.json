@@ -674,6 +674,13 @@
       "product": "palm-oil"
     },
     {
+      "id": "cotton-tajikistan",
+      "title": "tajikistan cotton",
+      "year": null,
+      "country": "tajikistan",
+      "product": "cotton"
+    },
+    {
       "id": "coastal-fisheries-tanzania",
       "title": "tanzania Coastal Fisheries",
       "year": 2020,
