@@ -159,10 +159,6 @@
       "iso": "et"
     },
     {
-      "id": "french-overseas-pacific-territories-new-caledonia",
-      "prettyName": "french-overseas-pacific-territories-new-caledonia"
-    },
-    {
       "id": "french-polynesia",
       "prettyName": "French polynesia",
       "continent": "Asia - Pacific",
@@ -391,13 +387,6 @@
       "product": "rice"
     },
     {
-      "id": "food-flour-chad",
-      "title": "chad food-flour",
-      "year": null,
-      "country": "chad",
-      "product": "food-flour"
-    },
-    {
       "id": "sesame-chad",
       "title": "chad sesame",
       "year": null,
@@ -417,13 +406,6 @@
       "year": 2020,
       "country": "comoros",
       "product": "fisheries"
-    },
-    {
-      "id": "cassava-democratic-republic-of-congo",
-      "title": "democratic-republic-of-congo cassava",
-      "year": null,
-      "country": "democratic-republic-of-congo",
-      "product": "cassava"
     },
     {
       "id": "banana-dominican-republic",
@@ -466,20 +448,6 @@
       "year": 2020,
       "country": "ethiopia",
       "product": "cotton"
-    },
-    {
-      "id": "poultry-french-overseas-pacific-territories-new-caledonia",
-      "title": "french-overseas-pacific-territories-new-caledonia poultry",
-      "year": null,
-      "country": "french-overseas-pacific-territories-new-caledonia",
-      "product": "poultry"
-    },
-    {
-      "id": "poultry-french-polynesia",
-      "title": "french-polynesia poultry",
-      "year": null,
-      "country": "french-polynesia",
-      "product": "poultry"
     },
     {
       "id": "fisheries-gambia",
@@ -587,41 +555,6 @@
       "product": "inland-fisheries"
     },
     {
-      "id": "maize-moldova",
-      "title": "moldova maize",
-      "year": null,
-      "country": "moldova",
-      "product": "maize"
-    },
-    {
-      "id": "sunflower-moldova",
-      "title": "moldova sunflower",
-      "year": null,
-      "country": "moldova",
-      "product": "sunflower"
-    },
-    {
-      "id": "wheat-moldova",
-      "title": "moldova wheat",
-      "year": null,
-      "country": "moldova",
-      "product": "wheat"
-    },
-    {
-      "id": "cashmere-mongolia",
-      "title": "mongolia cashmere",
-      "year": null,
-      "country": "mongolia",
-      "product": "cashmere"
-    },
-    {
-      "id": "pine-nut-mongolia",
-      "title": "mongolia pine-nut",
-      "year": null,
-      "country": "mongolia",
-      "product": "pine-nut"
-    },
-    {
       "id": "cocoa-nicaragua",
       "title": "Cocoa",
       "year": 2020,
@@ -690,13 +623,6 @@
       "year": null,
       "country": "sierra-leone",
       "product": "palm-oil"
-    },
-    {
-      "id": "cotton-tajikistan",
-      "title": "tajikistan cotton",
-      "year": null,
-      "country": "tajikistan",
-      "product": "cotton"
     },
     {
       "id": "coastal-fisheries-tanzania",
