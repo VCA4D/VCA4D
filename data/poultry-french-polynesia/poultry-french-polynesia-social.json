@@ -1,0 +1,486 @@
+{
+  "id": "poultry-french-polynesia",
+  "country": "french-polynesia",
+  "commodity": "poultry",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.2,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "La Nouvelle-Calédonie est signataire des six conventions internationales fondamentales du travail de l’organisation internationale du travail (OIT) à part entière. Le code du travail de la Nouvelle-Calédonie, basé sur la législation française du travail, est en vigueur et inclut un salaire minimum garanti ainsi qu’un temps de travail hebdomadaire maximal. Cependant, il y a très peu d’emplois rémunérés dans le secteur avicole, probablement moins de 150 postes. La plupart des entreprises artisanales étaient basées sur le travail familial."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 2,
+              "comment": "La liberté d’association est autorisée, mais les moyens de négociation collective dans le secteur agricole sont limités."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Le code du travail de la Nouvelle-Calédonie couvre le contrat initial, les conditions de travail quotidiennes, la santé et la sécurité, ainsi que la résiliation d’emploi, ainsi que les mécanismes de résolution des différends, mais très peu de personnes sont employées dans le secteur de la volaille."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 3,
+              "comment": "Le code du travail de Nouvelle-Calédonie, basé sur la législation française du travail en vigueur et le travail forcé, est illégal. Le travail forcé est peu probable."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 2,
+              "comment": "Le code du travail de Nouvelle-Calédonie interdit la discrimination à l’emploi fondée sur plusieurs caractéristiques protégées. Les employeurs n’ont pas le droit de discriminer les employés ou les candidats lors du recrutement, de l’embauche, de la formation, de la promotion, de la rémunération et des licenciements. Cependant, les rôles dans le secteur de la volaille et du soutien tendent à être attribués au genre."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 3,
+              "comment": "Le nouveau système éducatif de Calédonie reflète celui de la France continentale et l’école est obligatoire de 6 à 16 ans. le code du travail de Nouvelle-Calédonie inclut des politiques visant à soutenir les enfants dans de telles situations à la transition vers l’éducation."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": "n/a",
+              "comment": "Le Code du travail de Nouvelle-Calédonie interdit l’emploi des enfants et des jeunes de moins de 18 ans dans le travail de nuit ou dans des conditions dangereuses."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Le droit du travail assure une protection de la santé et de la sécurité, mais les travailleurs de la production avicole sont exposés à la poussière avicole et doivent travailler dans des environnements chauds et humides. Les travailleurs de la transformation avicole sont exposés à accrocher des membres dans des machines, à se couper avec des couteaux et des objets tranchants, au sang et aux surfaces humides, et à développer des blessures dues à des tâches répétitives."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "Les travailleurs formels dans le secteur agricole reçoivent le SMAG ; ce chiffre était auparavant inférieur à celui des ouvriers industriels qui reçoivent la SMG pour le même nombre d’heures de travail mensuelles, mais cela a été modifié en janvier 2024 pour aligner le SMAG sur le SMG."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "Les jeunes ne sont généralement pas attirés par le travail dans le secteur avicole en raison du salaire plus bas, des conditions de travail difficiles et du travail le week-end."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": "n/a",
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering/are aware to the VGGT? (Voluntary guidelines on the responsible governance of tenure)",
+              "scoreValue": "n/a",
+              "comment": "Une grande partie des terres destinées à la production commerciale de volailles a été achetée il y a plus de 30 ans par les parents des propriétaires actuels. Gie Meru opère sur des terres coutumières sous un GDPL."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": "n/a",
+              "comment": "Sans rapport avec le secteur avicole en Nouvelle-Calédonie."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": "n/a",
+              "comment": "Les questions ou changements proposés ayant des implications environnementales, comme la génération de pollution agricole, sont publiés en ligne par la province du Sud."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "Ces projets peuvent être partagés par la Chambre d’agriculture avec ses membres, par provinces (par exemple projet Province Sud Petits poulets) ou par Biocalédonie. Le site web de l’ADRAF fournit des détails sur ses procédures concernant l’attribution coutumière des terres. L’utilisation des terres est traitée au niveau provincial. Le Département de l’Urbanisme, du Développement et des Terres de la Province du Sud ainsi que la Direction de l’Urbanisme et des Terres - Province Nord (DAF) traitent des questions et questions relatives aux terrains privés."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "L’ADRAF rapporte que l’attribution coutumière des terres peut nécessiter des dizaines de réunions ou de contacts sur plusieurs mois, car toutes les parties prenantes doivent être identifiées et identifiées."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 2,
+              "comment": "L’attribution coutumière des terres de l’ADRAF doit être assurée par consensus auprès des parties prenantes. La décision sur la biocalédonie, comme la suspension de la certification des œufs biologiques en raison de problèmes liés à l’obtention d’aliments biologiques, a peut-être été discutée avec les personnes concernées."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "L’ADRAF applique les règles locales pour la réaffectation des terres aux clans et aux familles pour les terres coutumières."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": "n/a",
+              "comment": "Sans rapport avec le secteur avicole en Nouvelle-Calédonie."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a",
+              "comment": "Sans rapport avec le secteur avicole en Nouvelle-Calédonie."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": "n/a",
+              "comment": "Sans rapport avec le secteur avicole."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Les femmes sont exclues ou non recrutées par certains employeurs dans certains secteurs de la chaîne de valeur (gestion de poulailler, atelier d’usine de fourrerie) mais recherchées pour d’autres activités (collecte et emballage d’œufs, gestion d’écloseries)."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "Les femmes exploitent leurs propres entreprises artisanales de production d’œufs qui approvisionnent les supermarchés locaux et spécialisés ; sont impliqués en tant que co-directeurs de grandes entreprises avicoles ; impliqué dans l’organisation de la normalisation organique ; Offrir une formation à l’élevage de poulets en plein air."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Les femmes peuvent acheter et hériter de biens privés."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 2,
+              "comment": "Les femmes peuvent posséder des terres privées. Les droits d’héritage des terres tribales sont inférieurs à ceux des hommes."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "Les femmes ont un accès plus ou moins égal à de petits microcrédits de l’ADIE (Association for the Right to Economic Initiatives), mais ont tendance à avoir un accès plus faible à des prêts d’investissement plus importants."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Dans le cadre d’une entreprise sociale, comme Gie Meru, ou d’un projet tel que Protege, les femmes ont un accès égal aux services de la chaîne de valeur avicole et peuvent bénéficier d’une Carte d’Agriculteur de la Chambre d’Agriculture, qui autorise le titulaire à certaines réductions et services."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 3,
+              "comment": "Lorsque les femmes ont leur propre entreprise avicole ou sont codirectrices ou membres d’une entreprise sociale, elles participent aux décisions de production."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Cela dépend du type et de la taille de l’opération. Peu de femmes exploitent des entreprises avicoles entièrement seules."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Comme indiqué dans la version 3.3.2 ci-dessus. Une productrice nous a dit que ses revenus issus de l’élevage de volailles serviraient à payer les frais de scolarité de ses enfants (plus le repas et le transport)."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Comme indiqué dans la version 3.3.2 ci-dessus. Oui, s’ils ont leur propre entreprise ou sont employés."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Oui, s’ils en sont propriétaires."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 2,
+              "comment": "Les femmes sont membres de Bio Caledonia et Gie Meru."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "40 % des dirigeants de Bio Caledonia sont des femmes. Beaucoup de femmes sont membres d’organisations féminines basées sur l’Église."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "La directrice de l’Agence Rurale est une femme."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Des femmes responsables et des femmes du secteur avicole prennent la parole."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "Les femmes ont tendance à avoir plus de responsabilités de soin et domestiques."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "Dans le secteur de la volaille artisanale, les femmes sont encore soumises à un travail pénible – déplacer des arcs, porter des sacs de nourriture, rouler sur des sentiers ruraux."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 3,
+              "comment": "Élever de la volaille signifie que les familles ont accès à de la viande de poulet fraîche et des œufs. Les agriculteurs Gie Meru ont mentionné qu’ils tuaient et consommaient des oiseaux déformés ou blessés. Le modèle de production signifie qu’il y aura des oiseaux en excédent si les producteurs les élèvent bien, qui pourront être conservés pour un usage familial ou une vente. Un producteur gardait quelques femelles et les laissait devenir pondeuses, fournissant ainsi des œufs à sa famille. La vente de poulets réformés (pondeuses, dépassées de leur utilité économique), est vendue à bas prix et largement consommée."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 2,
+              "comment": "Le territoire est autosuffisant en approvisionnement commercial en œufs et la production locale de poulets de chair représente 10 % de la consommation de poulets."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Les agriculteurs de Gie Meru peuvent générer entre 50 et 80 000 FPF par an. Ces revenus permettent aux parents de payer les repas scolaires de leurs enfants et d’acheter de la nourriture (par exemple des œufs) en magasin."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "La production de poulet et d’œufs dépend fortement des matières premières importées et la faible production ne peut pas compenser le faible prix du poulet importé et d’autres importations."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Si le foyer a accès à des œufs et/ou du poulet frais, la qualité nutritionnelle de leur alimentation s’améliore."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "Avoir accès à de l’argent peut augmenter la consommation d’aliments moins nutritifs, comme les sucrés et les morceaux de viande gras. La consommation de fruits et légumes peut être irrégulière, tandis que la consommation de matières grasses, de sucre et de sel peut dépasser les recommandations nutritionnelles."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 2,
+              "comment": "Cela a pu mais générer des revenus financiers peut être utilisé pour acheter des aliments moins nutritifs, comme des boissons gazeuses, des bonbons, du pain blanc, etc."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Les produits avicoles produits localement apportent très peu aux régimes alimentaires nationaux, en particulier pour la viande avicolique."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 1,
+              "comment": "Le territoire dépend beaucoup des produits alimentaires importants et les prix ont augmenté en raison des circonstances extérieures. La rupture de l’ordre public aurait également perturbé les approvisionnements alimentaires et entraîné une hausse des prix."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "Très peu existent ou participent à la chaîne de valeur avicole. Gie Meru est le principal type d’organisation formelle existant (un groupement d’intérêt économique est un consortium d’entreprises apparentées qui mettent en commun leurs efforts pour obtenir un avantage concurrentiel). Une coopérative de producteurs de maïs existe pour les producteurs de maïs dans la province du Sud, et une autre à Pouembout a été mentionnée."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "L’adhésion au groupe Gie Meru dépend de la localisation et de l’affiliation tribale."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Gie Meru a un président élu et un directeur."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "Gie Meru pourrait obtenir des coûts unitaires plus bas pour ses achats d’aliments."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "Les grands agriculteurs commerciaux peuvent obtenir des informations sur les pratiques avicoles, notamment à l’étranger, les politiques agricoles locales et les prix auprès des chaînes de supermarchés locales."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Les éleveurs de volailles Caldoche avaient tendance à se faire confiance mutuellement et à leurs fournisseurs tout au long de la chaîne, y compris pour les œufs fécondés et les poussins d’un jour."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Oui, mais il y a peu de mélange entre les communautés Caldoche et Kanak. Les congrégations ecclésiastiques et les partis politiques offrent un espace pour les discussions sur les questions locales."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "Oui, particulièrement dans la province du Nord, dans la province des Îles de la Loyauté ainsi que dans la province du Sud."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 2,
+              "comment": "Les groupes paroissiaux et les partis politiques représentent probablement la plus grande opportunité d’activités communautaires volontaires qui peuvent bénéficier à toute la communauté."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 3,
+              "comment": "Le système public de santé de la Nouvelle-Calédonie est financé par des cotisations à la sécurité sociale ; Les résidents peuvent accéder à une gamme de services à faible coût ou gratuit."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 3,
+              "comment": "Les ménages ruraux en Nouvelle-Calédonie ont généralement accès aux services de santé, bien que des défis existent, notamment dans les zones et îles isolées et pour les groupes marginalisés. Le système de santé assure l’accès par divers moyens, y compris les hôpitaux publics et les structures de santé relevant de la juridiction provinciale. En raison de la distance ou des mauvaises conditions routières, certains groupes peuvent avoir moins d’accès que d’autres."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 3,
+              "comment": "Le système public de santé de la Nouvelle-Calédonie est financé par des cotisations à la sécurité sociale ; Les résidents peuvent accéder à une gamme de services à faible coût ou gratuit. L’accès aux services de santé est gratuit pour tous."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "Les ménages ruraux, en particulier au sein de la communauté kanak, peuvent rencontrer des défis liés à la qualité, à la disponibilité et à l’accessibilité du logement."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 2,
+              "comment": "La plupart des maisons ont accès à une eau de bonne qualité (98 %) et à l’assainissement, mais il existe des différences entre provinces, notamment pour les communautés kanakes."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 4,
+              "comment": "L’enseignement primaire est accessible aux ménages, bien que dans certains endroits les enfants doivent parcourir une certaine distance pour se rendre à l’école. Il est gratuit et obligatoire pour les enfants âgés de 5 à 16 ans."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Le secondaire est proposé. Il y a deux lycées agricoles."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "Les deux lycées agricoles de Nouvelle-Calédonie proposent désormais une formation à la production d’œufs de poules élevées en plein air dispensée par un membre de Bio Caledonia."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
