@@ -1,0 +1,486 @@
+{
+  "id": "cotton-tajikistan",
+  "country": "tajikistan",
+  "commodity": "cotton",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2.4,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Law provides for rights to bargain and freedom of association. The same applies to abolition of child labour and forced/compulsory labour. However, farmers are subjec to state-imposed production plans, which comes down to: planting cotton on 60-70% of their land. Thus, while companies can adhere to labour conventions internal to the farm/factory, everyday, actual politics of production and production relations do not comply with/violate ILO conventions. The state is an important actor; the state disseminates production plans from the top down, and cotton ranks at the top of most of these plans (in lowland areas). The labour code contains detailed provisions, but law is not always enforced. Foreign investors (from Europe) pay attention to Tajik state law, and the few from Europe are more stringently monitored. However, this primarily entails attention to labour relations internal to the farm. There is little attention to production plans; companies are obliged to work in the setting and also have to respect the production plans."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 3,
+              "comment": "According to law, there are no barriers to association. Local informal networks are of great importance at the local level for farmers to exchange insights and solicit advice, borrow/rent machinery. There are only few institutionalised networks (apart from those set up by external actors). Occassionally farmes collectively protest or appeal to court/address authorities. More importantly are the informal barriers to speak up publicly - it is sanctioned. Farmers and labourers more easily speak up and voice concerns vis-a-vis foreigners than in their relation to domestic individuals of authority. Instead of public protests, people petition and silently protest, i.e., covert resistance."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Most of the work is informally organised; labourers do not have written/physical contracts; agreements are verbally agreed upon. Fair and just are relative concepts and their interpretation is locally/context specific. Contracts do not imply any certainty and stability. Farmers can easily breach. However, for labourers, the informal nature of work is sometimes preferred as it provides some flexibility/freedom. Individuals working for large Chinese agribusinesses, and some other individuals working for foreign companies work under very basic contracts."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "The state disseminates production plans. Until 2009, cotton debt tied farmers to land, implying a form of debt bondage. Labour politics in the downstream subsectors of the value chain do not feature force."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 3,
+              "comment": "The labour code prohibits all kinds of discrimination. However, gender disparity is considerable and social and political capital are of great importance in order to get into specific positions (particularly positions within the state administration). Women are underrepresented in powerful positions."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 3.5,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 4,
+              "comment": "School attendance is almost 100% (primary education) and attendance is monitored. Incidentally, there are children who work on fields during school time. Such instances are context specific and most often the result of family/household circumstances - not imposed by the state. Authorities or elite sare involved in exceptional cases."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 3,
+              "comment": "Children are prohibited from specific work/tasks, however, specific household circumstances can result in a situation in which chidlren become exposed to specific risks."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "The law (Labour Code) stipulates that specific groups of workers must be protected from engaging in certain tasks/jobs. There are no strict regulations in place that refer to work on cotton fields (except for BCI farmers). There are no regulations regarding the use of protective wear/equipment. In farm fields, women use scarfs to protect themselves against heat or dust. In processing facilities, protective wear is recommended but the use/application is not monitored. Most labourers adopt a pragmatic approach when it comes to risks at work. Health risks particularly pertain to exposure to chemical inputs."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "Remuneration is often verbally agreed upon, in which women tend to lack decision-making power/bargaomomg power. This particularly refers to labourers in the Khatlon region. In the Khatlon region, particularly in areas where farmers do not compete with vegetable growing farmers, women are marginalised and sometimes merely paid in kind of cotton stalks and a strip of land. There are structural factors shaping the politics of production: in areas where farmers primarily grow cotton, farmers do not have substantial sources of cash income throughout the season - cash earnings are restricted to the moment of sales of agricultural commodities/crops and money remitted by migrating family members."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 1,
+              "comment": "No. Payments in the cotton sector - particularly in the primary sector are low and the working conditions are tough. In the processing sector, employment opportunities are increasing. However, the growth and development of industries is confined to a few localities, primarily in the Sughd region (northerin Tajikistan). In the latter, there is a demand for labour, and conditions appear realtively attractive, particularly for women."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": "n/a",
+              "comment": "The state has a key role in the cotton sector. Domestic companies do not always strictly adhere to VGGT. There are only few foreign companies engaged. In principle, by law, the Tajik state adheres to the voluntary guidelines as it respects tenure rights. The Tajik laws regulating land use and tenure are concrete, but enforcement is not a given; in many localities locally specific informal rules take precedent over state law. Furthermore, environmental and labour/human health costs are externalised."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": 2,
+              "comment": "No. There are a few large-scale investments by Chinese; agreements have been concluded with the state; not in consultation with local actors/the local population. In some instances the companies rent land from Tajik farmers. Where Chinese state finance (Chinese banks) is/are involved, law firms undertake due diligence. European firms are under more stringent control, but on the whole, at present, there are few investments in the cotton sector."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": "n/a",
+              "comment": "There are few projects at present, and only a few Chinese companies are engaged. The specific terms of agreement are not disclosed."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 3,
+              "comment": "The Tajik state has a legal database with all promulgated laws and decrees. the population does not consult the data base. lmited. International organisations have worked on providing information on legal reforms, etc."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "As for farmers/rural population concerned, there is little/no consultation, depending on the actors deciding/implementing. At the local level, people may be informed, but not ex ante. In general, interventions tend to be designed and implemented by the state top down."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": 1,
+              "comment": "People are often not consulted. When it happens, it often happens ex post and informally."
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2.75,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 3,
+              "comment": "Law on the books stipulates tenure rights, differentiated per actor/tenure period/arrangement. There is no difference for cotton, but for many farmers, cotton production is important to safeguard access to land - convey loyalty to the state. Thus, security of tenure is conditioned on cotton production."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": 2,
+              "comment": "Currently no changes are formalised/announced yet. The state resettles people occassionally, for instance after land slides or a when land has to be/is allocated to other actors or public facilities. This is not always transparent. According to law, the state should compensate for the loss of land/livelihoods."
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": 3,
+              "comment": "The Land Code stipulates compensation in a situation of loss of land/assets/livelihoods. Farmers' land may be appropriated for the building of public facilities or the granting of land to other (elite) actors. People increasingly appeal to court for land conflicts."
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": 3,
+              "comment": "The state has contact details available on websites for complaints and people can appeal to court. There is a culture of petitioning (petition writing, however). Whether farmers/the rural population does so, remains a question as people tend to shy away which high level political actors are involved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Women make up the majority of the labour force in rural Tajikistan. They are key actors in the primary production of cotton. They mostly undertake manual labour and are excluded from positions with decision-making power."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "Women play key roles in the work; except for roles that involve decision-making; in those instances women tend to be excluded/marginalised. About 20% of dehqon farms is women-headed, but their title may be nominal."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Women increasingly own assets, but sometimes women's ownership is only nominal; they lack control/use rights. This is a legal detour to allow men to engage in business as well as working for the state (for instance)."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 4,
+              "comment": "According to the Land Code/Law on Dehqon Farming law is gender neutral and women and men enjoy equal rights. However, in reality women are deprived of various rights and participation, and access to extension services (for instance)."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "According to law there are no gender specific arrangements. However, in reality women face barriers. For one, to physically enter/access banks/credit, but also because they often do not control their own/household budget."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Yes. However, when extension services are provided in mixed gender groups, women face barriers to speak up and hesitate to become involved or actively participate. In some families, male heads of households or in-laws restrict women's participation."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 2,
+              "comment": "Women increasingly take up roles that were previously considered males domains, but in many households men hold decision-making rights, sometimes even remotely from Russia"
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Women's autonomy is relational and depends to a high extent on intrahousehold power relations/dynamics, as well as the situation in the local community"
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Women's control over the household budget/their own inocme depends to a large extent on intra household dynamics, the ab/presence of spouses; in-laws, and women's ability to work in the public realm. Women's right/power is also related to their age/generation specific; with age, women (re)gain power in the family"
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Most often/often women contribute to the household budget and are not able to spend their income autonomously."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Women tend to face substantial barriers. Their ability to participate in decisions depends on intrahousehold dynamics and difficult to generalise."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 1.75,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 2,
+              "comment": "Women are occassionally member of Water User Associations and cooperatives, for instance when male members of the household are absent. Thus, t depends on household conditions and intrahousehold power relations"
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "Occassionally, limited"
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 1,
+              "comment": "Occassionally, limited"
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Women's presence and activities in the public realm depends on household circumstances. Very often they are constrained by other actors, and informal norms also affect women's activities in the public realm, e.g. it can be socially sanctioned to speak up."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 1,
+              "comment": "As a result of migration, women's work load has increased (the feminisation of farming); women are often expected to take on roles in the pbulc realm while also being solely responsible for care work. There are family specific circumstances/exceptions, and the situation also depends on women's phase/stage in life. These dynamics and the organisation of cotton labour also apply to other farm work/crop value chains."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "By law, women are not allowed to engage in all jobs men are able to undertake, as stipulated in the Labour Code, such as mechanised farm work. However, women are exposed to chemicals during manual fieldwork. Apart from the risks involved and the lack of skills to undertake typical male tasks, there are also informal norms that discourage women to undertake specific male/masculine work (tasks that are considered \"male\"/\"masculine\")."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 2,
+              "comment": "The informal force to grow cotton has discouraged/constrained a diversification of cropping patterns. The income derived from cotton is insufficient to satisfy consumption demands. Labour is often remunerated in kind. While those payments do meet certain demands, it is insufficient to satisfy demands and secure access to health care/education. Income derived from cotton is insufficient to maintain a family."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 1,
+              "comment": "Cotton production does not result in more food supplies on local markets -- there is no direct relation."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "Income from cotton varies, as yearly farm gate/cotton prices fluctuate. In general, profits are limited. A particular problem in the cotton economy concerns the fact that the payment follows only at the end of the year. Thus, the budget for all inputs, as well as labour costs, etc. depends on farmers' previous season or credit/remittances."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Food prices are not correlated with cotton prices. In recent years, food/consumper prices have substantially increased while agricultural inputs have also become much more expensive"
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Cotton has no direct relation to the quality of available food. Off farm income is often more important for households to secure access to food (than income from cotton). Many rural households obtain a substantial part of their income from migrating family members; the contribution often outweighs income from farming."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "Income from cotton varies and is insufficent to sustain a family. This is different for workers in the the downstream segments. Overall, rural households ability to improve the nutritional practices depends on other sources of income and land allocated to food crops. The costs of production also affect food security."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 1,
+              "comment": "Land allocated to cotton cannot be allocated to food crops. Additonally, as a result of structural factors, the state has (historically) neglected the development of food crop value chains. As a reslt, many farmers prefer to grow cotton over other crops as cotton is not perishable and outlets are guaranteed - even though one can not (really) profit from cotton."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "The seasonal character of agricultural production as well as of migration implies that income fluctuates throughout the year. The diversity in food/diet is more limited in winter periods than in summer. Profits from cotton are relatively limited for many households and so it does not reduce/augment the incidences of periodic food shortages. On the whole, cotton growing farmers/households face no food shortage in quant terms, but food insecurity is a concern in rural areas. Landless households without substantial support from migration household members/off-farm income are particularly vulnerable"
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2,
+              "comment": "It depends. Flour/wheat is the primary staple in Tajikistan. The state monitors prices, knowing that wheat/flour prices are of ccncer. In recent years, prices have gone up, much more than wages/pensions, etc. For Tajik households, in general, the prices of oil, wheat and vegetable oil are most important, thereupon meat, dairy. In case of need, peope simplify diets, and limit the consumption of vegetables and fruits, particularly in winter/spring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 2,
+              "comment": "There are some collective/cooperative entities, such as production units, and formal cooperatives, such as Biokishovarz and Sarob, and the national association of dehqon farmers (an association without much power/meaning in reality). Farmers also gather in the framework of water user associations (WUAs), but their actual participation in WUAs is locally specific and not always significiant. Informally, farmers exchange insights regularly, rent each others' machinery/services, etc."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "There is a pronounced gender disparity; but at the local level farmers tend to be engaged. Who speaks up/who can speak up, is differentiated, however."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 3,
+              "comment": "High differences exist, it is difficult to generalise. Power inequality is often pronounced in WUAs, but also in general, within small communities."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 1,
+              "comment": "Ginneries enjoy monopsony power and farmers often do not enjoy much choice where to buy inputs and where to sell cotton. Farmers do not collaborate in negotiating cotton farm gate prices (not able to do so). Prices are set, and there is not much competition between ginneries. In a few instances, farmers protested - in their relation to Farnico and Biokishovarz in recent years."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 4,
+              "comment": "Farmers can access laws and policies, and prices in the cotton harvesting season are announced."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Many farmers distrust actors engaged in processing/ginning cotton as well as input providers. Many also distrust the state."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 3,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Within local communities people participate in discussions, and voice concerns, e.g., issues about water, waste, infrastructure. However, power inequalities often imply that a few individuals make decisions. Farmers do not have any say in cropping patterns, though those with political or social capital may be able to negotiate plans."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": "n/a",
+              "comment": "Not relevant with regard to the cotton vc"
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 4,
+              "comment": "Voluntary communal activities are very important in Tajikistan, known as hashar/subotnik; people are expected to contribute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2.6666666666666665,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 3,
+              "comment": "Whether and to what extent households can access health services foremostly depends on their financial situation. There are facilitties at village level, but the quality is often low."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 3,
+              "comment": "As question 6.1.2: services exist, but whether or not households can afford making use of health services depends on their own conditions. Staff at local small health facilities/services is not always qualified"
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 2,
+              "comment": "Access to health care is expensive. Informal costs (bribes/informal payments) are also regularly demanded. Treatment in hospitals is very expensive. Women and girls are often disadvantaged in access to health care."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "This is a relative judgement. In general, the conditions are very basic,particularly with regard to water and sanitation, as well as infrastructure. Whether or not households can invest in home improvement depends on other sources of income, most often not on revenues from farming. Most rural households do not have access to tap water and there isa very basic latrine in the yard. People use village water flows for drinking water."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 1,
+              "comment": "Rural households do not have separete supply systems for drinking water and other types of water; irrigation for the household plot comes from the same source (village canals) - in exceptional cases wells. The quality of water is not good - there is no filtering and specific use (and discharge) of water upstream has an effect on the quality of water downstream."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 2.3333333333333335,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 3,
+              "comment": "Yes, but costs for education (informal costs as well as additional costs, e.g. uniforms, books) is costly for particular rural households. For many rural households there is a tradeoff between food security and education - expenses - people are pragmatic and are forced to prioritse the short term. Boys are often advantaged/privileged in case of need."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Primary/secondary education in Tajikistan is mandatory, until the 9th grade, and public schools are free of charge. However, schools/teachers regularly demand informal payments.  Drop out after the 9th grade is noticeable (grade 10-11). Expected years of schooling: 10.9 years"
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 2,
+              "comment": "Employees in the processing industry are occassionaly trained. Women in rural areas do not enoy any training for farming. Graduates from agricultural colleges/university do not always return to work in rural areas, because salaries are limited/unsufficient to maintain a family."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
