@@ -1,0 +1,481 @@
+{
+  "id": "groundnut-madagascar",
+  "country": "madagascar",
+  "commodity": "groundnut",
+  "year": null,
+  "type": "social",
+  "socialData": [
+    {
+      "title": "1. WORKING CONDITIONS",
+      "groups": [
+        {
+          "title": "1.1 Respect of labour rights",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.1.1 To what extent do companies involved in the value chain respect the standards elaborated in the 8 fundamental ILO international labour conventions and in the ICESCR  and ICCPR?",
+              "scoreValue": 2,
+              "comment": "Madagascar est signataire des six, aujourd'hui dix, conventions internationales fondamentales de l'OIT qui protègent les droits des travailleurs. Cependant, ces conditions ne s'appliquent qu'aux emplois du secteur formel. Le secteur informel est la principale source d'emploi ; en 2022, le taux d'emploi informel était de 96,1 % (ILOSTAT). Madagascar a ratifié à la fois le Pacte international relatif aux droits économiques, sociaux et culturels (PIDESC) et le Pacte international relatif aux droits civils et politiques (PIDCP), ainsi que son Protocole facultatif avec certains de ces droits, tels que l'égalité et la non-discrimination, inscrits dans sa constitution et sa législation. Des défis subsistent dans des domaines comme la malnutrition infantile et l'exploitation sexuelle. Des progrès sont notés dans la lutte contre la corruption et la lutte contre l'exploitation des enfants, mais des défis subsistent, notamment la surpopulation carcérale, des taux élevés de mariages d'enfants et des réponses violentes occasionnelles aux manifestations."
+            },
+            {
+              "text": "1.1.2 Is freedom of association allowed and effective (collective bargaining)?",
+              "scoreValue": 2,
+              "comment": "Selon la Constitution et le code du travail de Madagascar, les travailleurs ont le droit de s'associer librement et de négocier collectivement. Il existe des syndicats en Madagascar, mais l'adhésion se concentre dans les plus grandes et les entreprises internationales. According to Amnestry International (2024) the rights to freedom of association remain heavily restricted. AI claims that the authorities continued to use Order 60-082 of 13 August 1960, which violated regional and international human rights standards by unduly limiting the rights to freedom of peaceful assembly and association, particularly against protesters. Les travailleurs du secteur agricole informel n'ont pas accès aux syndicats."
+            },
+            {
+              "text": "1.1.3 To what extent do workers benefit from enforceable and fair contracts?",
+              "scoreValue": 2,
+              "comment": "Les employeurs sont tenus de fournir des contrats de travail plus complets et transparents qui définissent clairement les conditions de travail, y compris les responsabilités, la rémunération et les avantages. Cependant, 80 % des personnes employées sont touchées par des situations d'emploi inadéquates. Seuls 3 % des travailleurs bénéficient d'un contrat écrit ; 27 % ont un contrat oral et près de 70 % n'ont aucun contrat, il n'y a donc aucune protection de l'emploi (FMI, 2025)."
+            },
+            {
+              "text": "1.1.4 To what extent are risks of forced labour in any segment of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Le code du travail interdit le travail forcé, mais les pratiques peuvent passer inaperçues dans le secteur informel.Selon l’Indice mondial de l’esclavage 2023, on estime que 4,6 personnes sur mille étaient esclaves modernes à Madagascar à un moment donné en 2021 (127 000 personnes). En termes de prévalence de l’esclavage moderne, Madagascar se classe 96e au monde et 24e en Afrique. Le gouvernement a pris le plus d’actions sur l’efficacité des mécanismes de justice pénale et le moins d’actions pour traiter les risques dans les chaînes d’approvisionnement gouvernementales et entreprises. Plusieurs ONG ont exprimé des préoccupations concernant les arrangements de travail contraints pour les migrants de la région d’Androy d’ouvrir des parcelles dans la forêt protégée d’Antimena à Atsimo-Andrefana afin de cultiver du maïs suivi des arachides."
+            },
+            {
+              "text": "1.1.5 To what extent are any risks of discrimination in employment for specific categories of the population minimised?",
+              "scoreValue": 2,
+              "comment": "Selon le Code du travail, un employeur ne peut pas discriminer une personne (dans quelque domaine que ce soit de son emploi) en raison de sa race, religion, origine nationale, sexe, appartenance syndicale, affiliation politique ou statut VIH/SIDA. La discrimination fondée sur ces motifs constitue une infraction."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Child Labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.2.1 Degree of school attendance in case  children are working (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Selon l’UNESCO, le taux moyen national de réussite scolaire primaire était de 62 % en 2022 pour les filles et 57 % pour les garçons, avec moins de 35 % fréquentant le secondaire. Le taux de réussite pour le secondaire inférieur était de 32,7 % pour les filles et de 29,2 % pour les garçons en 2024. Bien que de nombreuses communes disposent d’une école primaire, les écoles secondaires ne sont souvent disponibles que dans les villes et les capitales régionales. Il existe une différence entre les taux d’achèvement dans les zones urbaines (notamment à Antananarivo) et ceux des zones rurales (Menabe, une grande région productrice d’arachides, affiche le taux de complétion le plus bas de 23 % en 2021 parmi toutes les régions - Androy était de 24 %, Atsimo-Andrefana de 41 %, Boeny de 45 %). Une étude de la Banque mondiale suggère que le calendrier scolaire constitue un obstacle supplémentaire à la fin de l’éducation de base des enfants, car il contourne le calendrier scolaire européen, au lieu de correspondre aux saisons agricoles et cycloniques locales, et pousse de nombreux enfants à quitter l’école lors des récoltes, augmente l’absentéisme des enseignants et force les écoles à fermer lors des cyclones et des fortes pluies."
+            },
+            {
+              "text": "1.2.2 Are children protected from exposure to harmful jobs?",
+              "scoreValue": 2,
+              "comment": "Les enfants pratiquant l’agriculture sont souvent exposés à des emplois dangereux, comme porter ou pousser des charges lourdes et utiliser des outils tranchants comme des couteaux, des machettes et des houes. Selon le chef de la protection de l’enfance à l’UNICEF à Madagascar, 47 % des jeunes de 5 à 17 ans sont touchés par le travail des enfants, bien que cela inclue des secteurs autres que l’agriculture.\r\nLe travail des enfants touche davantage les garçons que les filles et il touche surtout les enfants issus de familles pauvres."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Job safety",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.3.1 Degree of protection from accidents and health damages (in any segment of the value chain)?",
+              "scoreValue": 2,
+              "comment": "Le Code du travail malagache inclut des recommandations sur la santé et la sécurité au travail, mais celles-ci ne prennent pas en compte les risques dans le secteur informel, dans l’agriculture et la chaîne de valeur de l’arachide. Travail sur la chaîne de valeur des litchis identifié : les travailleurs en emploi informel ne bénéficient pas de la protection sociale ou de la surveillance sanitaire. Les risques courants pour la sécurité et la santé au travail (SSO) dans ce secteur incluent les chutes de hauteur, les piqûres d’insectes, le port de charges lourdes, l’exposition au soufre, la chute d’objets et les accidents de la route (OIT)."
+            }
+          ]
+        },
+        {
+          "title": "1.4 Attractiveness",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "1.4.1 To what extent are remunerations in accordance with local standards?",
+              "scoreValue": 2,
+              "comment": "La rémunération pour le travail agricole est basée sur des tâches qui sont rémunérées conformément aux normes locales. À Atsimo-Andrefana, deux producteurs d’arachides ont déclaré qu’un travail était payé à 2 000 MGA, équivalent à une demi-journée. Une productrice de coton a indiqué que le tarif journalier était de 4 000 MGA par jour (0,74 €/jour) pour les hommes et les femmes."
+            },
+            {
+              "text": "1.4.2 Are conditions of activities attractive for youth?",
+              "scoreValue": 2,
+              "comment": "Les jeunes, qui représentent 66 % de la population totale et constituent une grande partie de la main-d’œuvre, sont employés dans tous les aspects de la chaîne de valeur, dans la production agricole, à assurer le transport des cultures des champs à la résidence à l’aide de charrette, et sont impliqués en tant que cochereurs, producteurs de pétrole, chauffeurs routiers, sous-collecteurs, collectionneurs et détaillants sur les marchés. Dans la région de Menabe, en dehors de la capitale Morondava, des jeunes venus des villages voisins ont été recrutés pour décharger les camions à l’usine de séchage et de décroquement d’arachides. À Tulear, les acteurs ont déclaré que la chaîne de valeur était très importante et créait un emploi considérable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. LAND & WATER RIGHTS",
+      "groups": [
+        {
+          "title": "2.1 Adherence to VGGT ",
+          "averageValue": 1,
+          "questions": [
+            {
+              "text": "2.1.1 Do the companies/institutions involved in the value chain declare adhering to the VGGT?",
+              "scoreValue": 1,
+              "comment": "Les VGGT (Directives volontaires sur la gouvernance responsable de la tenure foncière, des pêches et des forêts) ont été adoptées en 2015 et ont été utilisées pour soutenir la réforme de la tenure foncière (période 2015 – 2030). Les principes de la VGGT ont inspiré la mise en œuvre d’un programme de certification foncière qui formalise les droits fonciers et assure la certification des droits fonciers pour environ 300 800 ménages (environ 1,5 million d’individus) jusqu’en 2024. Une préoccupation majeure dans la chaîne de valeur de l’arachide est l’incursion illégale dans des zones protégées par des réfugiés climatiques de la région d’Androy, apparemment aidés par des commerçants locaux notables. La déforestation dans la zone protégée Menabe Antimena, un écosystème unique de forêt sèche de 2 100 kilomètres carrés, a considérablement augmenté au cours de la dernière décennie pour la culture de maïs et d’arachides comme culture commerciale."
+            },
+            {
+              "text": "2.1.2 If large scale investments for land aquisition are at stake, do the involved companies/institutions apply the 'Guide to due diligence of agribusiness projects that affect land and property rights'?",
+              "scoreValue": "n/a",
+              "comment": "Les investissements des entreprises dans la chaîne de valeur de l’arachide sont minimes, s’appuyant sur les propriétaires locaux pour fournir les terrains nécessaires à l’écaillement et à l’entreposage."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Transparency, participation and consultation",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "2.2.1  Level of prior disclosure of project related information to local stakeholders?",
+              "scoreValue": 1,
+              "comment": "Il semble qu’il y ait très peu de divulgation des plans par les acheteurs chinois d’arachides. Un informateur clé, parlant du secteur du coton à Atsimo-Andrefana, a expliqué qu’avant 2011 le secteur était très structuré mais que l’opportunisme le détruit désormais. Les informateurs clés ont parlé de personnes « invisibles » autorisées à s’installer dans le traitement, mais qu’il n’y a aucune contrainte ni obligation d’investir dans la chaîne de valeur ni de payer des impôts, et ils n’ont ni bureaux ni sièges. Le problème de la tromperie des producteurs a également été évoqué : des acheteurs commençant par un prix élevé puis le baissant une fois la production augmentée."
+            },
+            {
+              "text": "2.2.2 Level of accessibility of intervention policies, laws, procedures and decisions to all stakeholders of the value chain?",
+              "scoreValue": 2,
+              "comment": "Un très faible niveau d’accessibilité ou de disponibilité des informations a été signalé. Malgré l’importance des exportations d’arachides pour les économies régionales, il y a très peu de contrôle sur la chaîne de valeur comparé à la vanille et aux litchis."
+            },
+            {
+              "text": "2.2.3  Level of participation and consultation of all individuals and groups in the decision-making process?",
+              "scoreValue": 2,
+              "comment": "Un très faible niveau de participation et de consultation a été signalé."
+            },
+            {
+              "text": "2.2.4 To what extent prior consent of those affected by the decisions was reached?",
+              "scoreValue": "n/a"
+            }
+          ]
+        },
+        {
+          "title": "2.3  Equity,compensation and justice",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "2.3.1  Do the locally applied rules promote secure and equitable tenure rights or access to land and water?",
+              "scoreValue": 2,
+              "comment": "Le projet Madagascar Agriculture, Croissance Rurale et Gestion des Terres (CASEF) a soutenu 25 % des municipalités malgaches pour délivrer des certificats fonciers d’ici juin 2024. Environ 300 000 ménages ont pu obtenir des terres grâce au projet, soit environ 1,5 million d’individus. Beaucoup de personnes, en particulier les veuves, ont peu de chances d’hériter des terres de leur mari et doivent louer des terres pour cultiver des récoltes."
+            },
+            {
+              "text": "2.3.2 In case disruption of livelihoods is expected, have alternative strategies been considered?",
+              "scoreValue": "n/a"
+            },
+            {
+              "text": "2.3.3 Where expropriation is indispensable: is a system for ensuring fair and prompt compensation in place (in accordance with the national law and publically acknowledged as being fair)?",
+              "scoreValue": "n/a"
+            },
+            {
+              "text": "2.3.4 Are there provisions foreseen to address stakeholder complains and for arbitration of possible conflicts caused by value chain investments?",
+              "scoreValue": "n/a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. GENDER EQUALITY",
+      "groups": [
+        {
+          "title": "3.1 Economic activities",
+          "averageValue": 2.5,
+          "questions": [
+            {
+              "text": "3.1.1 Are risks of women being excluded from certain segments of the value chain minimised?",
+              "scoreValue": 2,
+              "comment": "Les femmes participent à la plupart des segments de la chaîne de valeur, bien qu’il existe certaines tâches et activités, en raison d’une plus grande force requise – porter des sacs d’arachides, broyer artisanal – ou coutumes/pratiques – conduite de camions, collection, qui restent généralement le domaine des hommes. Cependant, à Tulear, l’association des collectionneurs était composée à 60 % de femmes et il était affirmé que la collecte impliquait de la confiance et le développement de relations personnelles, des activités particulièrement adaptées aux femmes. À Menabe, la majorité des collecteurs étaient réputés être des hommes."
+            },
+            {
+              "text": "3.1.2 To what extent are women active in the value chain (as producers, processors, workers, traders…)?",
+              "scoreValue": 3,
+              "comment": "Les femmes sont très actives dans la chaîne de valeur de l’arachide en tant que productrices, sous-collectionneuses et collectionneuses, ainsi que comme détaillantes et transformatrices (cacahuètes salées, douceurs et Koba Ravina, une spécialité nationale fabriquée à partir d’arachides, de farine de riz et de sucre). Ils sont également impliqués en tant que comptables pour les entreprises de commerce d’arachides de leurs maris et rémunérées pour enregistrer les poids et la teneur en humidité des livraisons d’arachides aux usines de séchage et d’épluchement."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Access to resources and services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.2.1 Do women have ownership of assets (other than land)?",
+              "scoreValue": 2,
+              "comment": "Les femmes peuvent posséder des biens. En 2024, 11,3 % des femmes possédaient une maison seule, 20,8 % possédaient une maison en copropriété et 15,6 % possédaient une maison à la fois seule et en copropriété."
+            },
+            {
+              "text": "3.2.2 Do women have equal land rights as men?",
+              "scoreValue": 2,
+              "comment": "Un système dual de droits de propriété englobe la propriété privée et la tenure foncière traditionnelle. Les droits de propriété au sein des familles sont régis par la Loi de 2007 sur le mariage et les régimes matrimoniaux, qui garantit l’égalité des droits aux deux conjoints et que les droits des femmes à la propriété sont explicitement définis et équivalents aux droits légaux des hommes. Les femmes n’ont pas les mêmes droits fonciers que les hommes dans l’héritage coutumier des terres. Selon les règles coutumières d’héritage dans les principales régions de culture de l’arachide, les femmes sont septièmes dans l’ordre d’attribution des possessions de leur mari (après ses enfants, parents, sub-enfants et autres membres de la famille)."
+            },
+            {
+              "text": "3.2.3 Do women have access to credit?",
+              "scoreValue": 2,
+              "comment": "L’accès au crédit pour tous les agriculteurs de Madagascar est un défi important en raison de la présence limitée d’institutions financières formelles dans les zones rurales et des conditions de prêt mal adaptées à la saisonnalité agricole. Il est particulièrement difficile pour les femmes d’accéder à des prêts car elles disposent de peu ou pas de capital et doivent peut-être demander la permission de leurs mariés pour demander une microfinance. La banque Baobab de Menabe a tenté de négocier des prêts aux agriculteurs masculins et féminins pour la production d’arachides. Les femmes impliquées dans la chaîne de valeur en tant que sous-collectrices peuvent obtenir de l’argent d’un collectionneur pour acheter des arachides en leur nom. L’argent provenant de la vente d’autres cultures peut être utilisé pour financer des intrants tels que les semences. En 2024, 20,3 % des femmes et 29 % des hommes avaient un compte auprès d’une institution financière ou d’un fournisseur de services de monnaie mobile."
+            },
+            {
+              "text": "3.2.4 Do women have access to other services (extension services, inputs…)?",
+              "scoreValue": 2,
+              "comment": "Dans la région d'Atsimo-Andrefana, plusieurs associations de producteurs d’arachides ont été identifiées, fournissant formation et conseils en extension à des groupes de producteurs. Les groupes facilitent la diffusion d’informations et de conseils, ainsi qu’un accès possible aux intrants, y compris les semences. Les femmes sont particulièrement susceptibles d’être membres d’une association de producteurs."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Decision making",
+          "averageValue": 2.2,
+          "questions": [
+            {
+              "text": "3.3.1 To what extent do women take part in the decisions related to production?",
+              "scoreValue": 3,
+              "comment": "Les décisions de production ménagère des petits exploitants étaient dites être prises ensemble. Lorsque les ménages sont dirigés par des femmes, les femmes prennent leurs propres décisions sur ce qu’elles veulent cultiver et combien (en 2021, 24,7 % de tous les ménages étaient dirigés par des femmes). En 2021, 87,5 % des femmes mariées âgées de 15 à 49 ans ont déclaré qu’elles avaient seules ou conjointement le dernier mot pour effectuer les achats importants des ménages (Banque mondiale)."
+            },
+            {
+              "text": "3.3.2 To what extent are women autonomous in the organisation of their work?",
+              "scoreValue": 2,
+              "comment": "Dans la production d’arachides, il existe des activités spécifiques dont hommes et femmes sont responsables, par exemple les hommes sont responsables de la préparation de la mise en place tandis que les femmes plantent les graines. Cependant, lorsque les femmes sont chefs de famille, elles entreprennent toutes les activités ou paient quelqu’un pour les faire, comme transporter les plants d’arachides déterrés de la parcelle à la maison à la main ou à bœufs, qui peut être à une distance significative."
+            },
+            {
+              "text": "3.3.3 Do women have control over income?",
+              "scoreValue": 2,
+              "comment": "Les femmes productrices d’arachides affirmaient avoir le contrôle sur les revenus qu’elles généraient seules ou avec leurs maris."
+            },
+            {
+              "text": "3.3.4 Do women earn independent income?",
+              "scoreValue": 2,
+              "comment": "Les femmes tirent des revenus indépendants de la vente de cultures, de la sous-collecte, de la collecte et du commerce de détail d’arachides, ainsi que d’activités telles que l’épluchage manuel des arachides."
+            },
+            {
+              "text": "3.2.5 Do women take part in decisions on the purchase, sale or transfer of assets?",
+              "scoreValue": 2,
+              "comment": "Les femmes peuvent être consultées."
+            }
+          ]
+        },
+        {
+          "title": "3.4 Leadership and empowerment",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "3.4.1 Are women members of groups, trade unions, farmers' organisations?",
+              "scoreValue": 3,
+              "comment": "Oui, les femmes sont membres d’organisations d’agriculteurs."
+            },
+            {
+              "text": "3.4.2 Do women have leadership positions within the organisations they are part of?",
+              "scoreValue": 2,
+              "comment": "Les femmes occupent des postes de direction au niveau de l’association mais sont moins représentées dans les organisations de haut niveau."
+            },
+            {
+              "text": "3.4.3 Do women have the power to influence services, territorial power and policy decision making?",
+              "scoreValue": 2,
+              "comment": "Les femmes sont sous-représentées dans les assemblées régionales et nationales. Lors des élections de 2024, seulement 17 % des 473 candidats étaient des femmes et seulement 16 % des sièges au parlement national sont détenus par des femmes. Les barrières sociales, culturelles et économiques, les inégalités systémiques et les lois mal appliquées expliqueraient en partie la faible représentation des femmes dans la vie politique à Madagascar."
+            },
+            {
+              "text": "3.4.4 Do women speak in public?",
+              "scoreValue": 2,
+              "comment": "Oui, les femmes parlent en public mais peuvent se soumettre à un leader masculin lors d’une réunion publique, tout en exprimant leurs opinions lors de réunions réservées aux femmes. Les militantes et organisations malgaches jouent un rôle clé dans la promotion des droits des femmes et de la participation politique féminine aux niveaux national et local à travers leur travail de plaidoyer et des initiatives telles que la formation des aspirantes femmes leaders politiques."
+            }
+          ]
+        },
+        {
+          "title": "3.5 Hardship and division of labour",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "3.5.1 To what extent are the overall work loads of men and women equal (including domestic work and child care)?",
+              "scoreValue": 2,
+              "comment": "Les femmes rurales manquent de temps, jonglant entre tâches domestiques et agricoles et manquent d’accès aux outils et machines qui gagnent du temps. À Menabe, les femmes célibataires (souvent veuves) productrices d’arachides ne pouvaient louer que des terres à grande distance de leur domicile."
+            },
+            {
+              "text": "3.5.2 Are risks of women being subject to strenuous work minimised (e.g. using labour saving technologies…)?",
+              "scoreValue": 2,
+              "comment": "La production d’arachides se fait à la main. Auparavant, la traction animale était répandue, mais beaucoup d’animaux ont été volés (Menabe). Il y a très peu de tracteurs ou de cultivateurs mécanisés. Certaines femmes productrices d’arachides ont déclaré avoir accès à des coquilleuses mécanisées, mais d’autres ont rapporté devoir les décortiquer à la main."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. FOOD AND NUTRITION SECURITY",
+      "groups": [
+        {
+          "title": "4.1 Availability of food ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.1.1 Does the local production of food increase?",
+              "scoreValue": 2,
+              "comment": "Les arachides sont principalement cultivées pour la vente, afin de générer des revenus financiers pour l’achat de nourriture et de besoins ménagers ou pour investir dans une entreprise. Les arachides sont consommées en collations, beurre de cacahuète et comme ingrédients pour les repas. Les sécheresses et les inondations peuvent gravement affecter les rendements et la disponibilité. Des catastrophes naturelles répétées ont dévasté les moyens de subsistance des agriculteurs de subsistance, qui représentent une part importante de la population. La faim généralisée qui en résulte a entraîné une malnutrition sévère chez les enfants, avec une croissance retardée, un développement cognitif altéré et des problèmes de santé à vie. Le Malgache consomme en moyenne 153,5 kilogrammes de riz par an, ce qui représente plus de la moitié de leur apport calorique total quotidien (FAOSTAT, 2022). La croissance rapide de la population depuis les années 1960 a intensifié la dépendance de Madagascar aux importations de riz pour répondre à la demande. L’arrivée de riz importé moins cher et non taxable a entraîné une baisse de la production locale, car les agriculteurs ont du mal à rivaliser avec les prix plus bas du riz importé."
+            },
+            {
+              "text": "4.1.2 Are food supplies increasing on local markets?",
+              "scoreValue": 2,
+              "comment": "Lors d’une saison où les conditions météorologiques sont idéales, d’importantes quantités seront disponibles sur les marchés locaux pour la vente, principalement vers les marchés d’exportation. Les producteurs malgaches d’arachides cultivent une variété de cultures, notamment des haricots et du riz, qui sont consommés."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Accessibility of food ",
+          "averageValue": 1.5,
+          "questions": [
+            {
+              "text": "4.2.1 Do people have more income to allocate to food?",
+              "scoreValue": 2,
+              "comment": "La vente d’arachides génère des revenus qui peuvent être utilisés pour les achats alimentaires du foyer. Cependant, les rendements peuvent varier considérablement d’une saison à l’autre et le prix de vente fluctue également. En 2025, les producteurs se sont plaints que le prix du marché, déterminé par le marché d’exportation, était nettement inférieur à celui de l’année précédente."
+            },
+            {
+              "text": "4.2.2 Are (relative) consumers food prices decreasing?",
+              "scoreValue": 1,
+              "comment": "Lors d’une saison où les conditions météorologiques sont idéales, d’importantes quantités seront disponibles sur les marchés locaux pour la vente, principalement vers les marchés d’exportation. Les producteurs malgaches d’arachides cultivent une variété de cultures, notamment des haricots et du riz, qui sont consommés."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Utilisation and nutritional adequacy ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.3.1 Is the nutritional quality of available food improving?",
+              "scoreValue": 2,
+              "comment": "Les régimes malgaches reposent fortement sur le riz et de grandes quantités sont consommées quotidiennement, accompagnées de petites quantités d’accompagnements de légumes et parfois de poisson ou de viande. La consommation d’arachides ajoute des protéines à l’alimentation. La présence possible d’aflatoxine dans les noix et l’huile, qui a été impliquée dans le retard de croissance infantile et est un cancérogène, est préoccupante car il y a peu de tests sur les produits et le seul moyen de l’éliminer est de s’assurer que les noix sont suffisamment sèches et stockées dans des conditions sèches."
+            },
+            {
+              "text": "4.3.2 Are nutritional practices being improved?",
+              "scoreValue": 2,
+              "comment": "Il existe de nombreuses initiatives pour soutenir une production et une consommation alimentaires plus variées, et les arachides sont utilisées en cuisine, moulues ou sous forme d’huile, afin d’augmenter la consommation de protéines."
+            },
+            {
+              "text": "4.3.3 Is dietary diversity increased?",
+              "scoreValue": 2,
+              "comment": "En 2023, le score global de diversité alimentaire des ménages, qui mesure le nombre de groupes alimentaires consommés sur une période de référence donnée, était de 4,4 (sur 12)."
+            }
+          ]
+        },
+        {
+          "title": "4.4 Stability ",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "4.4.1 Is risk of periodic food shortage for household reduced?",
+              "scoreValue": 2,
+              "comment": "Le risque de pénuries alimentaires périodiques est élevé, dû à de multiples facteurs, notamment une diversification limitée des cultures, la dépendance à l’agriculture pluviale, les faibles revenus et la hausse des prix alimentaires. Les chocs climatiques s’intensifient et s’intensifient, causant des dommages à l’agriculture, aux infrastructures, à la biodiversité et aux ressources côtières, et entraînant la perte de vies humaines et de moyens de subsistance. Selon le Programme alimentaire mondial, la malnutrition chronique touche près de 40 % des enfants."
+            },
+            {
+              "text": "4.4.2 Is excessive food price variation reduced?",
+              "scoreValue": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. SOCIAL CAPITAL",
+      "groups": [
+        {
+          "title": "5.1 Strength of producer organisations",
+          "averageValue": 2.25,
+          "questions": [
+            {
+              "text": "5.1.1 Do formal and informal farmer organisations /cooperatives participate in the value chain?",
+              "scoreValue": 3,
+              "comment": "Les organisations et coopératives d’agriculteurs sont répandues à Madagascar, y compris pour la production d’arachides."
+            },
+            {
+              "text": "5.1.2 How inclusive is group/cooperative membership?",
+              "scoreValue": 2,
+              "comment": "L’adhésion est ouverte à tous les agriculteurs ; On estime que 60 % des agriculteurs sont membres, les femmes étant majoritaires."
+            },
+            {
+              "text": "5.1.3 Do groups have representative and accountable leadership?",
+              "scoreValue": 2,
+              "comment": "Le leadership est plus souvent masculin, plus instruit et connecté. Il existe des groupes réservés aux femmes avec des leaders féminins."
+            },
+            {
+              "text": "5.1.4 Are farmer groups, cooperatives and associations able to negotiate in input or output markets?",
+              "scoreValue": 2,
+              "comment": "Les groupes sont souvent alignés sur des initiatives visant à fournir des semences améliorées, mais c’est plutôt : y serait financé par des donateurs plutôt que le prix plus bas négocié avec les vendeurs de semences. Les membres du groupe des arachides ont déclaré que, bien qu’ils puissent entreposer leurs cultures ensemble, ils vendaient leurs produits séparément."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Information and confidence",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.2.1 Do farmers in the value chain have access to information on agricultural practices, agricultural policies, and market prices?",
+              "scoreValue": 2,
+              "comment": "Les agriculteurs en groupes reçoivent probablement ce type d’informations."
+            },
+            {
+              "text": "5.2.2 To what extent is the relation between value chain actors perceived as trustworthy?",
+              "scoreValue": 2,
+              "comment": "Une méfiance considérable fut évoquée entre agriculteurs et commerçants, en particulier entre les commerçants achetant au nom d’acheteurs chinois."
+            }
+          ]
+        },
+        {
+          "title": "5.3 Social involvement",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "5.3.1 Do communities participate in decisions that impact their livelihood?",
+              "scoreValue": 2,
+              "comment": "Il existe une tradition d’autonomie villageoise limitée associée à l’institution du fokonolona - un conseil villageois. Il ne s’agit pas d’un élément culturel « pan-malgache », mais d’une institution qui a évolué parmi les Merina et qui a été implantée dans d’autres régions du pays par les Merina et les Français."
+            },
+            {
+              "text": "5.3.2 Are there actions to ensure respect of traditional knowledge and resources?",
+              "scoreValue": 2,
+              "comment": "La fokonolona, une institution malgache composée de la population d’un territoire enraciné dans les lignées familiales locales et les règles qui régissent la terre, l’eau et les ressources naturelles dans un réseau d’obligations mutuelles. Ses réunions rassemblent des personnes de différents groupes de parenté au sein d’un village, et l’usage courant de termes fictifs de parenté favorise la création d’une atmosphère d’amitié et de solidarité (fihavanana), nécessaire à une coopération sincère. La fokonolona, cependant, n’a traditionnellement pas été une institution démocratique car ses réunions ont tendance à être dominées par des notables locaux influents. Le pouvoir politique local reste une fonction de l’âge et de l’appartenance à un groupe de parenté de haut statut."
+            },
+            {
+              "text": "5.3.3 Is there participation in voluntary communal activities for benefit of the community",
+              "scoreValue": 2,
+              "comment": "La fokonolona apporte son aide aux membres dans le besoin (comme lors de la naissance d’un enfant ou lors de la tenue d’un enterrement), entreprend des projets villageois (comme la réparation de rizières ou de bâtiments après un cyclone), coordonne l’entraide lors des plantations et des récoltes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. LIVING CONDITIONS",
+      "groups": [
+        {
+          "title": "6.1 Health services",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.1.1 Do households have access to health facilities?",
+              "scoreValue": 2,
+              "comment": "Il est difficile pour de nombreux citoyens malgaches d’accéder aux établissements de santé, en particulier dans les zones isolées. L’assurance santé et d’autres prestations sociales sont principalement accessibles aux travailleurs et professionnels mieux rémunérés parmi la population ayant un emploi officiel. L’accès aux soins de santé reste fortement restreint : en 2024, il y avait 0,14 lit d’hôpital et 0,20 médecin pour 1 000 patients, et près de la moitié de la population vivait à plus de 5 km des centres de santé locaux. Le niveau communautaire est la base du système. Il existe un réseau d’agents communautaires soutenu par des comités de santé, des établissements de santé, ainsi que par des organisations non gouvernementales (ONG) et des églises internationales et nationales."
+            },
+            {
+              "text": "6.1.2 Do households have access to health services?",
+              "scoreValue": 2,
+              "comment": "Le système de santé comprend des hôpitaux principaux et secondaires, des dispensaires et des centres de santé ruraux. Le personnel médical comprend des médecins ainsi que des pharmaciens, dentistes, sages-femmes, assistants sociaux, infirmières invitées et assistants de santé. Les centres de santé, situés en zones rurales et desservant en moyenne 10 000 habitants, proposent une gamme de services essentiels, en particulier pour les enfants et les mères. Le manque d’équipements dans les centres de santé ruraux, l’accès à l’électricité et la rétention du personnel sont des défis majeurs. Les organisations de l’ONU, les ONG et les organisations religieuses soutiennent la prestation des soins de santé ainsi que des modèles alternatifs, tels que le soutien des sages-femmes à établir des pratiques payantes dans des lieux isolés."
+            },
+            {
+              "text": "6.1.3  Are health services affordable for households?",
+              "scoreValue": 2,
+              "comment": "Les soins de santé de base sont officiellement « gratuits » mais nécessitent souvent encore des paiements à leur charge ou l’apport de leurs propres fournitures. Les hôpitaux publics manquent généralement de matériaux consommables et un patient programmé pour une intervention chirurgicale devra acheter personnellement des articles comme des fils de suture, des sacs de sérum physiologique, etc. Les patients doivent être accompagnés en permanence à l’hôpital et soutenir en fournissant les repas, la literie et l’eau potable."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Housing",
+          "averageValue": 2,
+          "questions": [
+            {
+              "text": "6.2.1 Do households have access to good quality accomodations?",
+              "scoreValue": 2,
+              "comment": "La définition d’un logement décent comprend des pièces séparées pour enfants et adultes (trois chambres séparées pour un logement moyen (selon la taille de l’habitat ; une pièce minimale de 9 m2 ; un toit sûr et étanche ; la ventilation de l’air ; un sol en ciment ; des murs en béton (le bois peut être mélangé au ciment ou à l’argile) ; une zone de cuisson séparée ; un extérieur en porcelaine ou latrine améliorée du bâtiment principal ; accès à l’eau et à l’électricité,  et les coûts de maintenance/réparation. La typologie typique du logement est informelle et basée sur la location, car 92,5 % de la main-d’œuvre est employée de façon informelle. Le logement à Madagascar est classé en trois principaux types : permanent, semi-permanent et traditionnel. Les maisons permanentes sont construites en ciment ou en brique et comportent une fondation. Les constructions semi-permanentes comportent des dalles de ciment et des montants en béton, avec des murs réalisés à partir de matériaux locaux tels que des planches, du bambou tressé et des feuilles de ravinala. Les habitations traditionnelles reposent uniquement sur des matériaux locaux comme les planches de bois et le bambou, ce qui les rend vulnérables aux intempéries extrêmes. 60,5 % des logements ruraux sont considérés comme de mauvaise qualité."
+            },
+            {
+              "text": "6.2.2 Do households have access to good quality water and sanitation facilities?",
+              "scoreValue": 2,
+              "comment": "Les conditions de logement sont mauvaises, en particulier dans les zones rurales où seulement 35 % de la population avait accès à de l’eau potable et 9 % avaient accès à des toilettes hygéniques en 2020. La défécation en plein air est l’un des principaux problèmes d’assainissement et d’hygiène. Le taux de défécation en plein air en 2024 était estimé à 27 %, soit plus de 10 millions de personnes, dont 9 millions dans les zones rurales, bien que ce taux diminue. Cela impacte la santé - 13,8 % des enfants de moins de 5 ans souffrent de diarrhée, 5,9 % d’infections respiratoires aiguës, 16,8 % de fièvre et 42 % des enfants sont en retard de croissance résultant d’une malnutrition chronique ou récurrente."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Education and training",
+          "averageValue": 1.6666666666666667,
+          "questions": [
+            {
+              "text": "6.3.1 Is primary education accessible to households?",
+              "scoreValue": 2,
+              "comment": "L’enseignement primaire est gratuit et obligatoire entre 6 et 15 ans (couvrant l’enseignement primaire de six à onze ans et l’enseignement secondaire inférieur de 12 à 15 ans), mais les écoles restent sous-développées et peu soutenues, en particulier dans les zones rurales reculées. L’enseignement primaire à Madagascar en 2022 était inférieur de 77,8 % à la moyenne de la région d’Afrique subsaharienne et de 30,5 % inférieur à la moyenne des pays à faible revenu (Banque mondiale). Malgré l’augmentation du nombre d’enseignants, le ratio élèves-enseignants dans les écoles primaires publiques reste élevé, avec une moyenne d’environ 40 élèves par enseignant. La pauvreté d’apprentissage – la proportion d’enfants incapables de lire et de comprendre un texte adapté à son âge avant l’âge de 10 ans – est estimée par l’UNESCO à 94 % en 2022. La répartition des filles et des garçons est équilibrée. La grande majorité des élèves vivent près de leur école primaire (90 % résident dans un rayon de 2 km). Seuls 13 % des enfants des familles les plus pauvres obtiennent leur diplôme d’école primaire, contre 85 % des familles les plus riches (UNESCO Inégalités en éducation)."
+            },
+            {
+              "text": "6.3.2 Are secondary and/or vocational education accessible to households?",
+              "scoreValue": 2,
+              "comment": "Les taux bruts d’inscription dans l’enseignement secondaire étaient de 36 % des filles et 34 % des garçons en 2022. Les taux de réussite pour l’enseignement secondaire inférieur sont également faibles, avec seulement 34,6 % des filles et 30,9 % des garçons qui terminent. Un système d’écoles secondaires professionnelles existe avec le système de collège professionnel (collège professionnel) équivalent au niveau secondaire junior. Cinq lycées agricoles ont été progressivement créés offrant un programme d’éducation résidentielle de 3 ans, dont 50 % reposent sur la pratique d’une petite ferme d’apprentissage attenante à l’école. Le travail des enfants est répandu en agriculture, en particulier dans les exploitations familiales et pendant les saisons des récoltes, en raison de la pauvreté et du manque d’infrastructures éducatives malgré son interdiction par le Code du travail."
+            },
+            {
+              "text": "6.3.3 Existence and quality of in-service vocational training provided by the investors in the value chain?",
+              "scoreValue": 1,
+              "comment": "Les taux bruts d’inscription dans l’enseignement secondaire étaient de 36 % des filles et 34 % des garçons en 2022. Les taux de réussite pour l’enseignement secondaire inférieur sont également faibles, avec seulement 34,6 % des filles et 30,9 % des garçons qui terminent. Un système d’écoles secondaires professionnelles existe avec le système de collège professionnel (collège professionnel) équivalent au niveau secondaire junior. Cinq lycées agricoles ont été progressivement créés offrant un programme d’éducation résidentielle de 3 ans, dont 50 % reposent sur la pratique d’une petite ferme d’apprentissage attenante à l’école. Le travail des enfants est répandu en agriculture, en particulier dans les exploitations familiales et pendant les saisons des récoltes, en raison de la pauvreté et du manque d’infrastructures éducatives malgré son interdiction par le Code du travail."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
