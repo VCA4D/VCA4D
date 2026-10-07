@@ -1,0 +1,593 @@
+{
+  "id": "sesame-chad",
+  "country": "chad",
+  "commodity": "sesame",
+  "year": 2023,
+  "localCurrency": "MXAF",
+  "targetCurrency": "XAF",
+  "currencyRatio": 1000000,
+  "type": "eco",
+  "ecoData": {
+    "macroData": {
+      "giniIndex": 0.38,
+      "FTE_Definition": 310,
+      "rateOfIntegration": 0.89,
+      "publicFundsBalance": 0.006999999999999999,
+      "valueAddedShareNationalGdp": 0.011000000000000001,
+      "valueAddedShareAgriculturalGdp": 0.05,
+      "domesticResourceCostRatio": 0.18,
+      "nominalProtectionCoefficient": 0.96
+    },
+    "stages": [
+      {
+        "name": "Producers",
+        "description": "Sesames is produced mainly by small scale producers (less than 3ha), average producer (3ha  to 15ha) and a large farm (50 ha and above) that are emerging in the last decade",
+        "index": 0
+      },
+      {
+        "name": "Collectors",
+        "description": "Sesame is collected either by independant collectors, wholesaler agent. Cooperative or farmer group can be involved to a lesser extent in sesame bulking",
+        "index": 1
+      },
+      {
+        "name": "Processors",
+        "description": "Seseame is locally procseed into sesame oil for the domestic market by small scale mil. It also processed into snack by women. There ar two plants processiong sesams into tahini and halva for the domesctic and regional market",
+        "index": 2
+      },
+      {
+        "name": "Wholesellers",
+        "description": "Wholesaler are connecting prdicing area to the urban areas, and exporters supplying either the regional or the international market",
+        "index": 3
+      },
+      {
+        "name": "Retailers",
+        "description": "Sesame retailer supply urban consumers who incorporate sesame seed in their reciepes or urban small-scale processors",
+        "index": 4
+      },
+      {
+        "name": "End use",
+        "description": "The domestic markets purchase only 15% of the production  while exportations represent the largest share of the demand.",
+        "index": 5
+      }
+    ],
+    "actors": [
+      {
+        "name": "Small scale producer",
+        "stage": "Producers",
+        "id": 15,
+        "numberOfActors": 183253.3416554288,
+        "directAddedValue": 36737,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 34401.22917793686,
+        "totalCosts": 8892.367763693137,
+        "receivedAddedValue": 34401,
+        "employment": {
+          "tempMale": 493092.4249423635,
+          "tempFemale": 961530.2525174699,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Average producer",
+        "stage": "Producers",
+        "id": 16,
+        "numberOfActors": 34039,
+        "directAddedValue": 23359,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 13836.171884052228,
+        "totalCosts": 16798.927304394772,
+        "receivedAddedValue": 13836,
+        "employment": {
+          "tempMale": 2586964.091923984,
+          "tempFemale": 5044580.104535266,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Large producer",
+        "stage": "Producers",
+        "id": 17,
+        "numberOfActors": 102.27272727272727,
+        "directAddedValue": 977,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 424.8749949038025,
+        "totalCosts": 1600.1250050961976,
+        "receivedAddedValue": 425,
+        "employment": {
+          "tempMale": 235384.6258383532,
+          "tempFemale": 204000.00399351132,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Collector",
+        "stage": "Collectors",
+        "id": 18,
+        "numberOfActors": 5201.4,
+        "directAddedValue": 7100,
+        "publicFundsBalance": 234.063878800942,
+        "netOperatingProfit": 6085.662915178427,
+        "totalCosts": 74198.25026111407,
+        "receivedAddedValue": 6086,
+        "employment": {
+          "tempMale": 360098.3243215253,
+          "tempFemale": 312085.20666126866,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Industrial processing",
+        "stage": "Processors",
+        "id": 21,
+        "numberOfActors": 1.6513333333333333,
+        "directAddedValue": 2331,
+        "publicFundsBalance": 1024.819335314291,
+        "netOperatingProfit": 1127.188237560908,
+        "totalCosts": 5148.487468631662,
+        "receivedAddedValue": 1127,
+        "employment": {
+          "tempMale": 34300.25430028836,
+          "tempFemale": 44590.33059037487,
+          "unskilledMale": 337.80552638607634,
+          "unskilledFemale": 0,
+          "skilledMale": 63.7004722719641,
+          "skilledFemale": 24.772405268312266
+        }
+      },
+      {
+        "name": "Small scale snack processor",
+        "stage": "Processors",
+        "id": 24,
+        "numberOfActors": 5096.666464143337,
+        "directAddedValue": 872,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 833.4234861231654,
+        "totalCosts": 1689.785270518155,
+        "receivedAddedValue": 833,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Small scale oil mill",
+        "stage": "Processors",
+        "id": 25,
+        "numberOfActors": 4248,
+        "directAddedValue": 35,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 35.39827270154001,
+        "totalCosts": 2336.28999558238,
+        "receivedAddedValue": 35,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Wholesaler",
+        "stage": "Wholesellers",
+        "id": 19,
+        "numberOfActors": 29.564888888888888,
+        "directAddedValue": 11189,
+        "publicFundsBalance": 2420.00288228024,
+        "netOperatingProfit": 5486.231659277783,
+        "totalCosts": 76540.76359144172,
+        "receivedAddedValue": 5486,
+        "employment": {
+          "tempMale": 841461.6927719078,
+          "tempFemale": 656340.1464427012,
+          "unskilledMale": 4972.273713199378,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Exporter",
+        "stage": "Wholesellers",
+        "id": 20,
+        "numberOfActors": 22.966041666666666,
+        "directAddedValue": 19391,
+        "publicFundsBalance": 9575.05555364064,
+        "netOperatingProfit": 7783.579598429134,
+        "totalCosts": 90658.24161015647,
+        "receivedAddedValue": 7784,
+        "employment": {
+          "tempMale": 571079.5697358563,
+          "tempFemale": 371201.72032830655,
+          "unskilledMale": 4218.201367367121,
+          "unskilledFemale": 0,
+          "skilledMale": 795.432277601145,
+          "skilledFemale": 309.3347669402555
+        }
+      },
+      {
+        "name": "Half-wholesaler",
+        "stage": "Retailers",
+        "id": 22,
+        "numberOfActors": 252.8,
+        "directAddedValue": 113,
+        "publicFundsBalance": 4.55003352653762,
+        "netOperatingProfit": 104.80244069946471,
+        "totalCosts": 1538.2652498855152,
+        "receivedAddedValue": 105,
+        "employment": {
+          "tempMale": 1458.3440714729732,
+          "tempFemale": 3412.5250368457137,
+          "unskilledMale": 4.308743911739072,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Retailer",
+        "stage": "Retailers",
+        "id": 23,
+        "numberOfActors": 2528,
+        "directAddedValue": 187,
+        "publicFundsBalance": 5.68754205530914,
+        "netOperatingProfit": 181.30625932271332,
+        "totalCosts": 1714.5410759676467,
+        "receivedAddedValue": 181,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Rural consumers",
+        "stage": "End use",
+        "id": 26,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "Small City consumers",
+        "stage": "End use",
+        "id": 27,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "Large city consumers",
+        "stage": "End use",
+        "id": 28,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "Regional market",
+        "stage": "End use",
+        "id": 29,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "International market",
+        "stage": "End use",
+        "id": 30,
+        "receivedAddedValue": 0
+      }
+    ],
+    "consistencyDisplay": {
+      "employment": {
+        "contractRatio": true,
+        "genderRatio": true
+      }
+    },
+    "flows": [
+      {
+        "sellerActorName": "Small scale producer",
+        "buyerActorName": "Collector",
+        "volumeExchanged": 87549.28,
+        "monetaryValue": 39397176000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Small scale producer",
+        "buyerActorName": "Small scale oil mill",
+        "volumeExchanged": 2886.24,
+        "monetaryValue": 1298808000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Small scale producer",
+        "buyerActorName": "Rural consumers",
+        "volumeExchanged": 5772.48,
+        "monetaryValue": 2597616000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Average producer",
+        "buyerActorName": "Collector",
+        "volumeExchanged": 63993.32,
+        "monetaryValue": 28796994000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Average producer",
+        "buyerActorName": "Small scale oil mill",
+        "volumeExchanged": 1361.56,
+        "monetaryValue": 612702000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Average producer",
+        "buyerActorName": "Rural consumers",
+        "volumeExchanged": 2723.12,
+        "monetaryValue": 1225404000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Large producer",
+        "buyerActorName": "Collector",
+        "volumeExchanged": 4500,
+        "monetaryValue": 2025000000,
+        "unitPrice": 450000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Collector",
+        "buyerActorName": "Wholesaler",
+        "volumeExchanged": 133041.915298068,
+        "monetaryValue": 69847005531.4857,
+        "unitPrice": 525000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Collector",
+        "buyerActorName": "Small scale snack processor",
+        "volumeExchanged": 1529.21741721917,
+        "monetaryValue": 802839144.0400643,
+        "unitPrice": 525000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Collector",
+        "buyerActorName": "Small City consumers",
+        "volumeExchanged": 1529.21741721917,
+        "monetaryValue": 802839144.0400643,
+        "unitPrice": 525000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Collector",
+        "buyerActorName": "Regional market",
+        "volumeExchanged": 16821.3915894109,
+        "monetaryValue": 8831230584.440723,
+        "unitPrice": 525000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Wholesaler",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 110237.201801328,
+        "monetaryValue": 71654181170.8632,
+        "unitPrice": 650000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Wholesaler",
+        "buyerActorName": "Industrial processing",
+        "volumeExchanged": 2477.24048991747,
+        "monetaryValue": 1610206318.4463553,
+        "unitPrice": 650000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Wholesaler",
+        "buyerActorName": "Half-wholesaler",
+        "volumeExchanged": 2527.79644705381,
+        "monetaryValue": 1516677868.232286,
+        "unitPrice": 600000,
+        "volumeUnit": "Ton",
+        "product": "Sesame_loc"
+      },
+      {
+        "sellerActorName": "Wholesaler",
+        "buyerActorName": "Regional market",
+        "volumeExchanged": 11147.5822046286,
+        "monetaryValue": 7245928433.00859,
+        "unitPrice": 650000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Exporter",
+        "buyerActorName": "International market",
+        "volumeExchanged": 103622.969693248,
+        "monetaryValue": 98441821208.5856,
+        "unitPrice": 950000,
+        "volumeUnit": "Ton",
+        "product": "Sesame"
+      },
+      {
+        "sellerActorName": "Industrial processing",
+        "buyerActorName": "Large city consumers",
+        "volumeExchanged": 1568.91897694773,
+        "monetaryValue": 3922297442.369325,
+        "unitPrice": 2500000,
+        "volumeUnit": "Ton",
+        "product": "Halava"
+      },
+      {
+        "sellerActorName": "Industrial processing",
+        "buyerActorName": "Large city consumers",
+        "volumeExchanged": 1568.91897694773,
+        "monetaryValue": 2353378465.421595,
+        "unitPrice": 1500000,
+        "volumeUnit": "Ton",
+        "product": "Tahini"
+      },
+      {
+        "sellerActorName": "Half-wholesaler",
+        "buyerActorName": "Retailer",
+        "volumeExchanged": 2527.79644705381,
+        "monetaryValue": 1643067690.5849764,
+        "unitPrice": 650000,
+        "volumeUnit": "Ton",
+        "product": "Sesame_loc"
+      },
+      {
+        "sellerActorName": "Retailer",
+        "buyerActorName": "Large city consumers",
+        "volumeExchanged": 2527.79644705381,
+        "monetaryValue": 1895847335.2903576,
+        "unitPrice": 750000,
+        "volumeUnit": "Ton",
+        "product": "Sesame_loc"
+      },
+      {
+        "sellerActorName": "Small scale snack processor",
+        "buyerActorName": "Small City consumers",
+        "volumeExchanged": 1682.13919540047,
+        "monetaryValue": 2523208793.100705,
+        "unitPrice": 1500000,
+        "volumeUnit": "Ton",
+        "product": "Biscuit"
+      },
+      {
+        "sellerActorName": "Small scale oil mill",
+        "buyerActorName": "Rural consumers",
+        "volumeExchanged": 1946.90830586061,
+        "monetaryValue": 1946908305.86061,
+        "unitPrice": 1000000,
+        "volumeUnit": "Ton",
+        "product": "Huile"
+      },
+      {
+        "sellerActorName": "Small scale oil mill",
+        "buyerActorName": "Rural consumers",
+        "volumeExchanged": 2123.9,
+        "monetaryValue": 424780000,
+        "unitPrice": 200000,
+        "volumeUnit": "Ton",
+        "product": "Tourteau"
+      }
+    ],
+    "addedValue": {
+      "landOwnersFees": 0,
+      "depreciation": 2139,
+      "employeeWages": 15497,
+      "financialInstitutionsInterests": 1091,
+      "government": 13264.999999999996
+    },
+    "importExport": {
+      "import": [
+        {
+          "label": "A_CHIMIQUE",
+          "importExport": "Import",
+          "amount": 937
+        },
+        {
+          "label": "A_EMBALLAGE",
+          "importExport": "Import",
+          "amount": 2517
+        },
+        {
+          "label": "A_INGREDIENT",
+          "importExport": "Import",
+          "amount": 424
+        },
+        {
+          "label": "A_TRANSPORT",
+          "importExport": "Import",
+          "amount": 1384
+        },
+        {
+          "label": "Labour Mécanisé",
+          "importExport": "Import",
+          "amount": 22
+        },
+        {
+          "label": "Transitaire Douala",
+          "importExport": "Import",
+          "amount": 2072
+        }
+      ],
+      "export": [
+        {
+          "label": "Sesame international market",
+          "importExport": "Export",
+          "amount": 98440
+        },
+        {
+          "label": "Sesame regional market",
+          "importExport": "Export",
+          "amount": 15550
+        }
+      ]
+    },
+    "farmToFinalPricesRatio": [
+      {
+        "label": "Production to seed export (int market)",
+        "farmPrice": 0.45,
+        "farmProduct": "sesame seed",
+        "endPrice": 0.875,
+        "endProducts": "sorted sesame seed"
+      },
+      {
+        "label": "Production to seed export (reg market)",
+        "farmPrice": 0.45,
+        "farmProduct": "sesame seed",
+        "endPrice": 0.558,
+        "endProducts": "sorted sesame seed"
+      },
+      {
+        "label": "Production to industrial processing",
+        "farmPrice": 0.45,
+        "farmProduct": "sesame seed",
+        "endPrice": 0.87,
+        "endProducts": "Tahini"
+      },
+      {
+        "label": "Production to local consumers",
+        "farmPrice": 0.45,
+        "farmProduct": "sesame seed",
+        "endPrice": 0.6909,
+        "endProducts": "sesame seed"
+      }
+    ]
+  }
+}
