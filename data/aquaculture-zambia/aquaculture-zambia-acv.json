@@ -1,0 +1,502 @@
+{
+  "id": "aquaculture-zambia",
+  "country": "zambia",
+  "commodity": "aquaculture",
+  "type": "ACV",
+  "acvData": {
+    "valuechains": [
+      {
+        "name": "Medium-large scale systems",
+        "volume": 24402.3,
+        "volumeYear": 2016,
+        "volumeUnit": "t",
+        "actors": {
+          "Medium-scale ponds": "X",
+          "Large-scale ponds": "X",
+          "Large-scale cages": "X",
+          "Retailers": "X",
+          "City ladies": "X",
+          "Wholesalers": "X"
+        }
+      },
+      {
+        "name": "Small-scale systems",
+        "volume": 6882.7,
+        "volumeYear": 2016,
+        "volumeUnit": "t",
+        "actors": {
+          "Small-scale semi-subsistence ponds": "X",
+          "Small-scale commercial ponds": "X",
+          "Extensive ponds/stocked water bodies": "X",
+          "Retailers": "X",
+          "City ladies": "X",
+          "Wholesalers": "X"
+        }
+      },
+      {
+        "name": "Total production",
+        "volume": 31285,
+        "volumeYear": 2016,
+        "volumeUnit": "t"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Small-scale semi-subsistence ponds",
+        "stage": "Producers"
+      },
+      {
+        "name": "Small-scale commercial ponds",
+        "stage": "Producers"
+      },
+      {
+        "name": "Extensive ponds/stocked water bodies",
+        "stage": "Processors"
+      },
+      {
+        "name": "Medium-scale ponds",
+        "stage": "Processors"
+      },
+      {
+        "name": "Large-scale ponds",
+        "stage": "Processors"
+      },
+      {
+        "name": "Large-scale cages",
+        "stage": "Processors"
+      },
+      {
+        "name": "Retailers",
+        "stage": "Detailers"
+      },
+      {
+        "name": "City ladies",
+        "stage": "Detailers"
+      },
+      {
+        "name": "Wholesalers",
+        "stage": "Wholesalers"
+      }
+    ],
+    "impacts": [
+      {
+        "name": "Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "DALY",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 0.0013096838300000002
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 0.000326976216
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 0.0017185332800000001
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.000190436271
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 0.000753017912
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 0.005065755095
+          }
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "species.yr",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 0.0000115981992
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 0.00000481910849
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 0.0000176346488
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.0000020610203999999997
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 0.0000071111462400000004
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 0.00003656259948
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "USD2013",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 43.7074603
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 11.159962100000001
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 61.043258400000006
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 5.0800241999999995
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 20.6101304
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 141.0957556
+          }
+        ]
+      },
+      {
+        "name": "Total",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 25.293750300000003
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 6.83673235
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 33.8693936
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 3.7700484
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 14.6303488
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 95.3907475
+          }
+        ]
+      },
+      {
+        "name": "Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 21.8455258
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 5.45396327
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 28.6651352
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 3.1764771
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 12.560339200000001
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 84.49679540000001
+          }
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 3.1361530900000005
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 1.3030869600000001
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 4.76840896
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.5572999200000001
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 1.92285392
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 9.886526700000001
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 0.31207126300000004
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 0.079682127
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 0.435848864
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.036271373999999995
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 0.147156336
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 1.007423725
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 10.030898500000001
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 2.8052660300000003
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 12.4995448
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 1.60679946
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 6.79650728
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 39.489024810000004
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Terrestrial ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 0.4905213670000001
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 0.137198292
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 0.611286104
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.078585012
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 0.33239820000000003
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 1.9313468910000002
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Freshwater ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 t",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 0.000013398386400000002
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 0.00000374799089
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 0.0000167004408
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 0.00000214693095
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 0.0000090811344
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 0.000052763715380000006
+          }
+        ]
+      },
+      {
+        "name": "Global warming",
+        "method": "ReCiPe 2016 Midpoint (H) V1.08 / World (2010) H",
+        "functional_unit": "1 t",
+        "unit": "kg CO2 eq",
+        "values": [
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale semi-subsistence ponds",
+            "value": 647.8351250000001
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Small-scale commercial ponds",
+            "value": 181.200509
+          },
+          {
+            "valuechain_name": "Small-scale systems",
+            "actor_name": "Extensive ponds/stocked water bodies",
+            "value": 807.3755199999999
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Medium-scale ponds",
+            "value": 103.79235899999999
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale ponds",
+            "value": 439.02178399999997
+          },
+          {
+            "valuechain_name": "Medium-large scale systems",
+            "actor_name": "Large-scale cages",
+            "value": 2550.84544
+          }
+        ]
+      }
+    ]
+  }
+}
