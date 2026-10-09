@@ -1,0 +1,452 @@
+{
+  "id": "coffee-angola",
+  "country": "angola",
+  "commodity": "coffee",
+  "type": "ACV",
+  "acvData": {
+    "valuechains": [
+      {
+        "name": "FU1",
+        "volume": 5000,
+        "volumeYear": 2019,
+        "volumeUnit": "t",
+        "actors": {
+          "EFT": "x",
+          "ECT": "x",
+          "ECM": "x",
+          "Industrial processor in provinces": "NA",
+          "Industrial processor in Luanda": "NA",
+          "Exporter": "NA",
+          "__EMPTY": "Green coffee at harbour (FU1)"
+        }
+      },
+      {
+        "name": "FU2",
+        "volume": 3300,
+        "volumeYear": 2019,
+        "volumeUnit": "t",
+        "actors": {
+          "EFT": "NA",
+          "ECT": "x",
+          "ECM": "NA",
+          "Industrial processor in provinces": "x",
+          "Industrial processor in Luanda": "NA",
+          "Exporter": "NA",
+          "__EMPTY": "Roasted, ground and packaged coffee processed in provinces then transported to harbour in Luanda (FU2)"
+        }
+      },
+      {
+        "name": "FU3",
+        "volume": 900,
+        "volumeYear": 2019,
+        "volumeUnit": "t",
+        "actors": {
+          "EFT": "NA",
+          "ECT": "NA",
+          "ECM": "x",
+          "Industrial processor in provinces": "NA",
+          "Industrial processor in Luanda": "x",
+          "Exporter": "NA",
+          "__EMPTY": "Roasted, ground and packaged coffee processed in Luanda and transported to harbour in Luanda (FU3)"
+        }
+      },
+      {
+        "name": "Total production",
+        "volume": 9200,
+        "volumeYear": 2019,
+        "volumeUnit": "t"
+      }
+    ],
+    "actors": [
+      {
+        "name": "EFT (small and medium-size traditional family farm)",
+        "stage": "Producer"
+      },
+      {
+        "name": "ECT (large-size traditional but commercial farms)",
+        "stage": "Producer"
+      },
+      {
+        "name": "ECM (large-size industrialised commercial farms)",
+        "stage": "Producer"
+      },
+      {
+        "name": "Not studied per se but transport included into next stage",
+        "stage": "Collectors"
+      },
+      {
+        "name": "Not studied per se but transport included into next stage",
+        "stage": "Wholesalers"
+      },
+      {
+        "name": "Industrial processor",
+        "stage": "Processors and wholesalers"
+      }
+    ],
+    "impacts": [
+      {
+        "name": "Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "DALY",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.0000158277314661458
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.000012412874785712107
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.00003914558005108163
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.0000017458839023641225
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.000002273350435322074
+          }
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "species.yr",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.00000119154757369816
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 4.501482752863012e-7
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 3.2607878558618926e-7
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 1.3158815465717809e-9
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 1.9869692867147465e-9
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "USD2013",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.4215913776218
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.3664961001605295
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.9885596826223688
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.030591005432718477
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.05649235194303315
+          }
+        ]
+      },
+      {
+        "name": "Total (Single score)",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.589211187219513
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.331383627218241
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.7481782950084699
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.029695577640415027
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.0388601171491732
+          }
+        ]
+      },
+      {
+        "name": "Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.264006560855312
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.20704675142567858
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.6529482752520398
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.029121343491433124
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.03791948526117228
+          }
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.322194463927981
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.12172009363741575
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.08817170362250602
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.0003558143701927613
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.0005372764951274769
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.00301016243621966
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.00261678215514618
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.0070583161339237265
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.00021841977878960992
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.00040335539287325237
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Human health",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.108180248976017
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.09654549614121712
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.24288715253418525
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.003316771466418178
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.005649950957087729
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Terrestrial ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 0.0052890475560055
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.004719388644101745
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.011877328193431838
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.00016227028728609547
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.00027643008556560173
+          }
+        ]
+      },
+      {
+        "name": "Global warming. Freshwater ecosystems",
+        "method": "ReCiPe 2016 Endpoint (H) V1.08 / World (2010) H/A",
+        "functional_unit": "1 kg",
+        "unit": "Pt",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 1.44425779976005e-7
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 1.288382408431063e-7
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 3.24471343963068e-7
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 4.431428326299113e-9
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 7.548794962749007e-9
+          }
+        ]
+      },
+      {
+        "name": "Global warming",
+        "method": "ReCiPe 2016 Midpoint (H) V1.08 / World (2010) H",
+        "functional_unit": "1 kg",
+        "unit": "kg CO2 eq",
+        "values": [
+          {
+            "valuechain_name": "FU1",
+            "actor_name": "EFT (small and medium-size traditional family farm)",
+            "value": 6.87040368364444
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 6.06343270926843
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 15.680914969484025
+          },
+          {
+            "valuechain_name": "FU2",
+            "actor_name": "Industrial processor",
+            "value": 0.2141064915683497
+          },
+          {
+            "valuechain_name": "FU3",
+            "actor_name": "Industrial processor",
+            "value": 0.6142452513465049
+          }
+        ]
+      }
+    ]
+  }
+}
