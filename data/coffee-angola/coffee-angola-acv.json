@@ -6,7 +6,7 @@
   "acvData": {
     "valuechains": [
       {
-        "name": "FU1",
+        "name": "Green coffee at harbour",
         "volume": 5000,
         "volumeYear": 2019,
         "volumeUnit": "t",
@@ -21,7 +21,7 @@
         }
       },
       {
-        "name": "FU2",
+        "name": "Roasted packaged coffee In province",
         "volume": 3300,
         "volumeYear": 2019,
         "volumeUnit": "t",
@@ -36,7 +36,7 @@
         }
       },
       {
-        "name": "FU3",
+        "name": "Roasted packaged coffee In Luanda",
         "volume": 900,
         "volumeYear": 2019,
         "volumeUnit": "t",
@@ -91,27 +91,37 @@
         "unit": "DALY",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.0000158277314661458
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.000012412874785712107
+            "value": 0.00000551683323809427
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.00003914558005108163
+            "value": 0.0000173980355782585
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.0000068960415476178374
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.0000017458839023641225
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.000021747544472823127
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.000002273350435322074
           }
@@ -124,27 +134,37 @@
         "unit": "species.yr",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.00000119154757369816
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 4.501482752863012e-7
+            "value": 2.00065900127245e-7
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 3.2607878558618926e-7
+            "value": 1.44923904704973e-7
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 2.5008237515905623e-7
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 1.3158815465717809e-9
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 1.8115488088121626e-7
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 1.9869692867147465e-9
           }
@@ -157,27 +177,37 @@
         "unit": "USD2013",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.4215913776218
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.3664961001605295
+            "value": 0.162887155626902
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.9885596826223688
+            "value": 0.439359858943275
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.20360894453362752
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.030591005432718477
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.5491998236790938
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.05649235194303315
           }
@@ -190,27 +220,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.589211187219513
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.331383627218241
+            "value": 0.147281612096996
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.7481782950084699
+            "value": 0.33252368667043103
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.184102015121245
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.029695577640415027
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.4156546083380388
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.0388601171491732
           }
@@ -223,27 +263,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.264006560855312
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.20704675142567858
+            "value": 0.09202077841141271
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.6529482752520398
+            "value": 0.29019923344535103
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.11502597301426588
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.029121343491433124
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.36274904180668877
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.03791948526117228
           }
@@ -256,27 +306,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.322194463927981
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.12172009363741575
+            "value": 0.054097819394407
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.08817170362250602
+            "value": 0.0391874238322249
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.06762227424300875
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.0003558143701927613
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.048984279790281124
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.0005372764951274769
           }
@@ -289,27 +349,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.00301016243621966
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.00261678215514618
+            "value": 0.00116301429117608
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.0070583161339237265
+            "value": 0.00313702939285499
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.0014537678639701
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.00021841977878960992
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.003921286741068737
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.00040335539287325237
           }
@@ -322,27 +392,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.108180248976017
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.09654549614121712
+            "value": 0.0429091093960965
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.24288715253418525
+            "value": 0.107949845570749
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.05363638674512062
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.003316771466418178
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.13493730696343625
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.005649950957087729
           }
@@ -355,27 +435,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 0.0052890475560055
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 0.004719388644101745
+            "value": 0.00209750606404522
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 0.011877328193431838
+            "value": 0.00527881253041415
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 0.002621882580056525
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.00016227028728609547
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 0.006598515663017688
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.00027643008556560173
           }
@@ -388,27 +478,37 @@
         "unit": "Pt",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 1.44425779976005e-7
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 1.288382408431063e-7
+            "value": 5.72614403747139e-8
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 3.24471343963068e-7
+            "value": 1.44209486205808e-7
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 7.157680046839238e-8
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 4.431428326299113e-9
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 1.8026185775726e-7
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 7.548794962749007e-9
           }
@@ -421,27 +521,37 @@
         "unit": "kg CO2 eq",
         "values": [
           {
-            "valuechain_name": "FU1",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "EFT (small and medium-size traditional family farm)",
             "value": 6.87040368364444
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECT (large-size traditional but commercial farms)",
-            "value": 6.06343270926843
+            "value": 2.69485898189708
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Green coffee at harbour",
             "actor_name": "ECM (large-size industrialised commercial farms)",
-            "value": 15.680914969484025
+            "value": 6.9692955419929
           },
           {
-            "valuechain_name": "FU2",
+            "valuechain_name": "Roasted packaged coffee In province",
+            "actor_name": "ECT (large-size traditional but commercial farms)",
+            "value": 3.3685737273713503
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In province",
             "actor_name": "Industrial processor",
             "value": 0.2141064915683497
           },
           {
-            "valuechain_name": "FU3",
+            "valuechain_name": "Roasted packaged coffee In Luanda",
+            "actor_name": "ECM (large-size industrialised commercial farms)",
+            "value": 8.711619427491126
+          },
+          {
+            "valuechain_name": "Roasted packaged coffee In Luanda",
             "actor_name": "Industrial processor",
             "value": 0.6142452513465049
           }
