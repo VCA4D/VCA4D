@@ -1,0 +1,360 @@
+{
+  "id": "cocoa-sierra-leone",
+  "country": "sierra-leone",
+  "commodity": "cocoa",
+  "year": 2025,
+  "localCurrency": "MSLE",
+  "targetCurrency": "SLL",
+  "currencyRatio": 1000000,
+  "type": "eco",
+  "ecoData": {
+    "macroData": {
+      "giniIndex": 0.62,
+      "FTE_Definition": 320,
+      "rateOfIntegration": 0.885,
+      "publicFundsBalance": 0.006,
+      "valueAddedShareNationalGdp": 0.018000000000000002,
+      "valueAddedShareAgriculturalGdp": 0.04,
+      "domesticResourceCostRatio": 0.1,
+      "nominalProtectionCoefficient": 0.98
+    },
+    "stages": [
+      {
+        "name": "Producers",
+        "description": "Cocoa is produced by small and large farm. Small farms (less than 5 acres) have older tree (above 40 years), low yield, with limited prospects for both divsresification and renovation of the trees, while small farm managed by younger farmers are more dynamic (intercropping with banana or plantains) but face constraints in investing in new cooca trees. Large farm groupes farmer that managed their orchdad efficiently, more commercially oriented,  with younger trees or under renovation",
+        "index": 0
+      },
+      {
+        "name": "Collectors",
+        "description": "Cocoa is collected by cooperative, 30% of the volume, while the bulk is gathred by individual agents (60% of the volume) and individual dealers (10% of the volume). ",
+        "index": 1
+      },
+      {
+        "name": "Processors",
+        "description": "n.a.",
+        "index": 2
+      },
+      {
+        "name": "Wholesellers",
+        "description": "Cocoa is then exported  by 20 licensed exporters, who channel the beans ",
+        "index": 3
+      },
+      {
+        "name": "Retailers",
+        "description": "n.a.",
+        "index": 4
+      },
+      {
+        "name": "End use",
+        "description": "Tthe international market si  dominated by the Netherlands while the national market accounts for less than 1% of the total volume",
+        "index": 5
+      }
+    ],
+    "actors": [
+      {
+        "name": "Smallholder Prod",
+        "stage": "Producers",
+        "id": 15,
+        "numberOfActors": 41615.78999589355,
+        "directAddedValue": 1264,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 1043.3194766198208,
+        "totalCosts": 222.8325173273809,
+        "receivedAddedValue": 1042,
+        "employment": {
+          "tempMale": 2493936.01381636,
+          "tempFemale": 1662624.00921091,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Larger Smallholder Prod",
+        "stage": "Producers",
+        "id": 16,
+        "numberOfActors": 5492.434677408512,
+        "directAddedValue": 638,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 594.6628941836119,
+        "totalCosts": 44.88508748664522,
+        "receivedAddedValue": 595,
+        "employment": {
+          "tempMale": 498712.730707352,
+          "tempFemale": 332475.153804901,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Cooperative",
+        "stage": "Collectors",
+        "id": 17,
+        "numberOfActors": 33.333333333333336,
+        "directAddedValue": 81,
+        "publicFundsBalance": 0.2000000017384683,
+        "netOperatingProfit": 77.91996210192613,
+        "totalCosts": 702.0800251824159,
+        "receivedAddedValue": 78,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 33666.6653553645,
+          "unskilledFemale": 5611.11089256074,
+          "skilledMale": 0,
+          "skilledFemale": 2244.4443570243
+        }
+      },
+      {
+        "name": "Individual Agent",
+        "stage": "Collectors",
+        "id": 18,
+        "numberOfActors": 2499.999900658929,
+        "directAddedValue": 160,
+        "publicFundsBalance": 1.250000059371812,
+        "netOperatingProfit": 150.85001257830527,
+        "totalCosts": 1409.1500196082006,
+        "receivedAddedValue": 151,
+        "employment": {
+          "tempMale": 60000.0005215406,
+          "tempFemale": 30000.0002607703,
+          "unskilledMale": 25000.0002173086,
+          "unskilledFemale": 12500.0001086543,
+          "skilledMale": 0,
+          "skilledFemale": 1275.00001108274
+        }
+      },
+      {
+        "name": "Individual Dealer",
+        "stage": "Collectors",
+        "id": 19,
+        "numberOfActors": 2000,
+        "directAddedValue": 99,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 98.59999408945419,
+        "totalCosts": 161.3999963738023,
+        "receivedAddedValue": 99,
+        "employment": {
+          "tempMale": 9599.9997574836,
+          "tempFemale": 6399.9998383224,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Exporter",
+        "stage": "Wholesellers",
+        "id": 20,
+        "numberOfActors": 12.048192771084338,
+        "directAddedValue": 575,
+        "publicFundsBalance": 80,
+        "netOperatingProfit": 488.3328073067844,
+        "totalCosts": 2711.6672662295455,
+        "receivedAddedValue": 488,
+        "employment": {
+          "tempMale": 53204.8179442624,
+          "tempFemale": 26602.4089721312,
+          "unskilledMale": 22168.6741434427,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "World Market",
+        "stage": "End use",
+        "id": 21,
+        "receivedAddedValue": 0
+      }
+    ],
+    "consistencyDisplay": {
+      "employment": {
+        "contractRatio": true,
+        "genderRatio": true
+      }
+    },
+    "flows": [
+      {
+        "sellerActorName": "Smallholder Prod",
+        "buyerActorName": "Individual Agent",
+        "volumeExchanged": 6777,
+        "monetaryValue": 786132000,
+        "unitPrice": 116000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Smallholder Prod",
+        "buyerActorName": "Cooperative",
+        "volumeExchanged": 3388,
+        "monetaryValue": 389620000,
+        "unitPrice": 115000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Smallholder Prod",
+        "buyerActorName": "Individual Dealer",
+        "volumeExchanged": 1130,
+        "monetaryValue": 90400000,
+        "unitPrice": 80000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Larger Smallholder Prod",
+        "buyerActorName": "Individual Agent",
+        "volumeExchanged": 3423,
+        "monetaryValue": 397068000,
+        "unitPrice": 116000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Larger Smallholder Prod",
+        "buyerActorName": "Cooperative",
+        "volumeExchanged": 1712,
+        "monetaryValue": 196880000,
+        "unitPrice": 115000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Larger Smallholder Prod",
+        "buyerActorName": "Individual Dealer",
+        "volumeExchanged": 570,
+        "monetaryValue": 45600000,
+        "unitPrice": 80000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Cooperative",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 5100,
+        "monetaryValue": 663000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Cooperative",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 900,
+        "monetaryValue": 117000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Individual Agent",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 10200,
+        "monetaryValue": 1326000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Individual Agent",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 1800,
+        "monetaryValue": 234000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Individual Dealer",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 1700,
+        "monetaryValue": 221000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Individual Dealer",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 300,
+        "monetaryValue": 39000000,
+        "unitPrice": 130000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      },
+      {
+        "sellerActorName": "Exporter",
+        "buyerActorName": "World Market",
+        "volumeExchanged": 20000,
+        "monetaryValue": 3200000000,
+        "unitPrice": 160000,
+        "volumeUnit": "Ton",
+        "product": "Dry cocoa beans"
+      }
+    ],
+    "addedValue": {
+      "landOwnersFees": 0,
+      "depreciation": 15,
+      "employeeWages": 268,
+      "financialInstitutionsInterests": 0,
+      "government": 81
+    },
+    "importExport": {
+      "import": [
+        {
+          "label": "A_IMPORTED COCOA",
+          "importExport": "Import",
+          "amount": 336
+        },
+        {
+          "label": "Diesel",
+          "importExport": "Import",
+          "amount": 5
+        },
+        {
+          "label": "Electricity",
+          "importExport": "Import",
+          "amount": 0
+        },
+        {
+          "label": "Transport",
+          "importExport": "Import",
+          "amount": 11
+        },
+        {
+          "label": "Others",
+          "importExport": "Import",
+          "amount": 0
+        }
+      ],
+      "export": [
+        {
+          "label": "Cocoa",
+          "importExport": "export",
+          "amount": 3200
+        }
+      ]
+    },
+    "farmToFinalPricesRatio": [
+      {
+        "label": "Farmer, Coop, Export",
+        "farmPrice": 0.115,
+        "farmProduct": "Cocoa bean",
+        "endPrice": 0.16,
+        "endProducts": "Cocoa Bean"
+      },
+      {
+        "label": "Farmer, Individual dealer, Export",
+        "farmPrice": 0.08,
+        "farmProduct": "Cocoa bean",
+        "endPrice": 0.16,
+        "endProducts": "Cocoa Bean"
+      }
+    ]
+  }
+}
