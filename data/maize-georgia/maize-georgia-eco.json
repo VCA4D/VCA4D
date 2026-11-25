@@ -1,0 +1,518 @@
+{
+  "id": "maize-georgia",
+  "country": "georgia",
+  "commodity": "maize",
+  "year": 2024,
+  "localCurrency": "GEL",
+  "targetCurrency": "GEL",
+  "currencyRatio": 1,
+  "type": "eco",
+  "ecoData": {
+    "macroData": {
+      "giniIndex": 0.69,
+      "FTE_Definition": 280,
+      "rateOfIntegration": 0.732,
+      "publicFundsBalance": 0.000001,
+      "valueAddedShareNationalGdp": 0.002,
+      "valueAddedShareAgriculturalGdp": 0.02,
+      "domesticResourceCostRatio": 0.18,
+      "nominalProtectionCoefficient": 1.01
+    },
+    "stages": [
+      {
+        "name": "Producers",
+        "description": "Maize farmers are classified into 4 categories. Micro farms (<0.5 ha), mainly in western regions, are subsistence-oriented, using low inputs and family labour. Small farms (around 1 ha) dominate much of the western lowlands  and account for about 50% of total maize production and sell part of their output through informal or semi-formal markets. Medium-scale farms (around 10 ha), largely in Eastern Georgia, operate under more commercial conditions, often with monocropping. Yellow hybrid maize dominates, with production split between grain for sale and silage for livestock. Irrigation is common, especially furrow systems. Large-scale farms (around 50 ha), also concentrated in the east, are highly capitalized, with the highest yields. They primarily grow yellow hybrid maize, selling most grain through traders while using silage on-farm.  Some farm produce maize for silage either for own use or for selling to cattle rasier.",
+        "index": 0
+      },
+      {
+        "name": "Collectors",
+        "description": "Collectors",
+        "index": 1
+      },
+      {
+        "name": "Processors",
+        "description": "Millers are the main recipients of white maize grain, which they process into flour\r\nThese actors are typically small-scale artisanal and carry out milling activities using basic equipment, generally powered with electricity. Industrial mills for food process wheat.",
+        "index": 2
+      },
+      {
+        "name": "Wholesellers",
+        "description": "large traders market  both domestically produced and imported maize grain, supplying feed mills industry",
+        "index": 3
+      },
+      {
+        "name": "Retailers",
+        "description": "Flour is retailed through wet markte stall and shops (not inculded in the analysis)",
+        "index": 4
+      },
+      {
+        "name": "End use",
+        "description": "Withe flour maize is prepared for consummers, yellow maize is sold to feedmill, sileage is sold direrctly by farmers to cattle raisers",
+        "index": 5
+      }
+    ],
+    "actors": [
+      {
+        "name": "Medium-scale Farmer",
+        "stage": "Producers",
+        "id": 15,
+        "numberOfActors": 575.0862068965517,
+        "directAddedValue": 10244533,
+        "publicFundsBalance": 800520,
+        "netOperatingProfit": 7139486.136363626,
+        "totalCosts": 14541263.863636374,
+        "receivedAddedValue": 7139486,
+        "employment": {
+          "tempMale": 1175.6792947713413,
+          "tempFemale": 842.2980132678938,
+          "unskilledMale": 666.2505405014249,
+          "unskilledFemale": 954.670687904639,
+          "skilledMale": 0,
+          "skilledFemale": 555.2765782568749
+        }
+      },
+      {
+        "name": "Large-scale Farmer",
+        "stage": "Producers",
+        "id": 16,
+        "numberOfActors": 66.29368932038835,
+        "directAddedValue": 9460540,
+        "publicFundsBalance": 405598.05,
+        "netOperatingProfit": 5424589.402776489,
+        "totalCosts": 12328860.597223511,
+        "receivedAddedValue": 5424589,
+        "employment": {
+          "tempMale": 8300.901514533094,
+          "tempFemale": 0,
+          "unskilledMale": 2016.0309968085742,
+          "unskilledFemale": 2888.771688067697,
+          "skilledMale": 3225.472419808862,
+          "skilledFemale": 5600.769685640164
+        }
+      },
+      {
+        "name": "Micro Farmer",
+        "stage": "Producers",
+        "id": 21,
+        "numberOfActors": 120146.5172413793,
+        "directAddedValue": 29385129,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 29385128.79330983,
+        "totalCosts": 14153470.608539836,
+        "receivedAddedValue": 29385129,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Small Farmer",
+        "stage": "Producers",
+        "id": 22,
+        "numberOfActors": 33578.27244582043,
+        "directAddedValue": 59981305,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 40883717.66497659,
+        "totalCosts": 52342196.19991996,
+        "receivedAddedValue": 40883718,
+        "employment": {
+          "tempMale": 26444.84854426036,
+          "tempFemale": 0,
+          "unskilledMale": 44958.42144712212,
+          "unskilledFemale": 10736.823325698344,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Miller",
+        "stage": "Processors",
+        "id": 23,
+        "numberOfActors": 7431.181818181818,
+        "directAddedValue": 22987854,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 22441656.440836824,
+        "totalCosts": 103592481.46913819,
+        "receivedAddedValue": 22441656,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 1632.7948780108488,
+          "unskilledFemale": 2105.6691830042337,
+          "skilledMale": 130.61641743216512,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Silage Farm",
+        "stage": "Processors",
+        "id": 29,
+        "numberOfActors": 56,
+        "directAddedValue": 15792000,
+        "publicFundsBalance": 369600,
+        "netOperatingProfit": 10074512.002563477,
+        "totalCosts": 13025487.997436523,
+        "receivedAddedValue": 10074512,
+        "employment": {
+          "tempMale": 31098.546042003232,
+          "tempFemale": 0,
+          "unskilledMale": 0,
+          "unskilledFemale": 0,
+          "skilledMale": 21146.87465670658,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Small-med trader",
+        "stage": "Wholesellers",
+        "id": 17,
+        "numberOfActors": 149.88235294117646,
+        "directAddedValue": 6336239,
+        "publicFundsBalance": 0,
+        "netOperatingProfit": 3512634.987428568,
+        "totalCosts": 63968093.01257143,
+        "receivedAddedValue": 3512635,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 15323.637411982698,
+          "unskilledFemale": 14638.164090616785,
+          "skilledMale": 0,
+          "skilledFemale": 0
+        }
+      },
+      {
+        "name": "Large trader",
+        "stage": "Wholesellers",
+        "id": 28,
+        "numberOfActors": 3.9,
+        "directAddedValue": 1631568,
+        "publicFundsBalance": 16532.62008547008,
+        "netOperatingProfit": 508785.640811967,
+        "totalCosts": 17187234.35918803,
+        "receivedAddedValue": 508786,
+        "employment": {
+          "tempMale": 0,
+          "tempFemale": 0,
+          "unskilledMale": 1341.4029312765688,
+          "unskilledFemale": 0,
+          "skilledMale": 2682.6584642425573,
+          "skilledFemale": 2235.9445417707757
+        }
+      },
+      {
+        "name": "End user-yellow maize",
+        "stage": "End use",
+        "id": 18,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "Exporter",
+        "stage": "End use",
+        "id": 19,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "End user-silage",
+        "stage": "End use",
+        "id": 20,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "End user-flour",
+        "stage": "End use",
+        "id": 24,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "Animal Farms ",
+        "stage": "End use",
+        "id": 25,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "End user-cob",
+        "stage": "End use",
+        "id": 26,
+        "receivedAddedValue": 0
+      },
+      {
+        "name": "End-user feed company",
+        "stage": "End use",
+        "id": 27,
+        "receivedAddedValue": 0
+      }
+    ],
+    "consistencyDisplay": {
+      "employment": {
+        "contractRatio": true,
+        "genderRatio": true
+      }
+    },
+    "flows": [
+      {
+        "sellerActorName": "Medium-scale Farmer",
+        "buyerActorName": "Small-med trader",
+        "volumeExchanged": 26016.9,
+        "monetaryValue": 16910985,
+        "unitPrice": 650,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Medium-scale Farmer",
+        "buyerActorName": "Large trader",
+        "volumeExchanged": 6671,
+        "monetaryValue": 4336150,
+        "unitPrice": 650,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Large-scale Farmer",
+        "buyerActorName": "Small-med trader",
+        "volumeExchanged": 21304.14,
+        "monetaryValue": 13847691,
+        "unitPrice": 650,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Large-scale Farmer",
+        "buyerActorName": "Large trader",
+        "volumeExchanged": 5462.6,
+        "monetaryValue": 3550690.0000000005,
+        "unitPrice": 650,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Small-med trader",
+        "buyerActorName": "End-user feed company",
+        "volumeExchanged": 50960,
+        "monetaryValue": 30576000,
+        "unitPrice": 600,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Small-med trader",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 5040,
+        "monetaryValue": 3780000,
+        "unitPrice": 750,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Small-med trader",
+        "buyerActorName": "End user-yellow maize",
+        "volumeExchanged": 47321.04,
+        "monetaryValue": 33124728,
+        "unitPrice": 700,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Micro Farmer",
+        "buyerActorName": "Miller",
+        "volumeExchanged": 26725.44,
+        "monetaryValue": 32070528,
+        "unitPrice": 1200,
+        "volumeUnit": "Ton",
+        "product": "WMaize"
+      },
+      {
+        "sellerActorName": "Micro Farmer",
+        "buyerActorName": "End user-cob",
+        "volumeExchanged": 3484249,
+        "monetaryValue": 1393699.6207677424,
+        "unitPrice": 0.4000000059604645,
+        "volumeUnit": "Unitairy",
+        "product": "Cob"
+      },
+      {
+        "sellerActorName": "Small Farmer",
+        "buyerActorName": "Miller",
+        "volumeExchanged": 55018.4,
+        "monetaryValue": 66022080,
+        "unitPrice": 1200,
+        "volumeUnit": "Ton",
+        "product": "WMaize"
+      },
+      {
+        "sellerActorName": "Small Farmer",
+        "buyerActorName": "End user-cob",
+        "volumeExchanged": 10845782,
+        "monetaryValue": 4338312.864645898,
+        "unitPrice": 0.4000000059604645,
+        "volumeUnit": "Unitairy",
+        "product": "Cob"
+      },
+      {
+        "sellerActorName": "Small Farmer",
+        "buyerActorName": "Animal Farms ",
+        "volumeExchanged": 7139.52,
+        "monetaryValue": 4997664,
+        "unitPrice": 700,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Miller",
+        "buyerActorName": "End user-flour",
+        "volumeExchanged": 7431.25813148438,
+        "monetaryValue": 2229377.439445314,
+        "unitPrice": 300,
+        "volumeUnit": "Ton",
+        "product": "Bran"
+      },
+      {
+        "sellerActorName": "Miller",
+        "buyerActorName": "End user-flour",
+        "volumeExchanged": 74312.5802075,
+        "monetaryValue": 123804758.62569499,
+        "unitPrice": 1666,
+        "volumeUnit": "Ton",
+        "product": "Flour"
+      },
+      {
+        "sellerActorName": "Large trader",
+        "buyerActorName": "End-user feed company",
+        "volumeExchanged": 13650,
+        "monetaryValue": 8190000,
+        "unitPrice": 600,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Large trader",
+        "buyerActorName": "Exporter",
+        "volumeExchanged": 1350,
+        "monetaryValue": 1012500,
+        "unitPrice": 750,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Large trader",
+        "buyerActorName": "End user-yellow maize",
+        "volumeExchanged": 12133.6,
+        "monetaryValue": 8493520,
+        "unitPrice": 700,
+        "volumeUnit": "Ton",
+        "product": "YMaize"
+      },
+      {
+        "sellerActorName": "Silage Farm",
+        "buyerActorName": "End user-silage",
+        "volumeExchanged": 25200,
+        "monetaryValue": 6930000,
+        "unitPrice": 275,
+        "volumeUnit": "Ton",
+        "product": "Silage"
+      }
+    ],
+    "addedValue": {
+      "landOwnersFees": 1110936,
+      "depreciation": 2722522,
+      "employeeWages": 13603093,
+      "financialInstitutionsInterests": 17419856,
+      "government": 1592250
+    },
+    "importExport": {
+      "import": [
+        {
+          "label": "AG_INPUT",
+          "importExport": "Import",
+          "amount": 4977593
+        },
+        {
+          "label": "Diesel",
+          "importExport": "Import",
+          "amount": 8929733
+        },
+        {
+          "label": "Electricity",
+          "importExport": "Import",
+          "amount": 264220
+        },
+        {
+          "label": "Water",
+          "importExport": "Import",
+          "amount": 466537
+        },
+        {
+          "label": "YMaize",
+          "importExport": "Import",
+          "amount": 27690000
+        },
+        {
+          "label": "FARM_SER",
+          "importExport": "Import",
+          "amount": 3208255
+        },
+        {
+          "label": "Milling",
+          "importExport": "Import",
+          "amount": 0
+        },
+        {
+          "label": "Repairing",
+          "importExport": "Import",
+          "amount": 205100
+        },
+        {
+          "label": "Transport",
+          "importExport": "Import",
+          "amount": 1739323
+        },
+        {
+          "label": "Others",
+          "importExport": "Import",
+          "amount": 539239
+        }
+      ],
+      "export": [
+        {
+          "label": "Yellow maize",
+          "importExport": "Export",
+          "amount": 4792500
+        }
+      ]
+    },
+    "farmToFinalPricesRatio": [
+      {
+        "label": "Micro and Small farm to flour maize user",
+        "farmPrice": 1200,
+        "farmProduct": "White maize",
+        "endPrice": 1543,
+        "endProducts": "Maize flour+bran"
+      },
+      {
+        "label": "Medium scale and large farm to feed mill",
+        "farmPrice": 650,
+        "farmProduct": "Yellow maize",
+        "endPrice": 700,
+        "endProducts": "Yellow maize"
+      },
+      {
+        "label": "Medium scale and large farm to feed mill",
+        "farmPrice": 650,
+        "farmProduct": "Yellow maize",
+        "endPrice": 750,
+        "endProducts": "Yellow maize"
+      },
+      {
+        "label": "Silage maize farm to silage maize users",
+        "farmPrice": 275,
+        "farmProduct": "Silage maize",
+        "endPrice": 725,
+        "endProducts": "Silage maize"
+      }
+    ]
+  }
+}
